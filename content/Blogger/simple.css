@@ -1,8 +1,4 @@
-body { //TEST simple
-    font-style: normal;
-   font-weight: normal;
-   font-family: 'EB Garamond', serif; // from "Google Fonts" service
-   font-size: 1.2rem; // 120% of browser setting, because bigger is better
-     color: #6f6f6f;
-     //background: $(body.background); // mountains
+body { 
+    // TEST simpl
+    color: pink;
 }
