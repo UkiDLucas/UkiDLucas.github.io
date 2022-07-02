@@ -1,4 +1,12 @@
 #page-skin-1 body { 
     // TEST simpl
     color: pink;
+    
+}
+
+
+.Header h1 {
+
+   font-size: 4rem;
+
 }
