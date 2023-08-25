@@ -21,9 +21,18 @@ We humans have an "**illusion**" of **time** **dimension** and the illusion of *
 
 In reality, there is a multi-dimensional matrix of **vibrations** that underpin what we perceive as space-time, matter (things) and events that are happening. The happening of the events gives us a sense of time.
 
-This **matrix** can be **stable**, or it can **bend**, creating **gravity holes**, in extreme, but common cases it can loop on itself. 
+This **matrix** can be **stable**, or it can **bend**, creating **gravity holes**, in extreme, but common cases, it can loop on itself. 
 
-Objects can be entangled by sharing properties of this matrix and in some cases the distance and time can be non-consequential, in which case see perceive the two particles as behaving the same even when separated by light-years of travel.
+Objects can be **entangled** by sharing properties of this matrix and in some cases the distance and time can be **non-consequential**, in which case see perceive the two particles as behaving the same even when separated by light-years of travel.
+
+#### Q: What role does measurement play in entanglement?
+
+A: Measurement plays a crucial role in entanglement. When you measure one particle of an entangled pair (or set), the outcome determines the state of the other particle instantaneously. However, until the measurement is made, the particles exist in a superposition of states, and the outcome is fundamentally probabilistic.
+
+#### Q: How do we ensure validity of the probabilistic set of entangled particles?
+
+If we were to consider only a pair of entangled particles, the probability of a message would be low. The stability of the quantum particles is low.  
+By using a large set of entangled particles we decrease the error and increase the certainty of the message. 
 
 
 #### Q: How are different types of neutrinos distinguished?
