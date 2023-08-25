@@ -3,11 +3,8 @@
 # Quanta Qualia AI
 
 
-QuantaQualiaAI is an avant-garde technology project pioneering a new frontier in quantum computing and communication exploring entangled particles such as "traditional" electrons, ions, photons or even neutrinos. 
+QuantaQualiaAI is a project pioneering a new frontier in quantum computing and communication exploring entangled particles such as "traditional" electrons, ions, photons or even neutrinos. 
 
-#### Quick qubit "spoiler alert"
-
-With a groundbreaking approach that involves creating neutrinos in the lab through micro black hole events, this project is exploring a novel method of transmitting and encoding information across unlimited distances, instantly.
 
 
 ## Understanding Quantum Mechanics and Quantum Computing 
@@ -17,9 +14,10 @@ The field of Quantum mechanics and computing are very poorly understood even in 
 
 #### Q: How is it possible for particles to instantly interact over vast distances?
 
-We humans have an "**illusion**" of **time** **dimension** and the illusion of **space** and let me throw the **gravity** to the mix, too.
+We humans have an "**illusion**" of **time** **dimension** and the illusion of **space**. Let me throw the **gravity** to the mix, too.
 
-In reality, there is a multi-dimensional matrix of **vibrations** that underpin what we perceive as space-time, matter (things) and events that are happening. The happening of the events gives us a sense of time.
+In reality, there is a multi-dimensional matrix of **vibrations** that underpin what we perceive as space-time or the matter (in another words, the things). 
+The time is perceived only in context of events that we "perceive".
 
 This **matrix** can be **stable**, or it can **bend**, creating **gravity holes**, in extreme, but common cases, it can loop on itself. 
 
