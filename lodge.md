@@ -13,13 +13,22 @@ We end up in **echo chambers** without the objective voice of a friendly mentor.
 
 I was thinking how many years, if not decades, I lost because I had no one to guide me. 
 
-At the same time, I started to think about creating a **social club** or a **meetup** for like-minded technology professionals. I am fortunate to live in the Pacific North West in the heart of a technology hub.  
+At the same time, I started to think about creating a **social club** or a **meetup** for like-minded technology professionals. I am fortunate to live in the Pacific Northwest in the heart of a technology hub.  
 
 You might ask who I am to think of a new group instead of joining an existing one. 
 
 First, I did not find what I wanted. 
 
 Second, I have a very long history of organizing people. When I was younger, in Chicago, for over ten years, I have been running the Google Technology Group with many thousands of  members and over 110 meetups organized, many of them having over 120 participants. It was a great time in the pre-pandemic era.
+
+As far as the goals of the group, I listed the following:
+
+- **mentorship**
+- friendly but **intellectual** conversations
+- technical and **scientific** idea exchange
+- **personal development**, especially in areas not often discussed, such as **habits** and **virtues** like **humanity**, **persistence**, **being humble**, **prudence**, and many others.
+
+
 
 
 
