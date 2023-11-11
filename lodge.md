@@ -30,6 +30,12 @@ As far as the goals of the group, I listed the following:
 
 I also wanted to ensure that the group is inclusive without **any bias** regarding **race**, **religion**, **gender**, or **political** outlook. 
 
+There was also a question of narrowing the focus and purpose of the group.
+
+I am hoping to create this organization for a particular type of people, namely **technology architects** and **scientists**. 
+
+I know the term "technology architects" is an tautology, but this is how I can make it understandable.
+
 
 
 
