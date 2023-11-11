@@ -19,7 +19,7 @@ You might ask who I am to think of a new group instead of joining an existing on
 
 First, I did not find what I wanted. 
 
-Second, I have a very long history of organizing people. When I was younger, in Chicago, for over ten years, I have been running the Google Technology Group with many thousands of  members and over 110 meetups organized, many of them having over 120 participants. It was a great time in the pre-pandemic era.
+Second, I have a very long history of organizing people. When I was younger, in Chicago, for over ten years, I have been running the Google Technology Group with many thousands of  members and over 110 conferences and meetups organized, many of them having over 120 participants. It was a great time in the pre-pandemic era.
 
 As far as the goals of the group, I listed the following:
 
@@ -27,6 +27,10 @@ As far as the goals of the group, I listed the following:
 - friendly but **intellectual** conversations
 - technical and **scientific** idea exchange
 - **personal development**, especially in areas not often discussed, such as **habits** and **virtues** like **humanity**, **persistence**, **being humble**, **prudence**, and many others.
+
+I also wanted to ensure that the group is inclusive without **any bias** regarding **race**, **religion**, **gender**, or **political** outlook. 
+
+
 
 
 
