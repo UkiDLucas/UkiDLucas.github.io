@@ -5,5 +5,11 @@ In these interviews, I realized what I already knew but was suppressed because o
 The realization is that we all need **mentorship**.
 
 You needed mentorship and apprenticeships in the old days because the information was unavailable. 
-Today, with easy access to libraries, the Internet, and ChatGPT, you can have an AI mentor in any subject, whether it is a foreign language, leadership, philosophy, or technical skill.
+
+Today, with easy access to libraries, the Internet, and ChatGPT, you can have an AI mentor in any subject, whether for a foreign language, leadership, philosophy, or technical skill.
+
+So why did the idea come back to me? We lost something; we spend more time **alone**, browse the Internet, and get into its **rabbit holes**. 
+We end up in **echo chambers** without the objective voice of a friendly person.
+
+
 
