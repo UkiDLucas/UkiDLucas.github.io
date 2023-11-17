@@ -1,5 +1,5 @@
-Welcome to Uki's notes..
+https://www.mkdocs.org/dev-guide/themes/
+https://about.readthedocs.com/?ref=readthedocs.org
 
-- [Society of Architects, Pacific Northwest Field Lodge](lodge.md)
 
-- [AI and 3D sensors](https://ukidlucas.github.io/AI_3D.md)
+https://sphinx-rtd-theme.readthedocs.io/en/stable/demo/demo.html#math

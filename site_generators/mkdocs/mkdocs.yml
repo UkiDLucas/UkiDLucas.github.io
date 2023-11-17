@@ -1,5 +1,16 @@
-site_name: MkLorum
+site_name: Uki's writings
 site_url: https://example.com/
 nav:
-  - Home: index.md
-  - About: about.md
+  - Lodge: lodge.md
+  - AI 3D: AI_3D.md 
+  - Your Career Roadmap: Career-Path.md
+  - Volunteer Work: Volunteer-Work.md
+  - Quant Qualia: Quanta_Qualia_AI.md
+
+  - Example MarkDown: example.md
+
+#theme: bootswatch
+#theme: yeti
+theme: readthedocs
+#theme: alabaster
+#theme: ivory
