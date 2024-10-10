@@ -7,6 +7,9 @@ redirect_from:
   - /markdown.html
 ---
 
+Open markdown.md in the text editor as you are reading it.
+
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
@@ -25,7 +28,7 @@ redirect_from:
 ## Tips and hints
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
+* Go to the [Actions](https://github.com/UkiDLucas/UkiDLucas.github.io/actions) to find the last version Github built with Jekyll. 
   * Green check: successful build
   * Orange circle: building
   * Red X: error
@@ -75,13 +78,37 @@ Single line blockquote:
 
 ## Tables
 
-### Table 1
+### Obsidian Markdown vs GitHub Flavored Markdown (GFM)
+Here's the comparison table between Obsidian Markdown and GitHub Flavored Markdown (GFM), written in Markdown table notation:
 
-| Entry            | Item   |                                                              |
-| --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+
+| **Feature**                     | **Obsidian Markdown**                                         | **GitHub Flavored Markdown (GFM)**                           |
+|----------------------------------|---------------------------------------------------------------|--------------------------------------------------------------|
+| **Basic Markdown Syntax**        | Fully supported (Headings, bold, italics, lists, etc.)         | Fully supported (Headings, bold, italics, lists, etc.)        |
+| **Task Lists**                   | Supported with `[ ]` (unchecked) and `[x]` (checked)           | Supported with `- [ ]` (unchecked) and `- [x]` (checked)      |
+| **Internal Links**               | Supports `[[Page Name]]` for linking between notes             | Not supported (uses `[text](url)`)                            |
+| **Embeds**                       | Supports embedding notes, images, and PDFs via `![[Page Name]]`| GFM supports embedding images, not notes or PDFs              |
+| **Footnotes**                    | Supported with `[^1]` and defined later `[^1]: Footnote text`  | Supported using the same syntax                               |
+| **Tables**                       | Fully supported                                                | Fully supported                                               |
+| **Code Blocks**                  | Supported with backticks (\`\`\`)                              | Supported with backticks (\`\`\`) and language specification  |
+| **HTML Support**                 | Supports inline HTML                                           | Supports inline HTML                                          |
+| **Checklists (Task Tracking)**   | `- [ ] Task` and `- [x] Task` are supported and interactive    | `- [ ] Task` and `- [x] Task` supported but not interactive   |
+| **Diagrams (Mermaid)**           | Supports Mermaid diagrams with code block like: ` ```mermaid ` | Not natively supported; requires additional plugins           |
+| **Math and LaTeX**               | Supports LaTeX with `$...$` for inline math, `$$...$$` for blocks | Not natively supported                                        |
+| **Wiki-style Links**             | Supported with `[[Note Name]]` linking directly to another file| Not supported; uses standard links `[text](url)`              |
+| **Customizable Themes**          | Full support with CSS customization in Obsidian                | Limited to GitHub's predefined styles                         |
+| **Plugins and Extensions**       | Extensive plugin system for additional features                | No native plugin system                                       |
+| **Inline Links with Aliases**    | `[[Page Name|Custom Alias]]` for linking with custom text      | `[Alias](URL)` for custom link text                           |
+| **Code Syntax Highlighting**     | Supported with language identifiers (e.g., ` ```python `)      | Supported with language identifiers                           |
+| **Strikethrough**                | Supported with `~~text~~`                                      | Supported with `~~text~~`                                     |
+| **Blockquotes**                  | Supported with `>`                                             | Supported with `>`                                            |
+| **YAML Front Matter**            | Supported for metadata at the top of the file                  | Supported for metadata at the top of the file                 |
+| **Task Prioritization**          | Obsidian allows task priority with plugins                     | Not natively supported                                        |
+| **Collapsible Sections**         | Supported with plugins (e.g., "Foldable headings")             | Not supported natively                                        |
+| **Drag-and-Drop Embedding**      | Supported for images, PDFs, and more                           | Not supported                                                 |
+
+
+
 
 ### Table 2
 
