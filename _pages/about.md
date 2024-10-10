@@ -10,7 +10,8 @@ author:
 ---
 
  
- # Academic Pages
+ ## Academic Pages
  
+ Powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages 
+ by R. Stuart Geiger https://stuartgeiger.com/
  
- Powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages.
