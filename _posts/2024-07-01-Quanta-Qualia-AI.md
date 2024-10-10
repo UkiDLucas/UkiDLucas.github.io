@@ -3,6 +3,10 @@ layout: blog-post
 author: Uki D. Lucas
 title: Quanta Qualia AI
 except: TBD
+
+toc: true
+toc_label: "Table of Contents"  # Optional, change TOC title
+toc_icon: "cog"  # Optional, Font Awesome icon
 ---
 
 # Quanta Qualia AI
