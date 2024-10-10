@@ -2,6 +2,11 @@
 permalink: /markdown/
 title: "Markdown"
 author_profile: true
+
+toc: true
+toc_label: "Table of Contents"  # Optional, change TOC title
+toc_icon: "cog"  # Optional, Font Awesome icon
+
 redirect_from: 
   - /md/
   - /markdown.html
