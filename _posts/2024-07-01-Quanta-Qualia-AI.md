@@ -7,6 +7,11 @@ except: TBD
 toc: true
 toc_label: "Table of Contents"  # Optional, change TOC title
 toc_icon: "cog"  # Optional, Font Awesome icon
+
+tags:
+  - technology
+  - jekyll
+  - tutorials
 ---
 
 # Quanta Qualia AI
