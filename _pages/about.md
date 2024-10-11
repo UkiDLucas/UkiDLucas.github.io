@@ -9,9 +9,25 @@ author:
   - Uki D. Lucas
 ---
 
- 
- ## Academic Pages
- 
- Powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages 
- by R. Stuart Geiger https://stuartgeiger.com/
+
+<h1>Portfolio</h1>
+<ul>
+  {% for item in site.portfolio %}
+    <li>
+      <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
+
+
+
+
+<h1>Blog Posts</h1>
+<ul>
+  {% for item in site.posts %}
+    <li>
+      <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.excerpt }}
+    </li>
+  {% endfor %}
+</ul>
  
