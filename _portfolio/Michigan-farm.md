@@ -1,6 +1,6 @@
 ---
 collection: portfolio
-layout: portfolio # Or any layout you prefer
+layout: archive # portfolio (just article)
 author: Uki D. Lucas
 title: Michigan farm "Up North"
 excerpt: Dreaming about the "Up North" in retirement.
