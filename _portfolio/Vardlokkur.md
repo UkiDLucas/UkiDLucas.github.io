@@ -1,6 +1,6 @@
 ---
 collection: portfolio
-layout: portfolio # Or any layout you prefer
+layout: archive # portfolio (just article)
 author: Uki D. Lucas
 title: Vardlokkur
 excerpt: Draft book.
