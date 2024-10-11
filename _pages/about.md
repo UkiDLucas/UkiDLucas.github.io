@@ -8,7 +8,7 @@ redirect_from:
 author:
   - Uki D. Lucas
 ---
-
+<br/>
 
 <h1>Portfolio</h1>
 <ul>
@@ -19,8 +19,7 @@ author:
   {% endfor %}
 </ul>
 
-
-
+<br/>
 
 <h1>Blog Posts</h1>
 <ul>

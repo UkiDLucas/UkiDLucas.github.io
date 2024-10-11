@@ -6,6 +6,7 @@ title: Vardlokkur
 excerpt: Draft book.
 ---
 
+The editable version of this book is on [Google Docs](https://docs.google.com/document/d/17ZTd3e5NE324o1maVYV8d_yofHFzSSepwJFNm0wAQPw/edit?usp=sharing).
 
 
 ## **Table of Contents**
