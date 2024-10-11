@@ -2,7 +2,8 @@
 layout: blog-post
 author: Uki D. Lucas
 title: Quanta Qualia AI
-except: TBD
+excerpt: a project pioneering a frontier of quantum computing and communication exploring entangled particles such as "traditional" electrons, ions, photons or even neutrinos
+permalink: /posts/Quanta-Qualia/
 
 toc: true
 toc_label: "Table of Contents"  # Optional, change TOC title
