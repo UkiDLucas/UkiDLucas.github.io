@@ -13,7 +13,7 @@ This collection of posts represents my completed articles, however you can expec
 <ul>
   {% for item in site.portfolio %}
     <li>
-      <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.description }}
+      <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.excerpt }}
     </li>
   {% endfor %}
 </ul>
@@ -27,7 +27,7 @@ This collection of posts represents my completed articles, however you can expec
     <div class="portfolio-item">
       <a href="{{ item.url }}">
         <h2>{{ item.title }}</h2>
-        <p>{{ item.description }}</p>
+        <p>{{ item.excerpt }}</p>
       </a>
     </div>
   {% endfor %}
