@@ -3,7 +3,7 @@ collection: portfolio
 layout: portfolio # Or any layout you prefer
 author: Uki D. Lucas
 title: Michigan farm "Up North"
-excerpt: Some day dreaming about the "Up North" in retirement.
+excerpt: Dreaming about the "Up North" in retirement.
 ---
 
 
