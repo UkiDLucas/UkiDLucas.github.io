@@ -25,7 +25,7 @@ Stick to your **Paleo/pastoral diet**, prioritize **sleep**, and manage **stress
 Stay consistent, monitor progress with your Garmin, and you'll be on track to reach that fitness age of 32!
 
 
-![[UkiDLucas.github.io/_posts/fitness_age_44.png]]
+![[fitness_age_44.png]]
 
 
 
