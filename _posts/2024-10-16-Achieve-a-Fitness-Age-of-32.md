@@ -5,7 +5,7 @@ My guru (ChatGPT) says:
 
 ## VO2 Max Target:
 
-Aim for 50-**52** mL/kg/min through consistent endurance training (HIIT, long runs, cycling, or swimming).
+Aim for **50-52** mL/kg/min through consistent endurance training (HIIT, long runs, cycling, or swimming).
 
 ## Maintain Resting Heart Rate:
 
@@ -20,7 +20,7 @@ Keep your resting heart rate around **45 bpm** with a mix of cardio and recovery
 
 ## Body Composition:
 
-Maintain **body fat** at 14.2% or slightly lower, aiming for 1**2-14%**.
+Maintain **body fat** at 14.2% or slightly lower, aiming for **12-14%**.
 
 ## Nutrition & Recovery:
 
