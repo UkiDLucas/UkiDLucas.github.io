@@ -29,6 +29,11 @@ Stay consistent, monitor progress with your Garmin, and you'll be on track to re
 
 
 
-<img src="/images/fitness_age_44.png" alt="Garmin image" width="300" />
+<img 
+src="https://ukidlucas.github.io/images/fitness_age_44.png" 
+alt="Garmin image" 
+width="300" />
+
+
 
 
