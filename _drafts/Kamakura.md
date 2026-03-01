@@ -1,0 +1,7 @@
+#public #blogger #japanese #kamakura
+blogger_updated: Sat, 17 Jan 2026 22:36:00 +0000
+# Kamakura
+
+Published: Sat, 17 Jan 2026 22:36:00 +0000
+
+

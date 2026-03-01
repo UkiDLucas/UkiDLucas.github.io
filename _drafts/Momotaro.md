@@ -1,0 +1,7 @@
+#public #blogger #japanese #youtube
+blogger_updated: Tue, 20 Jan 2026 02:03:00 +0000
+# Momotaro
+
+Published: Tue, 20 Jan 2026 02:03:00 +0000
+
+Easy to understand Japanese story.

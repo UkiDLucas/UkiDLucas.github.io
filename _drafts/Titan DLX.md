@@ -1,0 +1,31 @@
+ #byUkiDLucas #public
+ 
+2015 ktm 250 exc 
+ honda 223cc
+
+
+I have a new Titan DLX K5-CB223, I think it is a very good motorcycle,
+it is a 7th motorcycle in my life.
+
+You have to be technical enough to put it together, it takes about 3 hours, but very pleasant activity.
+Please use blue loctite on all bolts and use provided greese on all moving surfaces (i.e. axle, suspension).
+Having a bike lift, or another adult, to put 2 suspension bolts might be required, I did it myself with my lift.
+
+I changed the oil after a first warm-up, I did not want to run it on the factory machining shavings, it is a $5 well spent.
+
+The only technical problems I had so far was making sure all electrical connectors are tight under the headlight, I also used silicone on the back of connectors to make them more water resistant. Out of the box, the instrument panel was going on/off.
+
+Another thing was to adjust cables for choke and throttle to get a nice start and idle balance, this can be done without any tools.
+I did not mess with carbulator yet, I plan to ride for a while to know why I would need the change.
+
+I like riding this bike and it is awesome forest-road machine, here in mountains of Washington state.
+
+You have to be patient with X-PRO service, they DO respond to emails overnight and really try to do well, but they had to send me the papers 3 times (!!!) as they messed up (big time) the shipment. The bike arrived rather fast and in good shape.
+They gave me a discount in the end to correct the mix-up problem.
+I cannot provide long term review just yet as it is skiing season in the mountains, and it has been raining non-stop at lower altitudes.
+
+
+
+|   |
+|---|
+|Quote:<br><br>\|   \|<br>\|---\|<br>\|Originally Posted by **tknj99** [![View Post](https://www.chinariders.net/images/buttons/viewpost.gif "View Post")](https://www.chinariders.net/showthread.php?p=367444#post367444)<br><br>Today I adjusted the valves to .004/.004. They were super tight, maybe at .001 or less.  <br>While i was at it, i fabricated a pair-valve blockoff plate and capped the vacuum line on the intake manifold. This allows easier access to work on the exhaust valve.  <br>Some notes about the valve adjustment..  <br>You can remove the side plastics and then unbolt the tank and simply slide it backwards and out of your way.  <br>I found it hard to find TDC as the mark is a fairly small vertical line. To be safe, i removed the spark plug and turned the crank until the piston was at the top of the cylinder and then cross-referenced that with the TDC line on the crank.  <br>Once i did that i could slightly wiggle the rocker arms and knew i had it.  <br>You will need to unbolt the horn mechanism and also unhook the 2 pair valve lines for in order to access the front valve.  <br>Remove the valve caps with a 15/16" open end wrench  <br>Loosen the locknuts from each valve stem.. mine were on super tight  <br>Loosen the valve stem to allow access to your feeler guage  <br>I used a deck screw with a wire cap in order to tighten the valve stem down onto the feeler guage.. thanks @JerryHawk, read that in an old post of yours  <br>Since i wanted to have them set at .004/.004, i tightened down on a .005 feeler guage and then locked the nut.. this allowed a .004 to gently slide in with slight rubbing but would not allow the .005 again, which is what you want  <br>I put everything back together and started her up, sounds nice and healthy and now i have a little leeway as they may tighten back up a bit between now and when i do again at 500mi\||

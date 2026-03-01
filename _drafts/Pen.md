@@ -1,0 +1,9 @@
+#public #blogger
+blogger_updated: Tue, 20 Jan 2026 07:49:00 +0000
+# Pen
+
+Published: Tue, 20 Jan 2026 07:49:00 +0000
+
+Writing emails with Apple pen is a new thing for me.
+
+This email will be also a blog post. Since it is very late I will stop here, but I find it interesting and rather fast.

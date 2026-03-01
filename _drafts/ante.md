@@ -1,0 +1,26 @@
+#public 
+#languages
+
+
+The Proto-Indo European (PIE) word root "ante" means "stretching over" or "extending".
+
+- Sanskrit: "antah" meaning "over"
+- Lithuanian: "ant" meaning "over"
+- Polish: "przed" meaning "before"
+- Latin: "ante" meaning "before"
+- Armenian: "անտա" (ant'a) meaning "over"
+- Persian: "انتها" (antehâ) meaning "over"
+- Esperanto: "ante" meaning "before"
+
+  
+
+Please note that the meanings of words may have evolved over time and may not be exact matches to the original PIE root.
+
+[ante-](https://www.etymonline.com/word/ante-#etymonline_v_13506 "Origin and meaning of ante-") 
+
+word-forming element meaning "before, in front of; previous, existing beforehand; introductory to," from Latin ante (prep., adv.) "before (in place or time), in front of, against," also used in compounds, from [[Proto-Indo-European (PIE)]]  [[*anti-]] "facing opposite, against," inflected form (locative singular) of root [*ant-](https://www.etymonline.com/word/*ant-?ref=etymonline_crossreference "Etymology, meaning and definition of *ant-") "front, forehead," with derivatives meaning "in front of, before."
+
+
+# references
+- https://www.etymonline.com/search?q=ante-
+- 

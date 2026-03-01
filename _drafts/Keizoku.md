@@ -1,0 +1,9 @@
+#public #blogger #japanese
+blogger_updated: Wed, 21 Jan 2026 02:07:00 +0000
+# Keizoku
+
+Published: Wed, 21 Jan 2026 02:07:00 +0000
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEgM_wUEN-A-XqobVcGcA3dQNAHtjWnYGmkscch3vqR2IQUwFEFa2pqOyiV2plvfS3xTOFJ6f1g1P-9xOBVYiBeYEarqLfGM0zDdi55WEW1hCabKNtWt-L1CFjIE5ngGpS-rLPtT4lKNAQGu6wEu0C7neO1aUdC-x1vbMxAZhU0HJEW99WzZv1wrQSDXLOQ=s320)](https://blogger.googleusercontent.com/img/a/AVvXsEgM_wUEN-A-XqobVcGcA3dQNAHtjWnYGmkscch3vqR2IQUwFEFa2pqOyiV2plvfS3xTOFJ6f1g1P-9xOBVYiBeYEarqLfGM0zDdi55WEW1hCabKNtWt-L1CFjIE5ngGpS-rLPtT4lKNAQGu6wEu0C7neO1aUdC-x1vbMxAZhU0HJEW99WzZv1wrQSDXLOQ)
+
+Keizoku (継続) means continuity, or sustained effort over time.  It is not loud persistence or visible struggle, but quiet repetition that compounds almost unnoticed.  In Japanese practice, keizoku shows up in daily training, careful habits, and small actions done even when motivation fades.  Progress is trusted to time rather than force.  What matters is not intensity, but returning again and again, calmly, without drama.  This is how skill deepens, character settles, and change becomes permanent.

@@ -1,0 +1,45 @@
+#public #blogger #ai #dnn #vl_jepa
+blogger_updated: Sat, 31 Jan 2026 05:11:00 +0000
+
+Published: Sat, 31 Jan 2026 05:11:00 +0000
+
+Recently, I came across a pivot-inducing paper written in cooperation with Yann LeCunn.
+
+The paper is about 2D vision, but working on a 3D perception (RGB camera and 3D LiDAR), I quickly interpreted it as a potential pivot inducing my thinking.
+
+Training on RGB + XYZ is a shift from naming things to understanding situations.  
+  
+  
+  
+  
+When a model sees only RGB, it mainly learns appearance. It becomes good at saying “this looks like a car” or “that looks like a tree.” These are labels, words attached to patterns. Even when the classifier is strong, the meaning is shallow. The model recognizes objects, but it does not truly understand how they exist in the world.  
+  
+  
+  
+  
+Adding XYZ changes what learning is about. Geometry forces the model to confront structure: where things are, how big they are, what they are connected to, what supports what, what blocks movement, what can be reached, and what can change. Meaning emerges from relationships, not labels. A “chair” is no longer just a texture and silhouette, it is something with a seat at a certain height, free space in front of it, a surface that can support a human body.  
+  
+  
+  
+  
+RGB + XYZ allows the model to learn affordances instead of names. It can infer that a flat horizontal surface at knee height is for sitting, even if it has never seen that exact object before. It can understand that an open volume between walls is a corridor, that a low overhang constrains motion, that a slope implies effort and risk. These are not words, they are facts about living in the world.  
+  
+  
+  
+  
+This also shifts learning from static classification to predictive understanding. With geometry, the model can reason about what will remain stable, what might move, what will collide, and what paths are possible. Meaning becomes grounded in physical consequences. A “door” matters not because of its label, but because it creates or blocks passage depending on its state.  
+  
+  
+  
+  
+In this sense, RGB + XYZ training moves perception closer to how humans and animals understand their environment. We do not first label everything we see. We first grasp space, distance, support, danger, and opportunity. Words come later, as a compressed way to communicate that understanding.  
+  
+  
+  
+  
+The deeper intuition is that language-like meaning can emerge from spatial prediction. When a model learns to predict missing geometry, occluded surfaces, and future viewpoints, it is learning what the world is like, not just how it looks. Object names become annotations on top of an already meaningful internal world model.  
+  
+  
+  
+  
+This is the real shift. RGB-only models learn to talk about images. RGB + XYZ models learn to live in a world.

@@ -1,0 +1,15 @@
+#public #blogger #anki #japanese
+blogger_updated: Tue, 20 Jan 2026 03:43:00 +0000
+# Ima
+
+Published: Tue, 20 Jan 2026 03:43:00 +0000
+
+[![](https://blogger.googleusercontent.com/img/a/AVvXsEirWLXlPnl7SUoaOA8uNHCxPMlmX95ambN88ykpiJlu_EYVy1FGVl1gBYYF1dgdaJOSBvOQVBGnN00yAexqPmx7qoBuVORl5mOheOmAmSmZHuIGKMPiMAiBOI83tjkrD_uNHE6fvoEwwb_hfrX0341K2nYCkfGrjRyJUb3-UIhQs_IXCdWG7UmW95ioG0o=s320)](https://blogger.googleusercontent.com/img/a/AVvXsEirWLXlPnl7SUoaOA8uNHCxPMlmX95ambN88ykpiJlu_EYVy1FGVl1gBYYF1dgdaJOSBvOQVBGnN00yAexqPmx7qoBuVORl5mOheOmAmSmZHuIGKMPiMAiBOI83tjkrD_uNHE6fvoEwwb_hfrX0341K2nYCkfGrjRyJUb3-UIhQs_IXCdWG7UmW95ioG0o)
+
+Attention placed fully on the present dissolves anxiety about outcomes.
+
+This phrase reminds you to act clearly now, without borrowing stress from the future.
+
+Ambition narrows awareness.
+
+Presence widens it.

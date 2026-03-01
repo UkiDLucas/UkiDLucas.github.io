@@ -1,0 +1,31 @@
+ #byUkiDLucas #public
+ 
+# How to do profitable blogging in 2024
+
+I have been blogging since 2001; yes, that is 23 years. 
+Most of that time, I was just writing notes for myself, but I ended up with 
+thousands of posts
+, generating
+ serious traffic
+ after consolidating my various blogs.
+I advocate for everyone to keep learning, as continual education is the only way to stay relevant. Recently, I also started reviewing how the PRO Bloggers do it.
+Please watch the 
+following video
+. It is insightful and promises a recurring, if not passive, revenue stream for retirement. 
+
+Adam Enfroy discusses how his multiple revenue streams produce million-dollars per year income.
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4LxnqsBm11A9mmXUk4DStW5aDSvsSzMOW9RTVYTnXi9Re3MgFayFEqmC_0o0gUNawHSDk1QK36nhIW9xMVSctrZdfW_7zLasz8Fh06Tv7ONQTCvVv8wSmDZaBdgTUpKds6X__GTCQ6l1Yldvg72Z6T_w0Q2nU28-Si6E04cLa9L_EEnHNWOW4BA/s2796/IMG_2219.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQUSUiAFUXLG7n4raHJnWHse8mvndatgN6ROn_FXN6gxXV3xQErH8MB0EtAUHnKJGM7oYV3x0PizcZXNc4wn6suUgQF8Fu6O6zdVvZ9cvHfgeFUdCzM3VJjesP5gh49KzyOwYC409RwTA5nSfytjbJdt340nQ68wAo9wb2sifAWFJvahMhYEj6Fg/s2796/IMG_2205.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjg4NEH4ZnaKgY0CGCyi9WRBP9DJLW_PmdkIw0SMDrVOgQREY5QFSRmCqosnSNY2LRCjwnHNPGD00BDsbyH6E9iqXUG63APHryhXiyD4jsghGNWoQXIUdU3tU2omZbrHdCehSnwOAPmW7CY-9RC_JMyx1R05oHQV0sVmRR3VgRcHDEVV0sPyQQo0g/s2796/IMG_2214.png)
+He speaks of "The best of X product pages" and how they keep producing monthly revenue for years.
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhvjPFnQ7a_cBg2Yf4rrlQZDRDUPxdJDnQgkdaiEveDd7scPO65ib8fje5pRKZfdWx1zET9m2erOTAAt1rhuzmg5u6rIY4o3pRXUQ0VsP9wpeiIVs7Q5cnMNo2mdQRACraDPfdUHUEsK3tkT1jMwL7hHNNUS9cXpkWgX4tkmxHliCApAdY0_B23TA/s2796/IMG_2206.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOS7XgiJjhhlJHHixyuQOxcLzJcnFsDnPOfgs9fgesvoIGXQLdeU776ZVbbbqXyOrvLuB4z71cKK79H01eOSJ-_MO-kCcRO7JczNUyfcZQA04kUG_qs0AhDi4cik7RpNqRns2YQ9SFjU14-t8E0MrkaeQR9s9Kz5rDJbnKpnP5Sqbc7CC3DIt2uw/s2796/IMG_2207.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmOSeu8wWZFqiF1HP7fWL-B7gbGobZqMzcscHVLuopXJE7gk8xwp8w5jN8UIcMfzGvM_VtEQG88Qa_Gi9t6ilK0qGYacPPDb1UVl6rdCvMJteBVswlkofJeWqtNrUszRLw8IHqv2ZqNQ8GRbcOno9B2EkAhdP9dEujT44Xr5Lc6nhwcjozef1XPw/s2796/IMG_2208.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNi4U9vt0g3RPKiGw7zgcEkm_fLAd7z4pVFfY-rBSiYSoqcwA02cVx4ThsI_w0yBjrND2Nmm8IuIY9ijzu32Rc9BiBn6455t7yNNmB8l21fEEPW-6bYlF0vMiGz2XOzq1FZhz73gvVFNphv0kT28PqvegB2Te6Pca4Dt5V7-Zc9cwvk3r9DaMT9A/s2796/IMG_2209.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhO13dhYfV9oBdCxruvZ8SLE8gKQF6Djtz3777hrSXyUNyMmVThStZY4RvvnD7HbyM6wn6HV2EuhIM8DhRFE3jBfQex1f1tA9CxV0WUtloGAMZeiHkZz0WaGu1iSghSxmYFJN55LwSS5WXVI75didRoguIZu-fA0Huy4rt3NJDNuRUBVXKDPQMRXw/s2796/IMG_2213.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI9_7ir0fQyvRghltraIvt7B3yR4ZoGxkA8Z20j4YOX2NsvibU1K4KcaexpPZIOTLtpuOSzT2iVGpds8sQpnrnSFQbBzuZNSIgmg2K9zjFySbRyG4SawNxUDFQyzJvGgRngmc88nEIaO2QXb1B3NcURQBx8PWlpwkRA7v3GT0GpEeNslMOehRpog/s2796/IMG_2215.png)
+Then he suggests his program for doing it, which is, of course, also a revenue stream for him.
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK5LVR7kjGNnpQvB7ngaf6Ya8x5CVaT8NG71Ed2FOTw7tr1MC6fclfdmn9M9hMJpjpm2B58Q7YAFjwH-R7IkydpSvf-B9IMY1vshhoOeHMJprX6HElRcQtPOdpKjM4Annp_m0VUADj66OmCWIj1ZYNhWR0Edy_CXNnotj6wF53RwkzamNWDmik8A/s2796/IMG_2220.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-p5MI90JPv1fEIp-pk4A1xiJnCb-a5xCv_rKyXiPlrZFvdHZedCzxrjWHH-XexNcfPmr4kUlY7drL6ZshM3hgScnynxkxr7OFEP8GoYLn3UapvT2IpomqF5R5_SuQDrSyqecFLa0itHhP2ZWq6pMaHmnCH0rMd0Eat3e28WgKAbq8X5-1d_G2Sg/s2796/IMG_2221.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSyrTR5gh4CFZdCtQYcEB6U0jE9ra_OBaphyphenhyphen0eiJ2lyjSXx1XWnCGj2gpDUaqmRhMmQdmBmqw58d2tR_vMoG90B4zCnvP_HpBqMNHXI8AQG49po0f0JX7x_WZ42siCdpvCXXlIdTzHLSDUWmMxXJhuZiry6_U3UGGzjCxBfUNauu-olGhnUyxg_g/s2796/IMG_2222.png)
+[](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf__2-rxlyd6-7ceRmgzKIqe_g03cAxtVWDarEGkiygbYlPz-Vm9wpG5hvRe67lu1ihQbEC4dRSqC5nCTWTGAH0HzXImkz3DYj0wzMimiwVC1FGkOJ49HU4OwoDxk11AUgNnzZI6yXSKzzBmh2mKvvxArPrgAaoMxoRmHou87jtNpJmQMwEhwKAA/s2796/IMG_2223.png)
