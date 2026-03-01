@@ -1,0 +1,61 @@
+---
+layout: single
+title: "This Is All Greek to Me"
+date: 2024-06-28
+author: Uki D. Lucas
+permalink: "/posts/this-is-all-greek-to-me/"
+excerpt: "Reflections on Greek language, history, and cultural influence across Europe."
+tags:
+  - culture
+  - greece
+  - language
+---
+
+Dear Friend
+
+“This is all Greek to me!"
+
+"This often employed, sarcastic declaration could not be more precise for an anthropologist fascinated by all nations influenced by Hellenic civilization."
+
+The bold words in the sentence above (admittedly “doctored”) originate in Greek.
+
+Indeed, sophisticated English (and Polish, for that matter) looks like Greek, with occasional native words sprinkled in.
+
+Most of these words look like Latin; they are. Latin inherited many of them from the Greeks.
+
+For Romans, Greek was the literary language of the educated class from the 3rd century B.C. For most European countries, it remained until the 20th century. That is almost 2400 years! The Greek culture is at least twice as old.
+
+Why am I writing about all of this?
+This summer, I circumnavigated Greece by car and visited major ancient and Byzantine sites. This experience made me meditate on the role of Hellenistic culture and realize how central and pivotal it is for Europe.
+
+
+Uki in Sparta
+
+I grew up in Western (Latin) culture; the predominant religion in Poland is Roman (Latin) Catholicism. Latin was an official language in Poland until almost the 19th century and Hungary until 1844. The Austro-Hungarian Empire occupied my home region from 1772 to 1918. After the World War I, the classical studies were revived. Latin and Greek were taught in secondary (college-preparatory gymnasium) until the 1980s; however, they were declining under the communist-influenced regime. It is a shame, really!
+
+One effect of Roman Catholicism was that it did not look kindly on Greeks, specifically on Byzantine Orthodox Christianity. The capital of Byzantium, the Eastern Roman Empire, was Constantinople. The glorious city was attacked and ravaged by the Western Fourth Crusade in 1204 and then attacked and weakened again in 1390. That is practically modern and still remembered history for Europeans.
+
+In other words, there is not much love between Western and Eastern Christianity.
+
+In school, we studied the basics: Greek Mythology, Homer’s Illiad, Odyssey, History by Herodotus, and ancient Greek philosophy and warfare history. I remember studying almost nothing about Byzantium (Eastern Roman Empire), which outlived the Roman Empire by a thousand years, specifically from 476 AD until 1453 AD when it fell to Ottoman Turks.
+
+In the future, I plan to write about Greek culture and language:
+
+I compiled a list of over a thousand Greek words that are being used in English. The complete list would be ten times longer. These words will improve your English.
+
+I want to share how the mythology of the Greeks has affected our culture.
+
+I also want to write about the Eastern Roman Empire (Byzantium) and Orthodox Christianity.
+
+Finally, I would like to explore why it would be good to study Greek to communicate with the wonderful, friendly, and hospitable people of modern Greece as well as to be able to read original philosophical works in Ancient “Attic” Greek, read Roman writings of philosophers like Marcus Aurelius in common “Koine” Greek or read the Bible (New Testament) in the original.
+
+Please respond to this email with your questions, comments, and requests.
+
+Respectfully,
+
+Uki D. Lucas
+https://www.UkiDLucas.com/
+https://www.linkedin.com/in/UkiDLucas/
+https://x.com/UkiDLucas
+
+

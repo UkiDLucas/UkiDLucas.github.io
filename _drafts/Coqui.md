@@ -1,0 +1,18 @@
+#byUkiDLucas #Blogger #public
+#tag/ai
+
+title: Coqui
+published: 2025-12-04
+source: https://ukidlucas.blogspot.com/2025/12/coqui.html
+
+In my study of Deep Neural Networks (DNN), I wanted to explore text-to-speech (TTS).
+
+One problem I wanted to solve is that my blog posts mix English and Japanese.
+
+After exploring various TTS options, I switched from monolingual Japanese models to Coqui’s XTTS, a multilingual system that can speak English and Japanese in the same voice. The difference was immediate. Kokoro sounded OK for pure Japanese, but it forced English into Japanese phonetics. XTTS, on the other hand, handled mixed-sentence structures smoothly and maintained a consistent female voice across both languages.
+
+I am happy to meet you、よろしくお願いします。Today we can study together、一緒に勉強しましょう。
+
+With a few lines of code and a reference audio clip, XTTS generated natural-sounding speech for an entire paragraph, blending English greetings, simple Japanese phrases, and everyday expressions. Both languages were pronounced correctly, with tone and pacing that felt unified. Importantly, the model applied the same cloned voice to every line, exactly what I need for a bilingual macOS avatar.
+
+The output quality is now good enough to move forward. The next step will be fine-tuning the model on a larger dataset of my own recordings, integrating the TTS pipeline into a SwiftUI interface, and eventually building a complete English-Japanese teaching assistant that speaks in a clear, friendly voice. An audiobook generator could be possible. For now, hearing mixed-language speech flow naturally from my own custom voice model feels like a small but meaningful success.
