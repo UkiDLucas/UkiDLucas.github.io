@@ -1,0 +1,44 @@
+---
+layout: default
+---
+{% include base_path %}
+
+<main id="main" role="main" class="paper-shell">
+  <article class="paper-document" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <header class="paper-header">
+      <p class="paper-kicker">{{ page.paper_type | default: "Research Note" }}</p>
+      <h1 class="paper-title" itemprop="headline">{{ page.title }}</h1>
+      <p class="paper-byline">
+        <span itemprop="author">{{ page.author | default: site.author.name }}</span>
+        {% if page.affiliation %}<span>{{ page.affiliation }}</span>{% endif %}
+        {% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>{% endif %}
+      </p>
+
+      {% if page.abstract %}
+        <section class="paper-abstract">
+          <h2>Abstract</h2>
+          <p itemprop="description">{{ page.abstract }}</p>
+        </section>
+      {% endif %}
+
+      {% if page.keywords %}
+        {% assign keyword_text = page.keywords %}
+        {% if page.keywords.first %}
+          {% assign keyword_text = page.keywords | join: ", " %}
+        {% endif %}
+        <p class="paper-keywords"><strong>Keywords:</strong> {{ keyword_text }}</p>
+      {% endif %}
+    </header>
+
+    <section class="paper-content" itemprop="articleBody">
+      {{ content }}
+    </section>
+
+    {% if page.citation %}
+      <footer class="paper-footer">
+        <h2>Suggested Citation</h2>
+        <p>{{ page.citation }}</p>
+      </footer>
+    {% endif %}
+  </article>
+</main>

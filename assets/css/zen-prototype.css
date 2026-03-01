@@ -1,0 +1,108 @@
+.paper-shell {
+  margin: 2rem auto 4rem;
+  max-width: 980px;
+  padding: 0 1rem;
+}
+
+.paper-document {
+  background: #fffef9;
+  border: 1px solid #ddd5c6;
+  border-radius: 12px;
+  box-shadow: 0 14px 34px rgba(35, 32, 26, 0.08);
+  padding: 2rem 1.8rem;
+}
+
+.paper-header {
+  border-bottom: 1px solid #ddd5c6;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1rem;
+}
+
+.paper-kicker {
+  color: #446452;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  margin: 0 0 0.35rem;
+  text-transform: uppercase;
+}
+
+.paper-title {
+  font-family: "Fraunces", "Times New Roman", serif;
+  font-size: clamp(1.75rem, 3vw, 2.5rem);
+  line-height: 1.2;
+  margin: 0 0 0.6rem;
+}
+
+.paper-byline {
+  color: #6b655a;
+  display: flex;
+  flex-wrap: wrap;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.9rem;
+  gap: 0.7rem;
+  margin: 0;
+}
+
+.paper-abstract h2,
+.paper-content h2,
+.paper-footer h2 {
+  color: #365847;
+  font-family: "IBM Plex Sans", sans-serif;
+  font-size: 0.84rem;
+  letter-spacing: 0.09em;
+  margin: 1.1rem 0 0.35rem;
+  text-transform: uppercase;
+}
+
+.paper-content {
+  font-family: "Source Serif 4", "Times New Roman", serif;
+  font-size: 1.06rem;
+  line-height: 1.74;
+}
+
+.paper-content p,
+.paper-content li {
+  max-width: 70ch;
+}
+
+.paper-content blockquote {
+  background: #f8f3e8;
+  border-left: 3px solid #446452;
+  margin: 1rem 0;
+  padding: 0.85rem 1rem;
+}
+
+.paper-content table {
+  border-collapse: collapse;
+  margin: 1rem 0 1.4rem;
+  width: 100%;
+}
+
+.paper-content th,
+.paper-content td {
+  border-bottom: 1px solid #ddd5c6;
+  padding: 0.5rem 0.35rem;
+  text-align: left;
+}
+
+.paper-footer {
+  border-top: 1px solid #ddd5c6;
+  color: #6b655a;
+  margin-top: 1.25rem;
+  padding-top: 0.85rem;
+}
+
+@media (max-width: 760px) {
+  .paper-shell {
+    padding: 0 0.75rem;
+  }
+
+  .paper-document {
+    padding: 1.25rem 1rem;
+  }
+
+  .paper-content {
+    font-size: 1rem;
+  }
+}

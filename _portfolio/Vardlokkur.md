@@ -1,69 +1,57 @@
 ---
 collection: portfolio
-layout: archive # portfolio (just article)
+layout: paper
 author: Uki D. Lucas
 title: Vardlokkur
-excerpt: Draft book.
+excerpt: Working manuscript combining narrative fiction and mythology notes.
+date: 2024-09-19
+paper_type: Working Manuscript
+affiliation: Independent Writing Project
+abstract: >
+  Vardlokkur is a long-form draft that blends prehistoric narrative fiction
+  with Proto-Indo-European mythology notes. This page is intentionally presented
+  as a working manuscript and will continue to evolve.
+keywords:
+  - Historical Fiction
+  - Proto-Indo-European
+  - Mythology
+  - Draft Manuscript
 ---
 
-The editable version of this book is on [Google Docs](https://docs.google.com/document/d/17ZTd3e5NE324o1maVYV8d_yofHFzSSepwJFNm0wAQPw/edit?usp=sharing).
+This is a working draft. The editable master version is on
+[Google Docs](https://docs.google.com/document/d/17ZTd3e5NE324o1maVYV8d_yofHFzSSepwJFNm0wAQPw/edit?usp=sharing).
 
+## Table of Contents
 
-## **Table of Contents**
+- [Paleo and early pastoral period](#paleo-and-early-pastoral-period)
+- [Toba: 70 thousand years ago](#toba:-70-thousand-years-ago)
+- [The Shelter](#the-shelter)
+- [The Dream and the Hunt](#the-dream-and-the-hunt)
+- [Vardlokkur's name](#vardlokkur's-name)
+- [Military service](#military-service)
+- [Welcome scouts](#welcome-scouts)
+- [The Old Gods](#the-old-gods)
+- [Kzem Mater (PIE) Mother Earth](#kzem-mater-\(pie\)-mother-earth)
+- [Dyeus Pater (PIE) Sky Father](#dyeus-pater-\(pie\)-sky-father)
+- [Perkwunos (PIE) Thunder God](#perkwunos-\(pie\)-thunder-god)
+- [Ausos (PIE) Dawn Goddess](#ausos-\(pie\)-dawn-goddess)
+- [Dhenus (PIE) Fertility Goddess](#dhenus-\(pie\)-fertility-goddess)
+- [Agnis (PIE) Fire Diety](#agnis-\(pie\)-fire-diety)
+- [Vodan (PIE) Water Diety](#vodan-\(pie\)-water-diety)
+- [Welnos (PIE) Sun Wealth Diety](#welnos-\(pie\)-sun-wealth-diety)
+- [Bhagos (PIE) Divine Influence](#bhagos-\(pie\)-divine-influence)
+- [Context in Various Indo-European Beliefs](#context-in-various-indo-european-beliefs)
+- [Dehana (PIE) Goddess of Wilderness](#dehana-\(pie\)-goddess-of-wilderness)
+- [Heros (PIE) Family Protection Diety](#heros-\(pie\)-family-protection-diety)
+- [Leubha (PIE) Goddess of Love](#leubha-\(pie\)-goddess-of-love)
+- [Epilogue](#epilogue)
 
-[**Paleo and early pastoral period.	2**](#paleo-and-early-pastoral-period.)
+## Mother Earth
 
-[**Toba: 70 thousand years ago	4**](#toba:-70-thousand-years-ago)
+The song of Mother Earth is the oldest of songs. It is older than the human race
+itself and older than conscious human thought.
 
-[**The Shelter	6**](#the-shelter)
-
-[**The Dream and the Hunt	9**](#the-dream-and-the-hunt)
-
-[**Vardlokkur's name	11**](#vardlokkur's-name)
-
-[**Military service	13**](#military-service)
-
-[**Welcome scouts	16**](#welcome-scouts)
-
-[**The Old Gods	21**](#the-old-gods)
-
-[Kzem Mater (PIE) Mother Earth	22](#kzem-mater-\(pie\)-mother-earth)
-
-[Dyeus Pater (PIE) Sky Father	24](#dyeus-pater-\(pie\)-sky-father)
-
-[Perkwunos (PIE) Thunder God	26](#perkwunos-\(pie\)-thunder-god)
-
-[Ausos (PIE) Dawn Goddess	28](#ausos-\(pie\)-dawn-goddess)
-
-[Dhenus (PIE) Fertility Goddess	29](#dhenus-\(pie\)-fertility-goddess)
-
-[Agnis (PIE) Fire Diety	31](#agnis-\(pie\)-fire-diety)
-
-[Vodan (PIE) Water Diety	33](#vodan-\(pie\)-water-diety)
-
-[Welnos (PIE) Sun Wealth Diety	36](#welnos-\(pie\)-sun-wealth-diety)
-
-[Bhagos (PIE) Divine Influence	37](#bhagos-\(pie\)-divine-influence)
-
-[Context in Various Indo-European Beliefs	37](#context-in-various-indo-european-beliefs)
-
-[Dehana (PIE) Goddess of Wilderness	39](#dehana-\(pie\)-goddess-of-wilderness)
-
-[Heros (PIE) Family Protection Diety	40](#heros-\(pie\)-family-protection-diety)
-
-[Leubha (PIE) Goddess of Love	42](#leubha-\(pie\)-goddess-of-love)
-
-[**Epilogue	44**](#epilogue)
-
-## 
-
-## **Mother Earth**
-
-## **The song of the Mather Earth is the oldest of songs.**  **It is older than the Human Race itself. It is older than the conscious thought of a human.** 
-
-## 
-
-## **Paleo and early pastoral period.** {#paleo-and-early-pastoral-period.}
+## Paleo and early pastoral period {#paleo-and-early-pastoral-period}
 
 Thursday, September 19, 2024 
 
@@ -767,4 +755,3 @@ Usage in various Indo-European languages:
 **Leubha (PIE: *leubʰ-*)** as the Proto-Indo-European goddess of love would encompass the qualities of love, desire, and affection, aligning with the linguistic and cultural roots across various Indo-European traditions. 
 
 ## **Epilogue** {#epilogue}
-
