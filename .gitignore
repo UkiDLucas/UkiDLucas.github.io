@@ -13,3 +13,4 @@ package-lock.json
 
 # Local bundle install path
 vendor/bundle/
+.DS_Store

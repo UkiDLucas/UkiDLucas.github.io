@@ -1,18 +1,12 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+Uki D. Lucas:
+  name         : "Uki D. Lucas"
+  bio          : "Director of software, firmware, and systems engineering. Evolutionary and Experimental Anthropologist."
+  avatar       : "Uki-profile-avatar-1215x1218.png"
+  location     : "Sammamish, WA"
+  employer     : "MicroVision.com"
+  github       : "ukidlucas"
+  googlescholar: "https://scholar.google.com/citations?user=hBKIwg4AAAAJ&hl=en"
+  linkedin     : "https://www.linkedin.com/in/ukidlucas/"
+  twitter      : "https://x.com/ukidlucas"
