@@ -1,6 +1,6 @@
 {% include base_path %}
 
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
+{% if site.author.github or site.author.bitbucket or site.author.substack or site.atom_feed.hide != true %}
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
@@ -11,6 +11,14 @@
     {% endif %}
     {% if site.author.bitbucket %}
       <li><a href="http://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
+    {% endif %}
+    {% if site.author.substack %}
+      {% if site.author.substack contains "://" %}
+        {% assign substack_href = site.author.substack %}
+      {% else %}
+        {% assign substack_href = "https://" | append: site.author.substack %}
+      {% endif %}
+      <li><a href="{{ substack_href }}"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i> Substack</a></li>
     {% endif %}
     {% if site.atom_feed.hide != true %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
