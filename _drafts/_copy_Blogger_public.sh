@@ -7,6 +7,8 @@ DEST_DIR="${DEST_DIR:-$SCRIPT_DIR}"
 BLOG_BASE_URL="${BLOG_BASE_URL:-https://ukidlucas.blogspot.com}"
 TAG="${1:-${TAG:-AI}}"
 MAX_RESULTS="${2:-${MAX_RESULTS:-100}}"
+COPY_IMAGES="${COPY_IMAGES:-1}"
+IMAGES_DIR_NAME="${IMAGES_DIR_NAME:-_blogger_images}"
 
 if [[ ! "$MAX_RESULTS" =~ ^[0-9]+$ ]] || [[ "$MAX_RESULTS" -lt 1 ]]; then
   echo "ERROR: MAX_RESULTS must be a positive integer. Got: $MAX_RESULTS" >&2
@@ -27,11 +29,13 @@ curl -fsSL \
   "$FEED_URL" \
   -o "$TMP_FEED"
 
-python3 - "$TMP_FEED" "$DEST_DIR" "$TAG" <<'PY'
+python3 - "$TMP_FEED" "$DEST_DIR" "$TAG" "$COPY_IMAGES" "$IMAGES_DIR_NAME" <<'PY'
 import html
 import re
 import sys
+import shutil
 import urllib.error
+import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime
@@ -41,6 +45,8 @@ from pathlib import Path
 feed_path = Path(sys.argv[1])
 dest_dir = Path(sys.argv[2])
 tag = sys.argv[3]
+copy_images_raw = (sys.argv[4] if len(sys.argv) > 4 else "1").strip()
+images_dir_name = (sys.argv[5] if len(sys.argv) > 5 else "_blogger_images").strip()
 
 NS = {"atom": "http://www.w3.org/2005/Atom"}
 BLOCK_TAGS = {
@@ -50,6 +56,18 @@ BLOCK_TAGS = {
     "section", "table", "tbody", "td", "tfoot", "th", "thead", "tr", "ul",
 }
 USER_AGENT = "Mozilla/5.0 (compatible; copy-blogger-public/1.1)"
+IMAGE_EXTS = {".jpg", ".jpeg", ".png", ".gif", ".webp", ".svg", ".bmp", ".tif", ".tiff", ".avif"}
+CTYPE_TO_EXT = {
+    "image/jpeg": ".jpg",
+    "image/png": ".png",
+    "image/gif": ".gif",
+    "image/webp": ".webp",
+    "image/svg+xml": ".svg",
+    "image/bmp": ".bmp",
+    "image/tiff": ".tiff",
+    "image/avif": ".avif",
+}
+MAX_IMAGE_BYTES = 20 * 1024 * 1024
 
 
 class HtmlToText(HTMLParser):
@@ -196,6 +214,13 @@ def sanitize_filename(value):
     return cleaned[:180] or "untitled"
 
 
+def safe_component(value, default):
+    text = html.unescape(value or "")
+    text = re.sub(r"[^A-Za-z0-9._-]+", "_", text)
+    text = text.strip(".")
+    return text[:120] or default
+
+
 def slugify(value):
     slug = re.sub(r"\s+", "-", value.strip().lower())
     slug = re.sub(r"[^a-z0-9._-]+", "", slug)
@@ -214,6 +239,62 @@ def extract_media_urls(html_blob):
     parser.feed(html_blob or "")
     parser.close()
     return parser.unique_urls()
+
+
+def is_image_url(url):
+    parsed = urllib.parse.urlsplit(url or "")
+    path = (parsed.path or "").lower()
+    if any(path.endswith(ext) for ext in IMAGE_EXTS):
+        return True
+    host = (parsed.netloc or "").lower()
+    return "blogger.googleusercontent.com" in host or "googleusercontent.com" in host
+
+
+def ext_from_url_or_type(url, content_type):
+    path = (urllib.parse.urlsplit(url).path or "").lower()
+    for ext in IMAGE_EXTS:
+        if path.endswith(ext):
+            return ext
+    ctype = (content_type or "").split(";")[0].strip().lower()
+    return CTYPE_TO_EXT.get(ctype, ".img")
+
+
+def download_images(image_urls, post_images_dir):
+    saved_paths = []
+    used_names = set()
+
+    for idx, url in enumerate(image_urls, start=1):
+        req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                content_type = resp.headers.get("Content-Type", "")
+                payload = resp.read(MAX_IMAGE_BYTES + 1)
+        except (urllib.error.URLError, TimeoutError, ValueError):
+            continue
+
+        if len(payload) > MAX_IMAGE_BYTES:
+            continue
+
+        ctype = (content_type or "").split(";")[0].strip().lower()
+        if ctype and not ctype.startswith("image/") and not is_image_url(url):
+            continue
+
+        raw_name = urllib.parse.unquote(Path(urllib.parse.urlsplit(url).path).name)
+        stem = safe_component(Path(raw_name).stem, f"image_{idx:02d}")
+        ext = ext_from_url_or_type(url, content_type)
+
+        candidate = f"{stem}{ext}"
+        counter = 2
+        while candidate in used_names or (post_images_dir / candidate).exists():
+            candidate = f"{stem}_{counter}{ext}"
+            counter += 1
+
+        out_path = post_images_dir / candidate
+        out_path.write_bytes(payload)
+        used_names.add(candidate)
+        saved_paths.append(out_path)
+
+    return saved_paths
 
 
 def fetch_page_html(url):
@@ -259,6 +340,11 @@ if not entries:
     raise SystemExit(f"No posts found for tag '{tag}'.")
 
 tag_slug = slugify(tag)
+copy_images = copy_images_raw.lower() not in {"0", "false", "no", "off", ""}
+images_root = dest_dir / safe_component(images_dir_name, "_blogger_images")
+if copy_images:
+    images_root.mkdir(parents=True, exist_ok=True)
+
 written = 0
 
 # Process oldest -> newest so duplicate titles keep the latest post.
@@ -282,6 +368,7 @@ for entry in reversed(entries):
 
     body = extract_text(content_html)
     media_urls = extract_media_urls(content_html)
+    image_urls = [u for u in media_urls if is_image_url(u)]
 
     if not body.strip() and link:
         page_html = fetch_page_html(link)
@@ -293,6 +380,20 @@ for entry in reversed(entries):
                 body = fallback_body
             if fallback_media:
                 media_urls = fallback_media
+                image_urls = [u for u in media_urls if is_image_url(u)]
+
+    local_images = []
+    if copy_images and image_urls:
+        post_images_dir = images_root / safe_component(title, "untitled")
+        if post_images_dir.exists():
+            shutil.rmtree(post_images_dir)
+        post_images_dir.mkdir(parents=True, exist_ok=True)
+
+        downloaded = download_images(image_urls, post_images_dir)
+        if not downloaded:
+            shutil.rmtree(post_images_dir, ignore_errors=True)
+        else:
+            local_images = [p.relative_to(dest_dir).as_posix() for p in downloaded]
 
     if not body.strip():
         if media_urls:
@@ -310,10 +411,18 @@ for entry in reversed(entries):
         f"title: {title}",
         f"published: {published}",
         f"source: {link}",
-        "",
-        body.rstrip(),
-        "",
     ]
+    if local_images:
+        lines.append("local_images:")
+        for rel_path in local_images:
+            lines.append(f"- {rel_path}")
+    lines.extend(
+        [
+            "",
+            body.rstrip(),
+            "",
+        ]
+    )
     out_path.write_text("\n".join(lines), encoding="utf-8")
     print(f"Saved: {out_path.name}")
     written += 1
