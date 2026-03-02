@@ -141,6 +141,10 @@
   color: inherit;
 }
 
+.masthead__title-inline .masthead__title-link {
+  text-decoration: underline;
+}
+
 @media (max-width: 760px) {
   #main.paper-shell {
     padding: 0 0.75rem;
