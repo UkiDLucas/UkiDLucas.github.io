@@ -66,6 +66,16 @@
   }
 }
 
+.archive__item-overview {
+  line-height: 1.6;
+  max-height: 6.4em; /* Fallback for browsers without line-clamp support */
+  overflow: hidden;
+
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
