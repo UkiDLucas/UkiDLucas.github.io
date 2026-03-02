@@ -28,7 +28,7 @@ author:
   location         : "Snoqualmie, WA"
   employer         :
   uri              : # URL
-  email            : "" 
+  email            :
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/ukidlucas/" # Username
+  linkedin         : "https://www.linkedin.com/in/ukidlucas/details/recommendations/" # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -72,7 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  substack         : "https://ukidlucas.substack.com/"
+  substack         : "https://ukidlucas.substack.com/p/a-practical-framework-for-safe-deployment"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
