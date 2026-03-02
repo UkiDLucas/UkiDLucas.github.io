@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Your Value after the A.I. Singularity Event"
 date: 2017-05-20
 author: Uki D. Lucas

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Lever Action Rifle Calibers"
 date: 2014-10-22
 author: Uki D. Lucas

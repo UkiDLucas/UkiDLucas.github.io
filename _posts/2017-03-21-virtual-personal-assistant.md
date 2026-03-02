@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Virtual Personal Assistant"
 date: 2017-03-21
 author: Uki D. Lucas

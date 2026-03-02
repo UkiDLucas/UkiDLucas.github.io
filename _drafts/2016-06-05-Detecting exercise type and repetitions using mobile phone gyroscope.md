@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Detecting exercise type and repetitions using mobile phone gyroscope"
+date: 2016-06-05
+author: Uki D. Lucas
+permalink: "/posts/detecting-exercise-type-and-repetitions-using-mobile-phone-gyroscope/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Detecting exercise type and repetitions using mobile phone gyroscope

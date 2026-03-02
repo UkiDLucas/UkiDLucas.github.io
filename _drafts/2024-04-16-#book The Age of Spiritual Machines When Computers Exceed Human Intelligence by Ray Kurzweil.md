@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "#book The Age of Spiritual Machines When Computers Exceed Human Intelligence by Ray Kurzweil"
+layout: paper
+title: "#book: \"The Age of Spiritual Machines: When Computers Exceed Human Intelligence\" by Ray Kurzweil"
+date: 2024-04-16
+author: Uki D. Lucas
+permalink: "/posts/book-the-age-of-spiritual-machines-when-computers-exceed-human-intelligence-by-ray-kurzweil/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: #book: "The Age of Spiritual Machines: When Computers Exceed Human Intelligence" by Ray Kurzweil

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Design and User Experience"
 date: 2016-06-02
 author: Uki D. Lucas

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "This Is All Greek to Me"
 date: 2024-06-28
 author: Uki D. Lucas

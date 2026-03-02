@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "LM Studio with 12 and 24B local LLM models"
+date: 2025-05-17
+author: Uki D. Lucas
+permalink: "/posts/lm-studio-with-12-and-24b-local-llm-models/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: LM Studio with 12 and 24B local LLM models

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Why Do I Consider Reading the Single Most Important Habit for Success"
 date: 2024-05-17
 author: Uki D. Lucas

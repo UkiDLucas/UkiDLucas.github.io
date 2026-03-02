@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "Exterior design with AI"
+layout: paper
+title: "Exterior design with AI."
+date: 2025-04-27
+author: Uki D. Lucas
+permalink: "/posts/exterior-design-with-ai/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Exterior design with AI.

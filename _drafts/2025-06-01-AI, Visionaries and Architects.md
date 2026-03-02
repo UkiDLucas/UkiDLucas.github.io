@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "AI, Visionaries and Architects"
+date: 2025-06-01
+author: Uki D. Lucas
+permalink: "/posts/ai-visionaries-and-architects/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: AI, Visionaries and Architects

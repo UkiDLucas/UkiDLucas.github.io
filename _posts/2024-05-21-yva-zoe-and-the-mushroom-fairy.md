@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Yva, Zoe, and the Mushroom Fairy"
 date: 2024-05-21
 author: Uki D. Lucas

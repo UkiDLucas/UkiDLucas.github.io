@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "My Dream Assistant Should Know Me Better"
 date: 2021-01-10
 author: Uki D. Lucas

@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Wealth distribution in Ai economy"
+date: 2026-01-21
+author: Uki D. Lucas
+permalink: "/posts/wealth-distribution-in-ai-economy/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Wealth distribution in Ai economy

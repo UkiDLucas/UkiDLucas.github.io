@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "How Can You Ensure Your Career Is Both Satisfying and Progressing"
 date: 2024-05-24
 author: Uki D. Lucas

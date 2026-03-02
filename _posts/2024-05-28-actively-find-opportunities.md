@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "How Do You Actively Find Opportunities"
 date: 2024-05-28
 author: Uki D. Lucas

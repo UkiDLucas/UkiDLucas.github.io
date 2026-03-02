@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "How to Prepare Design Assets (UI) for iPhone Development"
 date: 2012-06-18
 author: Uki D. Lucas

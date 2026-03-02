@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "From Brooms to Battle Plans: The Tactical vs Strategic Leaders"
 date: 2024-06-08
 author: Uki D. Lucas

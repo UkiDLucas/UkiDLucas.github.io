@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "Best Neural Network framework to run on macOS M1"
+layout: paper
+title: "Best Neural Network framework to run on macOS M1."
+date: 2025-10-24
+author: Uki D. Lucas
+permalink: "/posts/best-neural-network-framework-to-run-on-macos-m1/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Best Neural Network framework to run on macOS M1.

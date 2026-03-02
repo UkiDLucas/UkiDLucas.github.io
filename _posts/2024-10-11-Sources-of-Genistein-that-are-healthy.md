@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Sources-of-Genistein-that-are-healthy"
 date: 2024-10-11
 ---

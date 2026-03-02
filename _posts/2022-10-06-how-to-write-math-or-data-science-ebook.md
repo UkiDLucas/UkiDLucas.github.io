@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "How to Write a Math or Data Science eBook"
 date: 2022-10-06
 author: Uki D. Lucas

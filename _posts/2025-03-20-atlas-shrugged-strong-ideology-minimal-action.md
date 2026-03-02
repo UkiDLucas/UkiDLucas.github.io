@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Atlas Shrugged: Strong Ideology but Minimal Individual Action"
 date: 2025-03-20
 author: Uki D. Lucas

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "AI, Visionaries and Architects"
 date: 2025-06-01
 author: Uki D. Lucas

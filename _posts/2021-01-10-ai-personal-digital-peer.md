@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "A.I. Personal Digital Peer"
 date: 2021-01-10
 author: Uki D. Lucas

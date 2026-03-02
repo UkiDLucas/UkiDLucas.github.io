@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "Skype bot Ask AIKO"
+layout: paper
+title: "Skype bot: Ask AIKO"
+date: 2016-12-24
+author: Uki D. Lucas
+permalink: "/posts/skype-bot-ask-aiko/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Skype bot: Ask AIKO

@@ -403,9 +403,21 @@ for entry in reversed(entries):
         else:
             body = "[No text content extracted]\n"
 
-    out_path = dest_dir / f"{sanitize_filename(title)}.md"
+    post_date = published if re.fullmatch(r"\d{4}-\d{2}-\d{2}", published or "") else datetime.utcnow().date().isoformat()
+    yaml_title = title.replace("\\", "\\\\").replace('"', '\\"')
+    permalink_slug = slugify(title)
+
+    out_path = dest_dir / f"{post_date}-{sanitize_filename(title)}.md"
     lines = [
-        "#byUkiDLucas #Blogger #public",
+        "---",
+        "layout: paper",
+        f'title: "{yaml_title}"',
+        f"date: {post_date}",
+        "author: Uki D. Lucas",
+        f'permalink: "/posts/{permalink_slug}/"',
+        "---",
+        "",
+        "#byUkiDLucas #public #Blogger",
         f"#tag/{tag_slug}",
         "",
         f"title: {title}",

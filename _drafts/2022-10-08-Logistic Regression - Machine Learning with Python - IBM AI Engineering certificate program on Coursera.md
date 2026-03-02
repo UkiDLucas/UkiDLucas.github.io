@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Logistic Regression - Machine Learning with Python - IBM AI Engineering certificate program on Coursera"
+date: 2022-10-08
+author: Uki D. Lucas
+permalink: "/posts/logistic-regression-machine-learning-with-python-ibm-ai-engineering-certificate-program-on-coursera/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Logistic Regression - Machine Learning with Python - IBM AI Engineering certificate program on Coursera

@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Shibui AI has outdone itself"
+date: 2025-05-04
+author: Uki D. Lucas
+permalink: "/posts/shibui-ai-has-outdone-itself/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Shibui AI has outdone itself

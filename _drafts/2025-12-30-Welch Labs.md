@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Welch Labs"
+date: 2025-12-30
+author: Uki D. Lucas
+permalink: "/posts/welch-labs/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Welch Labs

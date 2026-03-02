@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Machine Learning Supervised Speaker Recognition (Diarization)"
+date: 2018-11-13
+author: Uki D. Lucas
+permalink: "/posts/machine-learning-supervised-speaker-recognition-diarization/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Machine Learning Supervised Speaker Recognition (Diarization)

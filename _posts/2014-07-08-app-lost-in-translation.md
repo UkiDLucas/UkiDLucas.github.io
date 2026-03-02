@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "App: Lost in Translation"
 date: 2014-07-08
 author: Uki D. Lucas

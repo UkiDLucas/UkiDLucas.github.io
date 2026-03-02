@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Why Would a Computer Scientist Be Interested in Learning Calligraphy"
 date: 2023-05-04
 author: Uki D. Lucas

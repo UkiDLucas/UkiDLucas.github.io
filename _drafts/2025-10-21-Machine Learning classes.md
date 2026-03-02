@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Machine Learning classes"
+date: 2025-10-21
+author: Uki D. Lucas
+permalink: "/posts/machine-learning-classes/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Machine Learning classes

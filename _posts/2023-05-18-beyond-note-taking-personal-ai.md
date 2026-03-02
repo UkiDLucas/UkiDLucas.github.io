@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Beyond Note-Taking: My Journey with Obsidian and ChatGPT Towards a Personal AI"
 date: 2023-05-18
 author: Uki D. Lucas

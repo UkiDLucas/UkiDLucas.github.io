@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Goal: Achieve a Fitness Age of 32"
 date: 2024-10-16
 ---

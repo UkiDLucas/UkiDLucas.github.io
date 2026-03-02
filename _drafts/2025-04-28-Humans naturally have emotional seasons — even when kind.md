@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "Humans naturally have emotional seasons — even when kind"
+layout: paper
+title: "Humans naturally have emotional seasons — even when kind."
+date: 2025-04-28
+author: Uki D. Lucas
+permalink: "/posts/humans-naturally-have-emotional-seasons-even-when-kind/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Humans naturally have emotional seasons — even when kind.

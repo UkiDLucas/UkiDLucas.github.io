@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "A Sustainable Homestead Plan in Charlevoix County, Michigan"
 date: 2024-12-04
 author: Uki D. Lucas

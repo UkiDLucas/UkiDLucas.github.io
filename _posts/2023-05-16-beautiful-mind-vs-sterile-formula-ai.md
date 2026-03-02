@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Beautiful Mind vs Sterile Formula: The Pathway to Better AI"
 date: 2023-05-16
 author: Uki D. Lucas

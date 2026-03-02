@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Things That Make Us Who We Really Are"
 date: 2014-02-21
 author: Uki D. Lucas

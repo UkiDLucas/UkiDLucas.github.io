@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "What is Neural Network (NN) by 3Blue1Brown"
+layout: paper
+title: "What is Neural Network (NN)? by 3Blue1Brown"
+date: 2017-10-21
+author: Uki D. Lucas
+permalink: "/posts/what-is-neural-network-nn-by-3blue1brown/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: What is Neural Network (NN)? by 3Blue1Brown

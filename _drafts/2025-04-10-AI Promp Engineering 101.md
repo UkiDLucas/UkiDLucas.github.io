@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "AI Promp Engineering 101"
+date: 2025-04-10
+author: Uki D. Lucas
+permalink: "/posts/ai-promp-engineering-101/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: AI Promp Engineering 101

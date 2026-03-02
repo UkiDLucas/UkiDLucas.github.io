@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "My Grand Plan"
 date: 2017-01-15
 author: Uki D. Lucas

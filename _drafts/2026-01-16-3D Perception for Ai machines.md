@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "3D Perception for Ai machines"
+date: 2026-01-16
+author: Uki D. Lucas
+permalink: "/posts/3d-perception-for-ai-machines/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: 3D Perception for Ai machines

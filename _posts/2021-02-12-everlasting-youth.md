@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Everlasting Youth"
 date: 2021-02-12
 author: Uki D. Lucas

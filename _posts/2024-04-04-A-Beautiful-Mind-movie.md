@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "A-Beautiful-Mind-movie"
 date: 2024-04-04
 ---

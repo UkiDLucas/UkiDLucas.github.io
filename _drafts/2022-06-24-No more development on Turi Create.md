@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "No more development on Turi Create"
+date: 2022-06-24
+author: Uki D. Lucas
+permalink: "/posts/no-more-development-on-turi-create/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: No more development on Turi Create

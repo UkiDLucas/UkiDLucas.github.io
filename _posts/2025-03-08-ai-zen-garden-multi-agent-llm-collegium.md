@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "AI Zen Garden: Multi-Agent LLM Collegium on Your Desktop"
 date: 2025-03-08
 author: Uki D. Lucas

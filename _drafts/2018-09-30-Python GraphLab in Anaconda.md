@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "conda environments:"
+layout: paper
+title: "Python GraphLab in Anaconda"
+date: 2018-09-30
+author: Uki D. Lucas
+permalink: "/posts/python-graphlab-in-anaconda/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Python GraphLab in Anaconda

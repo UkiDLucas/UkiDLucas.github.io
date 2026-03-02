@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Why Should We Write Blogs"
 date: 2024-04-04
 author: Uki D. Lucas

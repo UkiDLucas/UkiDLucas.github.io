@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "50 Cal Muzzle Loader Rifle"
 date: 2017-01-02
 author: Uki D. Lucas

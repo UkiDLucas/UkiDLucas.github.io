@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "singularity"
+date: 2018-11-21
+author: Uki D. Lucas
+permalink: "/posts/singularity/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: singularity

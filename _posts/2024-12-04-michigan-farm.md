@@ -1,6 +1,6 @@
 ---
 collection: portfolio
-layout: archive # portfolio (just article)
+layout: paper
 author: Uki D. Lucas
 title: Michigan farm "Up North"
 excerpt: Dreaming about the "Up North" in retirement.

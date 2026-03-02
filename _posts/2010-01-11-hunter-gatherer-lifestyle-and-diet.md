@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Hunter Gatherer (or Rather Scavenger) Lifestyle and Diet"
 date: 2010-01-11
 author: Uki D. Lucas

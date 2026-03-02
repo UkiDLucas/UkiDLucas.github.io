@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "Initializing the variables"
+layout: paper
+title: "Updating Anaconda TensorFlow on Mac for use with jupyter notebook"
+date: 2017-01-21
+author: Uki D. Lucas
+permalink: "/posts/updating-anaconda-tensorflow-on-mac-for-use-with-jupyter-notebook/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Updating Anaconda TensorFlow on Mac for use with jupyter notebook

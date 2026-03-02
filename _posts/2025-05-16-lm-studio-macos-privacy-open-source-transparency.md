@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "LM Studio for macOS: Privacy and Open-Source Transparency"
 date: 2025-05-16
 author: Uki D. Lucas

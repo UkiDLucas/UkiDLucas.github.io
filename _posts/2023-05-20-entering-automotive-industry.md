@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Thinking About Entering the Automotive Industry"
 date: 2023-05-20
 author: Uki D. Lucas

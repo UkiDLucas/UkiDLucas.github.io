@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "What Is Next for Elon Musk"
 date: 2017-05-17
 author: Uki D. Lucas

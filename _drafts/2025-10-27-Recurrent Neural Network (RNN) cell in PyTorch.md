@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "pick device (use \"mps\" on Apple Silicon;"
+layout: paper
+title: "Recurrent Neural Network (RNN) cell in PyTorch"
+date: 2025-10-27
+author: Uki D. Lucas
+permalink: "/posts/recurrent-neural-network-rnn-cell-in-pytorch/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Recurrent Neural Network (RNN) cell in PyTorch

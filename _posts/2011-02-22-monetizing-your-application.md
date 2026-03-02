@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Monetizing Your Application"
 date: 2011-02-22
 author: Uki D. Lucas

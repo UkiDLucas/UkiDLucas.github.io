@@ -1,5 +1,5 @@
 ---
-layout: blog-post
+layout: paper
 author: Uki D. Lucas
 title: Quanta Qualia AI
 excerpt: a project pioneering a frontier of quantum computing and communication exploring entangled particles such as "traditional" electrons, ions, photons or even neutrinos

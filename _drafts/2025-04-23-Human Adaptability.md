@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Human Adaptability"
+date: 2025-04-23
+author: Uki D. Lucas
+permalink: "/posts/human-adaptability/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Human Adaptability

@@ -1,8 +1,12 @@
 ---
-layout: single
-title: "Distributed Cloud as a Pathway to Adaptable Artificial Intelligence"
+layout: paper
+title: "Distributed Cloud as a Pathway to Adaptable Artificial Intelligence."
+date: 2018-11-22
+author: Uki D. Lucas
+permalink: "/posts/distributed-cloud-as-a-pathway-to-adaptable-artificial-intelligence/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Distributed Cloud as a Pathway to Adaptable Artificial Intelligence.

@@ -1,0 +1,51 @@
+---
+layout: paper
+title: "#14. What are the three secrets to a happy life"
+date: 2024-05-18
+author: Uki D. Lucas
+permalink: "/posts/14-what-are-the-three-secrets-to-a-happy-life/"
+---
+
+May 9, 2024
+
+This morning, my daughter was a little overwhelmed.
+I could see she was about to cry.
+
+We sat down on the staircase, and I cuddled her.
+I told her that there are three secrets to feeling happy:
+
+1\. See the world for what it is.
+Often, life is hard, and kids on the bus are mean.
+Flow around obstacles the way a stream flows around rocks.
+It gets turbulent momentarily, then continues as if nothing has happened.
+
+2\. Be your best at a given moment.
+You'll have tranquility when you try your best, especially when life is hard.
+Tranquility is a feeling similar to looking at a beautiful lily flower.
+We forget it grew up from the muddy bottom of a pond.
+
+3. Do not worry too much.
+We should care about people. We should be kind.
+However, we should not care about their opinions of us.
+Everyone is different.
+Some people like sweets, some like sour.
+Some just can not be pleased at all.
+Take your life with a pinch of salt instead.
+Approach life with a sense of humor, curiosity, and inner strength.
+Not too seriously.
+
+4\. I hugged her for a long while. I told her I loved her so much.
+
+Yup, there are four things.
+Along with your “own” virtues, having people who love you is equally important to have a happy life.
+
+I am not perfect, just like you are not.
+Today, I felt guilty for rushing to work too early.
+I felt guilt all the way while driving for not staying a little longer.
+We can only make sure that we will keep on trying.
+
+If you want to read more, please subscribe [http://UkiDLucas.com/](http://ukidlucas.com/)
+
+\#Partenting \#Stoicism \#Buddhism
+
+<img src="https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=1d8c852a2d47" width="1" height="1" />

@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Classification - Machine Learning with Python - IBM AI Engineering certificate program on Coursera"
+date: 2022-10-05
+author: Uki D. Lucas
+permalink: "/posts/classification-machine-learning-with-python-ibm-ai-engineering-certificate-program-on-coursera/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Classification - Machine Learning with Python - IBM AI Engineering certificate program on Coursera

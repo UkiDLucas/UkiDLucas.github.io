@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "NVidia Caterpillar"
+date: 2026-01-18
+author: Uki D. Lucas
+permalink: "/posts/nvidia-caterpillar/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: NVidia Caterpillar

@@ -1,8 +1,12 @@
 ---
-layout: single
+layout: paper
 title: "Point Cloud Library (PCL) on Mac OS"
+date: 2019-06-20
+author: Uki D. Lucas
+permalink: "/posts/point-cloud-library-pcl-on-mac-os/"
 ---
-#byUkiDLucas #Blogger #public
+
+#byUkiDLucas #public #Blogger
 #tag/ai
 
 title: Point Cloud Library (PCL) on Mac OS
