@@ -116,6 +116,14 @@
         {% endif %}
         <li><a href="{{ linkedin_href }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}      
+      {% if author.substack %}
+        {% if author.substack contains "://" %}
+          {% assign substack_href = author.substack %}
+        {% else %}
+          {% assign substack_href = "https://" | append: author.substack %}
+        {% endif %}
+        <li><a href="{{ substack_href }}"><i class="fas fa-fw fa-newspaper icon-pad-right" aria-hidden="true"></i>Substack</a></li>
+      {% endif %}
       {% if author.mastodon %}
         <li><a href="{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon icon-pad-right" aria-hidden="true"></i>Mastodon</a></li>
       {% endif %}
