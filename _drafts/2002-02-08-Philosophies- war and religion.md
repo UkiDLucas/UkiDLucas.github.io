@@ -1,3 +1,7 @@
+---
+layout: single
+title: "Philosophies: war and religion"
+---
  #byUkiDLucas #public
  
  # Philosophies: war and religion

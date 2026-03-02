@@ -1,3 +1,7 @@
+---
+layout: single
+title: "Lake Michigan sailing locations (positions on the water)"
+---
 #byUkiDLucas #public #sailing
 
 Winthrop Harbor entrance:

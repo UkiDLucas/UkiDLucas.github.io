@@ -1,3 +1,7 @@
+---
+layout: single
+title: "ch001 - Friday morning"
+---
 #Vardlokkur #byUkiDLucas #public
 
 # ch001 - Friday morning

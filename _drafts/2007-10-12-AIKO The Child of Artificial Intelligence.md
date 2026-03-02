@@ -1,3 +1,7 @@
+---
+layout: single
+title: "AIKO The Child of Artificial Intelligence"
+---
 #public_uki 
 
 #byUkiDLucas #AI #AIKO #public 

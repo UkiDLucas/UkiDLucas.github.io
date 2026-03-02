@@ -1,3 +1,7 @@
+---
+layout: single
+title: "Choices: 15 minutes at a time"
+---
  #byUkiDLucas #public
 # Choices: 15 minutes at a time
 

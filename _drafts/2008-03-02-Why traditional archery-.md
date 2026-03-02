@@ -1,3 +1,7 @@
+---
+layout: single
+title: "Why traditional archery?"
+---
  #byUkiDLucas #public
  
 # Why traditional archery?
