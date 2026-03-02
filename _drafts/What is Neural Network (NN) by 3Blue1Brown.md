@@ -4,6 +4,9 @@
 title: What is Neural Network (NN)? by 3Blue1Brown
 published: 2017-10-21
 source: https://ukidlucas.blogspot.com/2017/10/nn.html
+local_images:
+- _blogger_images/What_is_Neural_Network_NN_by_3Blue1Brown/NN_digit_features.png
+- _blogger_images/What_is_Neural_Network_NN_by_3Blue1Brown/NN_digit_features_2.png
 
 The video discusses:
 

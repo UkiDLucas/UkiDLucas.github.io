@@ -4,6 +4,8 @@
 title: AI, Visionaries and Architects
 published: 2025-06-01
 source: https://ukidlucas.blogspot.com/2025/06/visionaries.html
+local_images:
+- _blogger_images/AI_Visionaries_and_Architects/IMG_0273.jpg
 
 I decided to write down a few thoughts to clarify my obsessions with creating the "multitude" of AI agents that rely on the private (both personal and corporate) tiny learning models (LLM, TLM, TLL).
 

@@ -4,6 +4,9 @@
 title: Detecting exercise type and repetitions using mobile phone gyroscope
 published: 2016-06-05
 source: https://ukidlucas.blogspot.com/2016/06/gyroscope.html
+local_images:
+- _blogger_images/Detecting_exercise_type_and_repetitions_using_mobile_phone_gyroscope/Screen_Shot_2016-06-05_at_12.49.25_PM.png
+- _blogger_images/Detecting_exercise_type_and_repetitions_using_mobile_phone_gyroscope/Screen_Shot_2016-06-05_at_12.49.25_PM_2.png
 
 Today, I have been experimenting to see if I can detect the EXERCISE pattern and number of REPETITIONS using Android gyroscope:
 

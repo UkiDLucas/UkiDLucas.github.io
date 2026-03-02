@@ -4,6 +4,9 @@
 title: From Behavioral Sciences to a Career in Sensor Perception and AI
 published: 2025-04-22
 source: https://ukidlucas.blogspot.com/2025/04/ai.html
+local_images:
+- _blogger_images/From_Behavioral_Sciences_to_a_Career_in_Sensor_Perception_and_AI/cherry_blue_sky.png
+- _blogger_images/From_Behavioral_Sciences_to_a_Career_in_Sensor_Perception_and_AI/cherry_blue_sky_2.png
 
 Every couple of years, I write a post about my career in which I review the past and consider pivots for the future. It is time to post an update for 2025. Because of AI, this year will be the most transformative.
 

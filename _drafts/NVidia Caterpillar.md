@@ -4,6 +4,9 @@
 title: NVidia Caterpillar
 published: 2026-01-18
 source: https://ukidlucas.blogspot.com/2026/01/nvidia-caterpillar.html
+local_images:
+- _blogger_images/NVidia_Caterpillar/IMG_5700.jpeg
+- _blogger_images/NVidia_Caterpillar/IMG_5700_2.jpeg
 
 I keep hearing the same subtext when people talk seriously about modern perception systems, and the podcast made it explicit. Perception is no longer about a clever model running on top of generic hardware. It is a full stack problem where sensors, electronics, data, simulation, training, deployment, and iteration speed all matter equally. If one of those layers is sloppy, the system fails no matter how good the neural network looks on a benchmark.
 

@@ -4,6 +4,9 @@
 title: Logistic Regression - Machine Learning with Python - IBM AI Engineering certificate program on Coursera
 published: 2022-10-08
 source: https://ukidlucas.blogspot.com/2022/10/logisticregression.html
+local_images:
+- _blogger_images/Logistic_Regression_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-08_at_6.25.25_AM.png
+- _blogger_images/Logistic_Regression_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-08_at_6.25.25_AM_2.png
 
 Intro to Logistic Regression
 

@@ -4,6 +4,12 @@
 title: Qwen 32B
 published: 2025-05-30
 source: https://ukidlucas.blogspot.com/2025/05/qwen32b.html
+local_images:
+- _blogger_images/Qwen_32B/Screenshot_2025-05-29_at_22.16.57.png
+- _blogger_images/Qwen_32B/Screenshot_2025-05-29_at_22.16.57_2.png
+- _blogger_images/Qwen_32B/Screenshot_2025-05-29_at_22.17.20.png
+- _blogger_images/Qwen_32B/Screenshot_2025-05-29_at_22.17.20_2.png
+- _blogger_images/Qwen_32B/IMG_0350.jpg
 
 I am pleased with the performance and depth of the 32B Qwen MLX, running
 locally on my Mac Studio M1 with 64GB of RAM.

@@ -4,6 +4,9 @@
 title: Humans naturally have emotional seasons — even when kind.
 published: 2025-04-28
 source: https://ukidlucas.blogspot.com/2025/04/emotions.html
+local_images:
+- _blogger_images/Humans_naturally_have_emotional_seasons_even_when_kind/IMG_9946.jpg
+- _blogger_images/Humans_naturally_have_emotional_seasons_even_when_kind/IMG_9946_2.jpg
 
 Tonight, when working on my AI assistant AIKO, I learned a new terminology I had never heard before:
 

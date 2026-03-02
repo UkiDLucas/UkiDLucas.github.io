@@ -4,6 +4,15 @@
 title: Exterior design with AI.
 published: 2025-04-27
 source: https://ukidlucas.blogspot.com/2025/04/design.html
+local_images:
+- _blogger_images/Exterior_design_with_AI/88ca22d4-41ea-4d6f-bbcf-1a075a6e2251.jpg
+- _blogger_images/Exterior_design_with_AI/88ca22d4-41ea-4d6f-bbcf-1a075a6e2251_2.jpg
+- _blogger_images/Exterior_design_with_AI/3cefc08b-5d85-4d1c-a5ce-bde3471756ae.jpg
+- _blogger_images/Exterior_design_with_AI/3cefc08b-5d85-4d1c-a5ce-bde3471756ae_2.jpg
+- _blogger_images/Exterior_design_with_AI/FEF69783-0BAB-49A7-9783-3FFAC233AC37.png
+- _blogger_images/Exterior_design_with_AI/FEF69783-0BAB-49A7-9783-3FFAC233AC37_2.png
+- _blogger_images/Exterior_design_with_AI/EA7BC943-9EBA-42C1-B531-362247B4C7FC.png
+- _blogger_images/Exterior_design_with_AI/EA7BC943-9EBA-42C1-B531-362247B4C7FC_2.png
 
 Choice D
 

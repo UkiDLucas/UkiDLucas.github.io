@@ -4,6 +4,9 @@
 title: #book: "The Age of Spiritual Machines: When Computers Exceed Human Intelligence" by Ray Kurzweil
 published: 2024-04-16
 source: https://ukidlucas.blogspot.com/2024/04/book-age-of-spiritual-machines-when.html
+local_images:
+- _blogger_images/_book_The_Age_of_Spiritual_Machines_When_Computers_Exceed_Human_Intelligence_by_Ray_Kurzweil/IMG_2234.jpeg
+- _blogger_images/_book_The_Age_of_Spiritual_Machines_When_Computers_Exceed_Human_Intelligence_by_Ray_Kurzweil/IMG_2234_2.jpeg
 
 "The Age of Spiritual Machines: When Computers Exceed Human Intelligence" by Ray Kurzweil is a provocative and forward-looking book published in 1999.
 

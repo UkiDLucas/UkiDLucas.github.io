@@ -4,6 +4,9 @@
 title: How to get a model from HuggingFace on Mac OS
 published: 2025-04-26
 source: https://ukidlucas.blogspot.com/2025/04/huggingface.html
+local_images:
+- _blogger_images/How_to_get_a_model_from_HuggingFace_on_Mac_OS/Hugging-Face.jpg
+- _blogger_images/How_to_get_a_model_from_HuggingFace_on_Mac_OS/Hugging-Face_2.jpg
 
 How to get a model from HuggingFace on Mac OS
 

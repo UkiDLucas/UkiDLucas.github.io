@@ -4,6 +4,9 @@
 title: Joint Embedding Predictive Architecture (JEPA)
 published: 2026-01-11
 source: https://ukidlucas.blogspot.com/2026/01/jepa.html
+local_images:
+- _blogger_images/Joint_Embedding_Predictive_Architecture_JEPA_/Screenshot_2026-02-02_at_10.32.46_AM.png
+- _blogger_images/Joint_Embedding_Predictive_Architecture_JEPA_/Screenshot_2026-02-02_at_10.32.46_AM_2.png
 
 Overview
 

@@ -4,6 +4,9 @@
 title: AI Tutor inspired by "Brave New Words"
 published: 2025-04-23
 source: https://ukidlucas.blogspot.com/2025/04/tutor.html
+local_images:
+- _blogger_images/AI_Tutor_inspired_by_Brave_New_Words_/IMG_9937.png
+- _blogger_images/AI_Tutor_inspired_by_Brave_New_Words_/IMG_9937_2.png
 
 I have been reading a book, "Brave New Words," by Salman Khan of Khan Academy, and I got inspired to design an AI tutor (named Maia) for my daughter.
 

@@ -4,6 +4,10 @@
 title: What did AIKO say about this old article in 2025?
 published: 2025-03-21
 source: https://ukidlucas.blogspot.com/2025/03/aiko.html
+local_images:
+- _blogger_images/What_did_AIKO_say_about_this_old_article_in_2025_/1f338.svg
+- _blogger_images/What_did_AIKO_say_about_this_old_article_in_2025_/2728.svg
+- _blogger_images/What_did_AIKO_say_about_this_old_article_in_2025_/Japanese_death_poems.png
 
 In 2007, I described the following 1999 concept, please be patient:
 

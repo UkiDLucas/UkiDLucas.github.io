@@ -4,6 +4,13 @@
 title: Did search engine results cut the traffic to personal blogs?
 published: 2024-04-17
 source: https://ukidlucas.blogspot.com/2024/04/doom-of-google-seo.html
+local_images:
+- _blogger_images/Did_search_engine_results_cut_the_traffic_to_personal_blogs_/DALL_E_2024-04-21_07.51.44_-_A_conceptual_digital_art_piece_depicting_the_abstract_idea_of_artificial_intelligence_impac.webp
+- _blogger_images/Did_search_engine_results_cut_the_traffic_to_personal_blogs_/DALL_E_2024-04-21_07.51.44_-_A_conceptual_digital_art_piece_depicting_the_abstract_idea_of_artificial_intelligence_impac_2.webp
+- _blogger_images/Did_search_engine_results_cut_the_traffic_to_personal_blogs_/Screenshot_2024-04-23_at_6.08.57_AM.png
+- _blogger_images/Did_search_engine_results_cut_the_traffic_to_personal_blogs_/Screenshot_2024-04-23_at_6.08.57_AM_2.png
+- _blogger_images/Did_search_engine_results_cut_the_traffic_to_personal_blogs_/Screenshot_2024-04-23_at_6.07.57_AM.png
+- _blogger_images/Did_search_engine_results_cut_the_traffic_to_personal_blogs_/Screenshot_2024-04-23_at_6.07.57_AM_2.png
 
 I have noticed a very unsettling statistic on my blog.
 This prompted a fascinating question about AI, blogs' future, and maybe even the Internet.

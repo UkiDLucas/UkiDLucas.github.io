@@ -4,6 +4,9 @@
 title: Measuring movement with computer vision
 published: 2026-02-08
 source: https://ukidlucas.blogspot.com/2026/02/kata.html
+local_images:
+- _blogger_images/Measuring_movement_with_computer_vision/IMG_6137.jpeg
+- _blogger_images/Measuring_movement_with_computer_vision/IMG_6137_2.jpeg
 
 Today, I was measuring my movement using computer vision.
 

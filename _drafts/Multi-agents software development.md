@@ -4,6 +4,9 @@
 title: Multi-agents software development
 published: 2026-02-04
 source: https://ukidlucas.blogspot.com/2026/02/agents.html
+local_images:
+- _blogger_images/Multi-agents_software_development/Screenshot_2026-02-04_at_3.41.22_PM.png
+- _blogger_images/Multi-agents_software_development/Screenshot_2026-02-04_at_3.41.22_PM_2.png
 
 A multi-agent foundation LLM is built for parallel, role-separated work on complex problems. It assumes that meaningful software development is not linear. Architecture, implementation, testing, refactoring, validation, and documentation are distinct cognitive tasks that benefit from concurrent execution. In this model, multiple specialized agents operate at the same time within a shared project state. Each agent has a defined role, constraints, and success criteria. One agent may reason purely about system architecture and invariants; another may implement code within a restricted scope; a third may generate or run tests; while a fourth evaluates performance, safety, or maintainability.
 

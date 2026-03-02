@@ -4,6 +4,9 @@
 title: Skype bot: Ask AIKO
 published: 2016-12-24
 source: https://ukidlucas.blogspot.com/2016/12/skype-bot-aiko.html
+local_images:
+- _blogger_images/Skype_bot_Ask_AIKO/Screenshot_2016-12-24_21.13.06.png
+- _blogger_images/Skype_bot_Ask_AIKO/Screenshot_2016-12-24_21.13.06_2.png
 
 [Media-only post]
 

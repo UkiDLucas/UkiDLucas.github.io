@@ -4,6 +4,8 @@
 title: AIKO, the Tiny Language Model (TLM)
 published: 2025-03-22
 source: https://ukidlucas.blogspot.com/2025/03/tinyaikolmx.html
+local_images:
+- _blogger_images/AIKO_the_Tiny_Language_Model_TLM_/Japanese_death_poems.png
 
 Introduction: A Language Model of My Own
 We are surrounded by large language models: systems trained on the vastness of the internet. Models like GPT, Claude, and LLaMA can write essays, answer science questions, explain math, generate stories, and even simulate personalities.

@@ -4,6 +4,8 @@
 title: Affordance is Play
 published: 2025-10-31
 source: https://ukidlucas.blogspot.com/2025/10/affordance.html
+local_images:
+- _blogger_images/Affordance_is_Play/com.google.Chrome.jpg
 
 Affordance as a Function of Intent and Action?
 

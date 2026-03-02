@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Uki D. Lucas' writings
+title: Uki D. Lucas' blog and portfolio
 author_profile: true
 redirect_from:
   - /about/
@@ -8,11 +8,14 @@ redirect_from:
 author:
   - Uki D. Lucas
 ---
+{% assign featured_posts = site.posts | where: "portfolio", true %}
+{% assign portfolio_items = featured_posts | concat: site.portfolio %}
+{% assign portfolio_items = portfolio_items | sort: "date" | reverse %}
 <br/>
 
 <h1>Portfolio</h1>
 <ul>
-  {% for item in site.portfolio %}
+  {% for item in portfolio_items %}
     <li>
       <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.excerpt }}
     </li>

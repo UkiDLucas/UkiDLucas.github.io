@@ -4,6 +4,8 @@
 title: Testing local LLM on multi-lingual understanding.
 published: 2025-05-30
 source: https://ukidlucas.blogspot.com/2025/05/localllm.html
+local_images:
+- _blogger_images/Testing_local_LLM_on_multi-lingual_understanding/IMG_0353.jpg
 
 I have run a quick test on a few LLM models I have installed locally on Mac OS with 64 GB of RAM.
 

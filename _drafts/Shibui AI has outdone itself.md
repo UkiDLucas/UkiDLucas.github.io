@@ -4,6 +4,9 @@
 title: Shibui AI has outdone itself
 published: 2025-05-04
 source: https://ukidlucas.blogspot.com/2025/05/shibui.html
+local_images:
+- _blogger_images/Shibui_AI_has_outdone_itself/Screenshot_2025-05-04_at_12.48.58.png
+- _blogger_images/Shibui_AI_has_outdone_itself/Screenshot_2025-05-04_at_12.48.58_2.png
 
 Sometimes the AI chats surprise me on a new level.
 

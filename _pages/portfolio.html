@@ -5,11 +5,15 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+{% assign featured_posts = site.posts | where: "portfolio", true %}
+{% assign portfolio_items = featured_posts | concat: site.portfolio %}
+{% assign portfolio_items = portfolio_items | sort: "date" | reverse %}
+
 This collection of posts represents my completed articles, however you can expect periodic revisions and updates as I continue to learn and grow.
 
 
 <ul>
-  {% for item in site.portfolio %}
+  {% for item in portfolio_items %}
     <li>
       <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.excerpt }}
     </li>
@@ -21,7 +25,7 @@ This collection of posts represents my completed articles, however you can expec
  
 
 <div class="portfolio-grid">
-  {% for item in site.portfolio %}
+  {% for item in portfolio_items %}
     <div class="portfolio-item">
       <a href="{{ item.url }}">
         <h2>{{ item.title }}</h2>
