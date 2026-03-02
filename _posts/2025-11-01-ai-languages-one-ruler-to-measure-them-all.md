@@ -2,6 +2,7 @@
 layout: paper
 title: "Ai languages: One Ruler to Measure Them All"
 date: 2025-11-01
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/ai-languages-one-ruler-to-measure-them-all/"
 overview: "Artificial intelligence speaks many tongues, yet not all languages are treated equally. Most large language models are trained on vast English datasets, leaving other languages to fill in the gaps with whatever online text exists. For years, this asymmetry shaped an assumption that English would always yield the best results in interacting..."

@@ -2,6 +2,7 @@
 layout: paper
 title: "Beyond Note-Taking: My Journey with Obsidian and ChatGPT Towards a Personal AI"
 date: 2023-05-18
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/beyond-note-taking-personal-ai/"
 overview: "In this article, I delve into my pursuit of a more interactive, and intelligent method to safeguard one’s intellectual legacy. Acknowledging the limitations of both traditional and digital tools like Obsidian, I explore the approach of constructing a personalized AI model trained on my own collection of notes. Inspired by the intelligent..."
@@ -65,6 +66,5 @@ Uki D. Lucas
 <https://www.linkedin.com/in/ukidlucas/>
 
 Read my previous post “[Why Your Pen is Mightier than the Keyboard: The Resurgence of Handwritten Notes](https://ukidlucas.medium.com/why-a-computer-scientist-be-interested-in-learning-calligraphy-e43ebd3f80da)”
-
 
 

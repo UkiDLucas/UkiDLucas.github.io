@@ -2,6 +2,7 @@
 layout: paper
 title: "LM Studio for macOS: Privacy and Open-Source Transparency"
 date: 2025-05-16
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/lm-studio-macos-privacy-open-source-transparency/"
 overview: "LM Studio is a popular desktop application that allows users to run large language models (LLMs) locally on macOS. It advertises a privacy-first approach by processing data entirely on the user’s machine, without sending any information to external servers. However, questions around its transparency and open-source status have arisen in the community."
@@ -59,4 +60,3 @@ Discussion threads on platforms like Reddit ([example](https://www.reddit.com/r/
 ## Conclusion
 
 LM Studio provides a convenient and mostly private way to run LLMs locally on macOS. However, for users who require complete transparency and open-source guarantees, the closed-source GUI may be a limiting factor. The CLI and SDKs offer alternatives for building fully auditable local workflows.
-

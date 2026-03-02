@@ -2,6 +2,7 @@
 layout: paper
 title: "AI Zen Garden: Multi-Agent LLM Collegium on Your Desktop"
 date: 2025-03-08
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/ai-zen-garden-multi-agent-llm-collegium/"
 overview: "I often imagine early humans gathered around a bonfire, sharing stories and chipping away at obsidian shards to create tools. In my own life, I notice a curious parallel: I sit here with my favorite note-taking app, aptly named Obsidian, and chip away at my thoughts, forging new ideas bit by bit."
@@ -46,4 +47,3 @@ Because these models exist locally, I can shape their character without third-pa
 Please let me know if you are also passionate about my AI Zen Garden.
 
 ~ Uki D. Lucas
-
