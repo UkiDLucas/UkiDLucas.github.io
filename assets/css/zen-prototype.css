@@ -5,7 +5,7 @@
 }
 
 .paper-document {
-  --paper-measure: 70ch;
+  --paper-measure: 78ch;
   --paper-wide-measure: 86ch;
   background: #fffef9;
   border: 1px solid #ddd5c6;
@@ -84,6 +84,10 @@
   margin-right: auto;
   width: min(100%, var(--paper-measure));
   max-width: var(--paper-measure);
+}
+
+.paper-content > :is(h1, h2, h3, h4, h5, h6):nth-child(-n+3) {
+  text-align: center;
 }
 
 .paper-content p {
