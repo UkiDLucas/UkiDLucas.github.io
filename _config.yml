@@ -12,7 +12,7 @@ title                    : "Uki D. Lucas' blog and portfolio"
 title_separator          : "-"
 name                     : &name "Uki D. Lucas"
 description              : &description "Evolutionary and Experimental Anthropologist."
-url                      : https://ukidlucas.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ukidlucas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
