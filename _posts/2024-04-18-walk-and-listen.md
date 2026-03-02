@@ -1,73 +1,75 @@
 ---
 layout: single
 title: "Walk and Listen"
+date: 2024-04-18
+author: Uki D. Lucas
+permalink: "/posts/walk-and-listen/"
 ---
-#byUkiDLucas #public
 
 # Walk and Listen
 
-“The best sailing is down the trade winds. 
-If you are setting off to do something, 
-go with the prevailing winds” 
+“The best sailing is down the trade winds.
+If you are setting off to do something,
+go with the prevailing winds”
 ~ Uki
 Every couple of years, I reevaluate
- which way the wind is blowing and make corrections in my life. 
-The last couple of years have been dominated by 
+ which way the wind is blowing and make corrections in my life.
+The last couple of years have been dominated by
 AI and autonomy
-. 
-Some jobs are disappearing, and some are on the rise. 
-You must always trim the sails in response to the wind and the waves. 
+.
+Some jobs are disappearing, and some are on the rise.
+You must always trim the sails in response to the wind and the waves.
 You must also set the right pace depending on how far you still have to go.
 ~ ~ ~
 Today, I wanted to share my two favorite activities: hiking and listening.
-During the week, I cannot go to the mountains, so I walk on the path by my house.  
-The path is about 12,000 steps, which makes my Apple device feel very satisfied. 
+During the week, I cannot go to the mountains, so I walk on the path by my house.
+The path is about 12,000 steps, which makes my Apple device feel very satisfied.
 On a beautiful evening like today, I have a few stumps and logs on which I can sit down, soak up the sun, and think. Along the path, I make sure I stop to smell the roses, or rather, take photos of the flowers and bunnies.
-The second and quite important part of this hobby is listening. 
+The second and quite important part of this hobby is listening.
 I usually listen to an Audible audiobook or a YouTube video if I want to learn something.
 This activity usually charges me full of ideas, which sometimes are actions to be taken and sometimes ideas to write about.
-The videos I listened to today were motivating and full of how-to instructions. There is no point in re-hashing them. I listed one on the bottom. 
-Where am I going? 
-I have a limited time before I retire or otherwise stop working. I have to think about how to prepare so I can retire and do what I love. The best way to achieve it is to secure a residual income, care for health, and have a purpose. I want to 
+The videos I listened to today were motivating and full of how-to instructions. There is no point in re-hashing them. I listed one on the bottom.
+Where am I going?
+I have a limited time before I retire or otherwise stop working. I have to think about how to prepare so I can retire and do what I love. The best way to achieve it is to secure a residual income, care for health, and have a purpose. I want to
 walk, listen, think, and write
 . I hope to have readers.
 Where is the rest of the world going?
-AI and automation will surely change the landscape of people's lives. 
-Writing 
+AI and automation will surely change the landscape of people's lives.
+Writing
 how-to blogs will lose relevance
- as AI chatbots will answer any question you might have. 
+ as AI chatbots will answer any question you might have.
 Providing wise fatherly or grand-fatherly advice may also not be relevant for the same reason.
-My only hope for writing is to 
+My only hope for writing is to
 write from the heart
-, to be a 
+, to be a
 human
-, an 
+, an
 anthropologist
-, a 
+, a
 philosopher
-, and a 
+, and a
 poet
-. 
-The future of humanity will be about 
+.
+The future of humanity will be about
 human entertainment
-, the 
+, the
 service industry
-, and 
+, and
 human contact
- in a world filled with 
+ in a world filled with
 AI
- 
+
 games
-, 
+,
 chatbots
-, 
+,
 robots
-, and 
+, and
 automated factories
 .
 How do I connect with my readers?
-I need to engage with my audience. 
-So far, the blog has failed at this: not a single comment in a very long time, not a single direct message. 
+I need to engage with my audience.
+So far, the blog has failed at this: not a single comment in a very long time, not a single direct message.
 I will explore Facebook, Instagram, LinkedIn (with 13,000 contacts), Threads, and Pinterest, but I no longer enjoy these interactions. I used to wait for the pings and notifications, but now I turn them off.
 But I honestly want to hear from you. What did you think about my articles? What would you want me to write about? Which of your problems or questions can I address?
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh7MyUK1ExlcpcM4FTmVNkkSm6TXAQ_sybTnM-n_hPbMx2tTpoyXhL_PFgFUSAHkC1MZpxsLd-l8NDySHDhfGRegVbjA235QB3lAY3JXC2tG5IqVMO3FhV7hPCkz2MwuTNSxOlj9YBJGK51Mb7bsEm40l3Qtrtg_geyE3fytWx8XYTKz_KAfHFkrA/s4032/IMG_2313.jpeg)
@@ -79,7 +81,7 @@ But I honestly want to hear from you. What did you think about my articles? What
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaXPQxJX_PuZCV_4gdRdylxtEegF1-kaWceOu4b7dqP2bac2vLJldRBcTUcRFq2sCjPsxyF7kQnZAGhK9De7KHMo9yixuJo1HsF_aSqc8cn81yE_gzuw0WMDIjAv5kQdzEBMqAeK362zq3qGklGEf3GEf0BKMHNnnk0oqdjK6aOkm-KwcG5_FcLw/s4032/IMG_2330.jpeg)
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicgn2pihCLOt4nS_7xqyZhWCzTHrXKm26S6JeoErUMWyckUQIQA5ZyU6c2fLDotIlX6AueA0niDY1c5xkDrntof2zPQBpcjWTVWRTMbr8pogUz5x_uq9I3FuWp8CFTFijjBq_jKFUN2A6NfPN0f4ehNnUR0ILZmpGNkBpAG2Nm5Vp9ayEFwWRqcw/s4032/IMG_2332.jpeg)
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihyphenhyphenVdOODrYAELkhlJWIJ2U-Awiy-wyQFgwlXHkyxF7VQNKbsB4WzVKZduC9ThWHMcjD4lrGo83h86ukugGPJTl_lsdPM175NtMFKQ0DUxF6_D_h9JrFBMKhWShfbd34JCMRWiOS2odWTCtFTF3nTMZ0Ij7zna8n3fDGTTSn60D7eG_2HapoNHEFQ/s4032/IMG_2333.jpeg)
- 
+
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0nVDvi-b53yvg13iHLXFNTOEfJPNkdGpVtVFRE5c_Hk9pFwGCteE9yN7cx8IJwVGizsMgT6RHlGgNhQpZLDsuPI_U8BdqPYhV32hNwZ7kfO7VYRF40BBjuewTewwP0aPgGLDqclOwPeo9x6ncTJKnODj5pQWt8Je_UIt7jhWsXbj6VJzlZ25Now/s4032/IMG_2321.jpeg)
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQJJPczRHTX8KtN1dGpMZD3W0TCeeESvD1PTxKjLpOGFo3rk6rqQLAMN-f1SuH0IHVn4WC261-ipc012XFBE-neABubYCHy7dI4zHfD8vKlOamU0QVFmRBdcLk0p9JA34rLOJz29L8u_Gnb_inraA_iSLHcROyOOWqEG4NW3sBaXYFnHhgNSk46w/s4032/IMG_2320.jpeg)
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDFw8idP99VYWvFgyG9yNRz5-dUloK1PpxbVZKgQE-QEa8D-5a4IQuhMjbVm1lwfqXMY9QN425gP8kfGbyN9lcowyP2U500ppyL5xzRdPPwvZb-yak0USip2SMQj9uiHUMwB-TLQniSwfkAe5o74cp_Sob4Jz_nLZ-DDMs3ZoJtLeRD8Jtll_WyQ/s4032/IMG_2319.jpeg)
@@ -88,8 +90,8 @@ But I honestly want to hear from you. What did you think about my articles? What
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlzrmA2RNOrn2WhoJJdavJew0qFQ7XrqqXl1LgitZM96Ar7FV_d0IIq2AH7B-g-UsEYV08_0SbdY-4D7bEWt1u7LWaO0IyQb2brjDcETUJLuM6jGgDsEqEuC5L-qH2OQlAm8RY0bNlWg7pwJltAaO7myKLmk6vw4fRa3fDQnndBKc4VPGNpbCUmg/s4032/IMG_2315.jpeg)
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaIfMhnDa7ZDy39EQz-SXBt_EkHVytgUODQlGCYwU3Xp9yU2AJGUW93B0FYMWH68ftLvCfS9vgF-B446qcUD51lHd-9lb-lW9lUPDVvFEyHCsVBhHRDSeuI-u2HiMF-Yj3wRsAXIvSSCH9OQGO2QpetdFGVW3Hi4GC7d8oWrwJHVViq3Y-i3fKjw/s4032/IMG_2335.jpeg)
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVdPt3q849xjhgR21hIkdYgLmCSsGtgFdNmM6l0NKHDce2Vj2_nZl6zBVsxxlZF1vzqvOa8r_meZ1evX9K5xergH4ANgeP6QIxmWqDAzJxyBNxKTccFU7SZnGnnEEAjasZQz9Fa3KmA3A1lOX-XCYy7oKF3JImmKxnU3Uihlh0pjZnljqXs-aXiQ/s2796/IMG_2337.png)
-It's a good video to watch, but 
+It's a good video to watch, but
 not before you leave a comment
  or write via the "Contact me" link.
-Please SUBSCRIBE: 
+Please SUBSCRIBE:
 [https://ukidlucas.beehiiv.com](https://ukidlucas.beehiiv.com/)

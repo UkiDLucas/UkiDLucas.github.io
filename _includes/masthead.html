@@ -7,7 +7,11 @@
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
           <li class="masthead__menu-item masthead__menu-item--lg">
-            <a href="{{ base_path }}/year-archive/">{{ site.name }}' blog</a> and <a href="{{ base_path }}/portfolio/">portfolio</a>
+            <span class="masthead__title-inline">
+              <a class="masthead__title-link" href="{{ base_path }}/year-archive/">{{ site.name }}' blog</a>
+              <span class="masthead__title-separator">&nbsp;and&nbsp;</span>
+              <a class="masthead__title-link" href="{{ base_path }}/portfolio/">portfolio</a>
+            </span>
           </li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}

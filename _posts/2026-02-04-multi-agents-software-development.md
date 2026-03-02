@@ -2,6 +2,7 @@
 layout: paper
 title: "Multi-agents software development"
 date: 2026-02-04
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/multi-agents-software-development/"
 ---

@@ -1,12 +1,10 @@
 ---
 layout: single
 title: "Dlaczego informatyk miałby być zainteresowany nauką kaligrafii?"
+date: 2023-05-05
+author: Uki D. Lucas
+permalink: "/posts/dlaczego-informatyk-miaby-byc-zainteresowany-nauka-kaligrafii/"
 ---
-#Calligraphy #byUkiDLucas #public
-
-published: 2023-05-05
-
-updated: 2023-05-05
 
 # Dlaczego informatyk miałby być zainteresowany nauką kaligrafii?
 originalny artykuł po angielsku:

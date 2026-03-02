@@ -1,17 +1,10 @@
 ---
-layout: paper
+layout: single
 title: "Point Cloud Library (PCL) on Mac OS"
 date: 2019-06-20
 author: Uki D. Lucas
 permalink: "/posts/point-cloud-library-pcl-on-mac-os/"
 ---
-
-#byUkiDLucas #public #Blogger
-#tag/ai
-
-title: Point Cloud Library (PCL) on Mac OS
-published: 2019-06-20
-source: https://ukidlucas.blogspot.com/2019/06/pcl-on-mac.html
 
 Install PCL using BREW.
 

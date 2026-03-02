@@ -2,6 +2,7 @@
 layout: paper
 title: "Measuring movement with computer vision"
 date: 2026-02-08
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/measuring-movement-with-computer-vision/"
 ---

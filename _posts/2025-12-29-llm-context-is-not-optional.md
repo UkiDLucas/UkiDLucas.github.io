@@ -2,6 +2,7 @@
 layout: paper
 title: "LLM context is not optional"
 date: 2025-12-29
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/llm-context-is-not-optional/"
 ---

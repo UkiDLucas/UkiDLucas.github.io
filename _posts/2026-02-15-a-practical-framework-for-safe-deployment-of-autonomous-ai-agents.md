@@ -2,13 +2,10 @@
 layout: single
 title: "A Practical Framework for Safe Deployment of Autonomous AI Agents"
 date: 2026-02-15
+portfolio: true
+author: Uki D. Lucas
+permalink: "/posts/a-practical-framework-for-safe-deployment-of-autonomous-ai-agents/"
 ---
-#public #blogger #ai_agents #architecture #llm #ml #software
-blogger_updated: Sun, 15 Feb 2026 15:23:00 +0000
-
-Published: Sun, 15 Feb 2026 15:23:00 +0000
-
-# 
 
 ## Summary
 

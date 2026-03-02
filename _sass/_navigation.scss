@@ -228,6 +228,26 @@
       }
     }
 
+    > .masthead__menu-item--lg {
+      white-space: nowrap;
+
+      .masthead__title-inline {
+        display: inline-flex;
+        align-items: center;
+        white-space: nowrap;
+      }
+
+      .masthead__title-link {
+        display: inline !important;
+        margin: 0 !important;
+        padding: 0 !important;
+      }
+
+      .masthead__title-separator {
+        display: inline;
+      }
+    }
+
     a {
       position: relative;
 

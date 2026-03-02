@@ -2,6 +2,7 @@
 layout: paper
 title: "Testing local LLM on multi-lingual understanding."
 date: 2025-05-30
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/testing-local-llm-on-multi-lingual-understanding/"
 ---

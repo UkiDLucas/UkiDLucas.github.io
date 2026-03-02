@@ -2,6 +2,7 @@
 layout: paper
 title: "AIKO, the Tiny Language Model (TLM)"
 date: 2025-03-22
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/aiko-the-tiny-language-model-tlm/"
 ---

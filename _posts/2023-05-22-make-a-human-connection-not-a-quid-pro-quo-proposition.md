@@ -1,12 +1,11 @@
 ---
 layout: single
 title: "Make a human connection, not a “quid pro quo” proposition"
+date: 2023-05-22
+author: Uki D. Lucas
+permalink: "/posts/make-a-human-connection-not-a-quid-pro-quo-proposition/"
 ---
-#byUkiDLucas #Medium #public
 
-https://ukidlucas.medium.com/make-a-human-connection-not-a-quid-pro-quo-proposition-a6e91b1557e9?source=rss-3faaaed33b1b------2
-
-published: 2023-05-22
 To make a “quid pro quo” proposition, from Latin, “something for something,” means reaching out to someone assuming that the other party needs something from you, for example, the business you might want to offer.
 
 The statement has gained a negative meaning, but in the context of this article, I use it in its original meaning: to barter — a win-win exchange.
@@ -35,19 +34,19 @@ I have quite a few people with whom I am happy to chat.
 
 Here are my five characteristics of positive professional relationships:
 
-1\. Seeing Beyond Immediate Goals:  
+1\. Seeing Beyond Immediate Goals:
 It’s essential to approach others as individuals, not as opportunities. Seeing beyond the immediate gains will foster a connection that leaves a lasting impression.
 
-2\. Sharing Personal Interests and Aspirations:  
+2\. Sharing Personal Interests and Aspirations:
 By opening up about our lives, we invite others to be similarly open, paving the way for mutual connection and understanding.
 
-3\. Asking the Right Questions:  
+3\. Asking the Right Questions:
 Genuine curiosity makes us stand out. It shows we care about the person, not just the potential benefits. It gives the other person the pleasure of becoming a mentor. This is important as we all wish others would find us interesting and valuable.
 
-4\. Building Mutual Trust and Understanding:  
+4\. Building Mutual Trust and Understanding:
 Trust can’t be rushed. It’s cultivated over time and creates the foundation for deeper connections.
 
-5\. Respecting Each Other’s Time:  
+5\. Respecting Each Other’s Time:
 Our time is precious, as is that of others. Demonstrating respect for each other’s time underscores our sincerity.
 
 ### Building trust relationships
@@ -62,7 +61,7 @@ In the end, successful networking is more about the quality of our connections t
 
 Please share.
 
-Updated original:  
+Updated original:
 <https://uki.blogspot.com/p/quid-pro-quo.html>
 
 <img src="https://medium.com/_/stat?event=post.clientViewed&amp;referrerSource=full_rss&amp;postId=a6e91b1557e9" width="1" height="1" />

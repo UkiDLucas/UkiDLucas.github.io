@@ -1,17 +1,10 @@
 ---
-layout: paper
+layout: single
 title: "Updating Anaconda TensorFlow on Mac for use with jupyter notebook"
 date: 2017-01-21
 author: Uki D. Lucas
 permalink: "/posts/updating-anaconda-tensorflow-on-mac-for-use-with-jupyter-notebook/"
 ---
-
-#byUkiDLucas #public #Blogger
-#tag/ai
-
-title: Updating Anaconda TensorFlow on Mac for use with jupyter notebook
-published: 2017-01-21
-source: https://ukidlucas.blogspot.com/2017/01/tensorflow.html
 
 I have been running TensorFlow, but it has been acting up and needed an update.
 

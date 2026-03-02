@@ -1,34 +1,10 @@
 ---
-layout: paper
+layout: single
 title: "Classification - Machine Learning with Python - IBM AI Engineering certificate program on Coursera"
 date: 2022-10-05
 author: Uki D. Lucas
 permalink: "/posts/classification-machine-learning-with-python-ibm-ai-engineering-certificate-program-on-coursera/"
 ---
-
-#byUkiDLucas #public #Blogger
-#tag/ai
-
-title: Classification - Machine Learning with Python - IBM AI Engineering certificate program on Coursera
-published: 2022-10-05
-source: https://ukidlucas.blogspot.com/2022/10/classification.html
-local_images:
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_06.17.40.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_06.17.40_2.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_06.20.41.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_06.20.41_2.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-06_at_07.03.35.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-06_at_07.03.35_2.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_06.51.22.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_06.51.22_2.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_06.47.00.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_06.47.00_2.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_07.56.13.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_07.56.13_2.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_08.06.38.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-05_at_08.06.38_2.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-06_at_06.51.32.png
-- _blogger_images/Classification_-_Machine_Learning_with_Python_-_IBM_AI_Engineering_certificate_program_on_Coursera/Screen_Shot_2022-10-06_at_06.51.32_2.png
 
 NOTE: This is a continuation of the: "IBM AI Engineering certificate program on Coursera - Machine Learning with Python"
 https://uki.blogspot.com/2022/09/ibmaiengineering.html

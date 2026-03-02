@@ -1,17 +1,10 @@
 ---
-layout: paper
+layout: single
 title: "Python GraphLab in Anaconda"
 date: 2018-09-30
 author: Uki D. Lucas
 permalink: "/posts/python-graphlab-in-anaconda/"
 ---
-
-#byUkiDLucas #public #Blogger
-#tag/ai
-
-title: Python GraphLab in Anaconda
-published: 2018-09-30
-source: https://ukidlucas.blogspot.com/2018/09/python-graphlab-in-anaconda_8.html
 
 In this tutorial I wrote down my own steps on how to configure GraphLab on Mac for the Coursera Machine Learning class from the University of Washington:
 

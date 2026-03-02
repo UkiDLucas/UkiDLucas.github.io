@@ -1,17 +1,11 @@
 ---
-layout: paper
+layout: single
 title: "Running a 24B Mistral Model Locally with MLX macOS"
 date: 2026-01-23
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/running-a-24b-mistral-model-locally-with-mlx-macos/"
 ---
-
-#byUkiDLucas #public #Blogger
-#tag/ai
-
-title: Running a 24B Mistral Model Locally with MLX macOS
-published: 2026-01-23
-source: https://ukidlucas.blogspot.com/2026/01/24b.html
 
 LLM model storage
 

@@ -2,6 +2,7 @@
 layout: paper
 title: "Joint Embedding Predictive Architecture (JEPA)"
 date: 2026-01-11
+portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/joint-embedding-predictive-architecture-jepa/"
 ---

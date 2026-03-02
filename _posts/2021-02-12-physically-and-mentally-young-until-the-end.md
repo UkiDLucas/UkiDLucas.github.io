@@ -1,21 +1,22 @@
 ---
 layout: single
 title: "Physically and Mentally Young Until the End"
+date: 2021-02-12
+author: Uki D. Lucas
+permalink: "/posts/physically-and-mentally-young-until-the-end/"
 ---
-#public
-#byUkiDLucas #health #public
 
 # Physically and Mentally Young Until the End
 
-Published on 
+Published on
 [Medium.com](https://ukidlucas.medium.com/everlasting-youth-b3187a3b1f6b)
  Feb 12, 2021
-Too many people live with allergies, low-level aches, auto-immune diseases, arthritis, pre-diabetic sugar levels, obesity, cancer, mental fog, and dementia. 
+Too many people live with allergies, low-level aches, auto-immune diseases, arthritis, pre-diabetic sugar levels, obesity, cancer, mental fog, and dementia.
 Too many people die early.
 Why?
 Out of the top causes of death, most are related to diet and lifestyle choices.
 [](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq4_xI7QqxsQPmEbrPa3rSom5XfUbv08VfqNxp86UQJvNBRjKHAg48pbVwKl5C_dias8NaAlGMpNnb5AncOArWmRJUGDtA2zCmwjk_YLAPSgfiZoUCP57aXKNAkZOA-xILyoUtCA6fFvtI5fUUo8CtSCMt2KzBmHnCEAZJkMHcwrBoDHNQzvnVSA/s1798/Screenshot%202024-03-25%20at%2010.11.57%E2%80%AFAM.png)
-Top causes of death, data source: 
+Top causes of death, data source:
 [cdc.gov](http://cdc.gov)
 Please note that accidents account for only 9% of deaths.
 My current career is dedicated to preventing injuries from automotive accidents, but as a fellow human, I cannot ignore the remaining 91%. I have a long-standing relationship with a healthy lifestyle, including helping develop the Vitality apps and my fitness application (now defunct).
@@ -24,26 +25,26 @@ The right lifestyle and matching diet can prolong life and make life youthful ti
 I am on purpose NOT starting with recommendations, I want us to build opinions and derive conclusions together.
 Here are a few benefits, proven by generations of active centenarians, from the apparently trivial to profound:
 Not having a heartburn.
- 
+
 This was a significant change for me.
 Looking younger with better and brighter skin.
- 
+
 Your skin is a testament to your health; you could look decades younger than your aged, neglected peers. The following are preventable: lack of skin elasticity caused by low collagen production (i.e., wrinkles), dark bags under the eyes, pigmented age spots, and acne.
 Getting a 6-pack
 No, not that from the grocery, but the one you always meant to have. Most people look at the height-age-weight chart, and if they do not exceed the maximum number, they think they are fine. The reality is that within that “normal” weight range unless you are a high-sport performer, you carry 15 to 30 pounds of extra fat. For example, my height range is 145 to 185 pounds, depending on age. So, at, say, 180 pounds, this would make me believe I am in the “normal” weight range. I would carry an extra 20 pounds of fat over my optimal weight. I know that for a fact, I was in the Marine Corps, and I know my weight is supposed to be ~165 pounds. If your BMI index is higher than 24, you are overweight, stop kidding yourself, get to 23.5 if you can.
 Not being hungry between meals
-. 
+.
 With the right diet, you can easily go for a day or two without feeling any hunger. You cannot imagine how much easier and happier your life will become if you eat for enjoyment and not as a necessity. Intermittent fasting has been proven as a health benefit for ages. Do not listen to what the food lobbying companies tell you; the " three square meals a day” will slowly kill you.
-Mental clarity. 
+Mental clarity.
 No more foggy mornings, nor any need for coffee, no more afternoon food coma. This alone is worth the effort.
-Beautiful teeth. 
+Beautiful teeth.
 You can brush 3 times a day and floss religiously, but with the wrong diet, you are still not binding calcium and developing cavities. Studies show that the right diet can prevent cavities and even repair teeth. The feeling of dirty teeth will go away, too.
 General rejuvenation of all body cells.
- 
+
 Most of our body's cells are recycled every three months; this process is called autophagy. It includes removing sick and old cells, such as those from skin age marks, tumors, etc., and growing new cells instead. The degree of autophagy is influenced by diet and lifestyle. In the next few months, you could become a healthier, newer you.
 Food and lifestyle help the immune system fight bacterial and viral infections, which is especially important during the COVID-19 pandemic.
 At 50, being as fit as the 21-year-old U.S. Marine self. That is my personal standard.
-Being 100 and doing daily mountain hikes. 
+Being 100 and doing daily mountain hikes.
 This is not hypothetical, but a well-documented behavior of centenarians in the so-called “blue zones”.
 The right diet will help you fight any potential cancer. Scientifically, it is well documented that micro-tumors and cancerous cells are constantly being created in our bodies. Depending on the level of harmful elements and stress, our body is usually able to remove them, and we keep on living without ever knowing. It is also well-documented that cancer thrives and accelerates on all types of sugars (blood glucose).
 The right lifestyle and diet can reduce many auto-immune heart diseases.
