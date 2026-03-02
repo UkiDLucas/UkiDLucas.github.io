@@ -4,6 +4,7 @@ title: "Physically and Mentally Young Until the End"
 date: 2021-02-12
 author: Uki D. Lucas
 permalink: "/posts/physically-and-mentally-young-until-the-end/"
+overview: "Published on Medium.com Feb 12, 2021 Too many people live with allergies, low-level aches, auto-immune diseases, arthritis, pre-diabetic sugar levels, obesity, cancer, mental fog, and dementia. Too many people die early. Why? Out of the top causes of death, most are related to diet and lifestyle choices. []( ) Top causes of..."
 ---
 
 # Physically and Mentally Young Until the End

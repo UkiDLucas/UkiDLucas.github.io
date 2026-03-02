@@ -4,6 +4,7 @@ title: "Make a human connection, not a “quid pro quo” proposition"
 date: 2023-05-22
 author: Uki D. Lucas
 permalink: "/posts/make-a-human-connection-not-a-quid-pro-quo-proposition/"
+overview: "To make a “quid pro quo” proposition, from Latin, “something for something,” means reaching out to someone assuming that the other party needs something from you, for example, the business you might want to offer."
 ---
 
 To make a “quid pro quo” proposition, from Latin, “something for something,” means reaching out to someone assuming that the other party needs something from you, for example, the business you might want to offer.

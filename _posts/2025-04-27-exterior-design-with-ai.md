@@ -4,6 +4,7 @@ title: "Exterior design with AI."
 date: 2025-04-27
 author: Uki D. Lucas
 permalink: "/posts/exterior-design-with-ai/"
+overview: "Since we are currently renting, we started looking at the houses we could afford. This place fits our budget, but the baby blue color, \"It's a boy!\", does not inspire us."
 ---
 
 Choice D

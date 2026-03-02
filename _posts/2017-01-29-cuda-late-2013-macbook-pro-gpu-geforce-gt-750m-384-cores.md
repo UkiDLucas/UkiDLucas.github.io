@@ -4,6 +4,7 @@ title: "CUDA: late 2013 MacBook Pro GPU: GeForce GT 750M 384 Cores"
 date: 2017-01-29
 author: Uki D. Lucas
 permalink: "/posts/cuda-late-2013-macbook-pro-gpu-geforce-gt-750m-384-cores/"
+overview: "deviceQuery, CUDA Driver = CUDART, CUDA Driver Version = 8.0, CUDA Runtime Version = 8.0, NumDevs = 1, Device0 = GeForce GT 750M. This post provides clear context, key ideas, and practical takeaways."
 ---
 
 Installing CUDA on MacBook Pro

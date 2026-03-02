@@ -4,6 +4,7 @@ title: "Programming for UI Designers: Android Options Menu"
 date: 2011-09-02
 author: Uki D. Lucas
 permalink: "/posts/programming-for-ui-designers-android-options-menu/"
+overview: "Ins and outs of Android Options Menu The standard Android Menu is one of the most common elements of an Android application, and provides users a familiar way to perform actions. It contains a collection of primary options and functionality which shows up when the user touches the MENU button on the..."
 ---
 
 # Programming for UI designers: Android Options Menu

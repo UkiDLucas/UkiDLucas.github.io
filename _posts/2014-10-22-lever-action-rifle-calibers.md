@@ -4,6 +4,7 @@ title: "Lever Action Rifle Calibers"
 date: 2014-10-22
 author: Uki D. Lucas
 permalink: "/posts/lever-action-rifle-calibers/"
+overview: "Recently, I have been thinking about a new lever-action rifle. The appeal of these late 1800 models is that they are great, very light (5lbs) for backpacking and pack enough punch for anything you need in the woods/bush. Lever action rifles, comparing to heavy (~8.5lbs) bolt action calibers (.30-06, 7.62x54R) we normally..."
 ---
 
  #byUkiDLucas #public

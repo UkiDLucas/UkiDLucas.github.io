@@ -4,6 +4,7 @@ title: "Thinking About Entering the Automotive Industry"
 date: 2023-05-20
 author: Uki D. Lucas
 permalink: "/posts/entering-automotive-industry/"
+overview: "The topic of Requirements Management may not be a hot one. Trust me, I understand. However, there is a very good reason why I decided to spend considerable time writing about it."
 excerpt: "A practical guide to requirements management, standards, and process expectations in automotive programs."
 tags:
   - automotive

@@ -4,6 +4,7 @@ title: "Ultra-light shoes for hiking in mountains"
 date: 2024-04-20
 author: Uki D. Lucas
 permalink: "/posts/ultra-light-shoes-for-hiking-in-mountains/"
+overview: "I live in a very rugged Pacific Northwest (PNW). The terrain consists of sharp rocks in summer and wet or snow-covered sharp rocks in winter. My choice of ultralight shoes is not typical, but they are similar to the footwear of traditional highlanders from the region where I was born. []( )..."
 ---
 
 # Ultra-light shoes for hiking in mountains

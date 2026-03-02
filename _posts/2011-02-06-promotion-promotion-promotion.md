@@ -4,6 +4,7 @@ title: "Promotion, Promotion, Promotion"
 date: 2011-02-06
 author: Uki D. Lucas
 permalink: "/posts/promotion-promotion-promotion/"
+overview: "✓ take a road less traveled - don’t compete ✓ re-post experts ✓ blog about good articles ✓ ask smart questions ✓ ask for comments ✓ show up - even if virtually In addition to outlined best practices when composing the post keep in mind the following: Promote yourself among the people..."
 ---
 
 # Promotion, Promotion, Promotion

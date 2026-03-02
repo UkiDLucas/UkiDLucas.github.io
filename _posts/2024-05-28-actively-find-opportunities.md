@@ -4,6 +4,7 @@ title: "How Do You Actively Find Opportunities"
 date: 2024-05-28
 author: Uki D. Lucas
 permalink: "/posts/actively-find-opportunities/"
+overview: "One of the benefits of writing to people is that they sometimes respond. Most of my writing is for a single person in mind or a conversation summary."
 excerpt: "Practical steps to improve visibility, profile quality, and career opportunities."
 tags:
   - career

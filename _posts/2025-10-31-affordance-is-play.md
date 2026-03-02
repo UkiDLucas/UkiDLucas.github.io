@@ -4,6 +4,7 @@ title: "Affordance is Play"
 date: 2025-10-31
 author: Uki D. Lucas
 permalink: "/posts/affordance-is-play/"
+overview: "As a person passionate about Behavioral Sciences, I found myself unable to shake the impression that the paper “A Theory of Affordances in Reinforcement Learning” somewhat artificially imposes a mathematical frame on the idea. The authors, following Gibson in 1977, define “affordance” as a relationship between intent and action success within a..."
 ---
 
 Affordance as a Function of Intent and Action?

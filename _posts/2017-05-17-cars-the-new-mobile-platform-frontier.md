@@ -4,6 +4,7 @@ title: "Cars, the new mobile platform frontier"
 date: 2017-05-17
 author: Uki D. Lucas
 permalink: "/posts/cars-the-new-mobile-platform-frontier/"
+overview: "In last ten years, we have witnessed an explosion in mobile phone and tablet technology. Today, you can choose a set of apps that will delight you while making your life better, happier and more productive. You can get all this for few hundred dollars, a price of a flagship phone."
 ---
 
 In last ten years, we have witnessed an explosion in mobile phone and tablet technology. Today, you can choose a set of apps that will delight you while making your life better, happier and more productive. You can get all this for few hundred dollars, a price of a flagship phone.

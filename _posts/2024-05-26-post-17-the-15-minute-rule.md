@@ -4,6 +4,7 @@ title: "Post 17. The 15-minute rule."
 date: 2024-05-26
 author: Uki D. Lucas
 permalink: "/posts/post-17-the-15-minute-rule/"
+overview: "How do we attract opportunities? Great opportunities come to everyone all the time, but only trained and prepared people can notice and take advantage of them."
 ---
 
 How do we attract opportunities?

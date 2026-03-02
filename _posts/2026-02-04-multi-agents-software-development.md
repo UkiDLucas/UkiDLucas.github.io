@@ -5,6 +5,7 @@ date: 2026-02-04
 portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/multi-agents-software-development/"
+overview: "A multi-agent foundation LLM is built for parallel, role-separated work on complex problems. It assumes that meaningful software development is not linear. Architecture, implementation, testing, refactoring, validation, and documentation are distinct cognitive tasks that benefit from concurrent execution. In this model, multiple specialized agents operate at the same time within a shared..."
 ---
 
 A multi-agent foundation LLM is built for parallel, role-separated work on complex problems. It assumes that meaningful software development is not linear. Architecture, implementation, testing, refactoring, validation, and documentation are distinct cognitive tasks that benefit from concurrent execution. In this model, multiple specialized agents operate at the same time within a shared project state. Each agent has a defined role, constraints, and success criteria. One agent may reason purely about system architecture and invariants; another may implement code within a restricted scope; a third may generate or run tests; while a fourth evaluates performance, safety, or maintainability.

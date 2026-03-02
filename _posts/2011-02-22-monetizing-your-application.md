@@ -4,6 +4,7 @@ title: "Monetizing Your Application"
 date: 2011-02-22
 author: Uki D. Lucas
 permalink: "/posts/monetizing-your-application/"
+overview: "free app with ads free app; make money on additional services free app with in-app purchases free limited offer; paid full version fully priced version The first way to make money is to offer your application for free with advertisements. You should not consider this option, especially using services like AdMob, if..."
 ---
 
 # Monetizing your application

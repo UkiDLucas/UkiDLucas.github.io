@@ -46,16 +46,19 @@
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
         {% endif %}
 
-    {% assign overview_source = post.excerpt | default: post.content %}
-    {% assign paragraph_segments = post.content | split: "<p>" %}
-    {% if paragraph_segments.size > 1 %}
-      {% assign first_paragraph_html = paragraph_segments[1] | split: "</p>" | first %}
-      {% assign first_paragraph_text = first_paragraph_html | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
-      {% if first_paragraph_text != "" %}
-        {% assign overview_source = first_paragraph_text %}
+    {% assign overview_text = post.overview | default: "" | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
+    {% if overview_text == "" %}
+      {% assign overview_source = post.excerpt | default: post.content %}
+      {% assign paragraph_segments = post.content | split: "<p>" %}
+      {% if paragraph_segments.size > 1 %}
+        {% assign first_paragraph_html = paragraph_segments[1] | split: "</p>" | first %}
+        {% assign first_paragraph_text = first_paragraph_html | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
+        {% if first_paragraph_text != "" %}
+          {% assign overview_source = first_paragraph_text %}
+        {% endif %}
       {% endif %}
+      {% assign overview_text = overview_source | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
     {% endif %}
-    {% assign overview_text = overview_source | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
     {% if overview_text != "" %}
       <p class="archive__item-excerpt archive__item-overview" itemprop="description">
         {{ overview_text | truncatewords: 45 }}

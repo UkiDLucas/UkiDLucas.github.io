@@ -4,6 +4,7 @@ title: "Post 11. Why it is important to realize you are not special"
 date: 2024-05-14
 author: Uki D. Lucas
 permalink: "/posts/post-11-why-it-is-important-to-realize-you-are-not-special/"
+overview: "I was not planning to write tonight, but I received this beautiful feedback on the previous post and wanted to address it. This post provides clear context, key ideas, and practical takeaways."
 ---
 
 Dear Friend

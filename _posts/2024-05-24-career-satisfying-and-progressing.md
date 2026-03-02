@@ -4,6 +4,7 @@ title: "How Can You Ensure Your Career Is Both Satisfying and Progressing"
 date: 2024-05-24
 author: Uki D. Lucas
 permalink: "/posts/career-satisfying-and-progressing/"
+overview: "Some individuals’ careers seem to skyrocket, while others find themselves in a perpetual state of 'SOS' (stuck-on-stupid), a term I use to describe a rut. Regrettably, I've been in the latter category for far too long."
 excerpt: "A framework for career direction through focus, discipline, and intentional micro-pivots."
 tags:
   - career

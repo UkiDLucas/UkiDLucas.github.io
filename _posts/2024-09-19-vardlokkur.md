@@ -16,6 +16,7 @@ keywords:
   - Proto-Indo-European
   - Mythology
   - Draft Manuscript
+overview: "Paleo and early pastoral period Toba: 70 thousand years ago The Shelter The Dream and the Hunt Vardlokkur's name Military service Welcome scouts The Old Gods Kzem Mater (PIE) Mother Earth-mother-earth) Dyeus Pater (PIE) Sky Father-sky-father) Perkwunos (PIE) Thunder God-thunder-god) Ausos (PIE) Dawn Goddess-dawn-goddess) Dhenus (PIE) Fertility Goddess-fertility-goddess) Agnis (PIE) Fire Diety-fire-diety)..."
 ---
 
 This is a working draft. The editable master version is on

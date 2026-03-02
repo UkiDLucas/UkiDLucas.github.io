@@ -5,6 +5,7 @@ date: 2025-12-29
 portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/llm-context-is-not-optional/"
+overview: "Modern large language models represent a compressed statistical summary of an enormous portion of what has been publicly written. This post provides clear context, key ideas, and practical takeaways."
 ---
 
 On numerous occasions, I have heard people say that GPT answers are generic, shallow, or otherwise insufficient.

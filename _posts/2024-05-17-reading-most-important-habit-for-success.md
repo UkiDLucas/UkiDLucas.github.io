@@ -4,6 +4,7 @@ title: "Why Do I Consider Reading the Single Most Important Habit for Success"
 date: 2024-05-17
 author: Uki D. Lucas
 permalink: "/posts/reading-most-important-habit-for-success/"
+overview: "I am not writing a history book. You can look it up, but let me drop in a few names of insatiable readers: da Vinci, Jefferson, Franklin, Lincoln, Einstein, Gandhi, Marie Curie-Skłodowska, and a few modern ones: Warren Buffett, Oprah, Bill Gates, Elon Musk, Obama, and Mark Zuckerberg. Good company, wouldn’t you..."
 excerpt: "A short argument for reading as the core habit behind better judgment and long-term growth."
 tags:
   - reading

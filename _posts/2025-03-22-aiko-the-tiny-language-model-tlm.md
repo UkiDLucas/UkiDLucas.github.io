@@ -5,6 +5,7 @@ date: 2025-03-22
 portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/aiko-the-tiny-language-model-tlm/"
+overview: "Introduction: A Language Model of My Own We are surrounded by large language models: systems trained on the vastness of the internet. Models like GPT, Claude, and LLaMA can write essays, answer science questions, explain math, generate stories, and even simulate personalities. But as I’ve written in my blog, I’m not chasing..."
 ---
 
 Introduction: A Language Model of My Own

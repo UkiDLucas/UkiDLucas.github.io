@@ -4,6 +4,7 @@ title: "Beyond Note-Taking: My Journey with Obsidian and ChatGPT Towards a Perso
 date: 2023-05-18
 author: Uki D. Lucas
 permalink: "/posts/beyond-note-taking-personal-ai/"
+overview: "In this article, I delve into my pursuit of a more interactive, and intelligent method to safeguard one’s intellectual legacy. Acknowledging the limitations of both traditional and digital tools like Obsidian, I explore the approach of constructing a personalized AI model trained on my own collection of notes. Inspired by the intelligent..."
 excerpt: "Exploring how personal notes and AI can evolve into an interactive intellectual legacy."
 tags:
   - ai

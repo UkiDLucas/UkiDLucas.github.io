@@ -5,6 +5,7 @@ date: 2026-02-08
 portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/measuring-movement-with-computer-vision/"
+overview: "At a basic level, video is a time-stamped measurement tool. Every frame is a discrete snapshot of body position at a known interval. At 60 frames per second, each frame represents about 16.7 milliseconds. That is already within the range where clinically meaningful differences in reaction time, initiation latency, acceleration, and braking..."
 ---
 
 Today, I was measuring my movement using computer vision.

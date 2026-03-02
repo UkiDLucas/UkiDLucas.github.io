@@ -4,6 +4,7 @@ title: "Everlasting Youth"
 date: 2021-02-12
 author: Uki D. Lucas
 permalink: "/posts/everlasting-youth/"
+overview: "Too many people live with allergies, low-level aches, auto-immune diseases, arthritis, pre-diabetic sugar levels, obesity, cancer, mental fog, and dementia. Too many people die early."
 ---
 
 #byUkiDLucas #Medium #public

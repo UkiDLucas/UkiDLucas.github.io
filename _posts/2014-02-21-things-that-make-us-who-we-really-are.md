@@ -4,6 +4,7 @@ title: "Things That Make Us Who We Really Are"
 date: 2014-02-21
 author: Uki D. Lucas
 permalink: "/posts/things-that-make-us-who-we-really-are/"
+overview: "Today, I want to write about the unexpected things that uplift us when everyday life gets depressing, difficult, and lonely. Looking at people around, one is getting the idea that others are happy, busy, and successful, or at least are pursuing happiness. Meanwhile, you are unsure of your future, beat up by..."
 ---
 
  #byUkiDLucas #public

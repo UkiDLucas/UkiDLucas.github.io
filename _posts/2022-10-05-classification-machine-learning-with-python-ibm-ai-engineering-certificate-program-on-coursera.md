@@ -4,6 +4,7 @@ title: "Classification - Machine Learning with Python - IBM AI Engineering certi
 date: 2022-10-05
 author: Uki D. Lucas
 permalink: "/posts/classification-machine-learning-with-python-ibm-ai-engineering-certificate-program-on-coursera/"
+overview: "NOTE: This is a continuation of the: \"IBM AI Engineering certificate program on Coursera - Machine Learning with Python\". This post provides clear context, key ideas, and practical takeaways."
 ---
 
 NOTE: This is a continuation of the: "IBM AI Engineering certificate program on Coursera - Machine Learning with Python"

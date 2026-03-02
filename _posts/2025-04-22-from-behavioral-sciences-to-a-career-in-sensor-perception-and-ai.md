@@ -4,6 +4,7 @@ title: "From Behavioral Sciences to a Career in Sensor Perception and AI"
 date: 2025-04-22
 author: Uki D. Lucas
 permalink: "/posts/from-behavioral-sciences-to-a-career-in-sensor-perception-and-ai/"
+overview: "Every couple of years, I write a post about my career in which I review the past and consider pivots for the future. It is time to post an update for 2025. Because of AI, this year will be the most transformative."
 ---
 
 Every couple of years, I write a post about my career in which I review the past and consider pivots for the future. It is time to post an update for 2025. Because of AI, this year will be the most transformative.

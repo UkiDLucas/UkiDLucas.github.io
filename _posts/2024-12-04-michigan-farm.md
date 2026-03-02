@@ -4,10 +4,8 @@ layout: paper
 author: Uki D. Lucas
 title: Michigan farm "Up North"
 excerpt: Dreaming about the "Up North" in retirement.
+overview: "Nestled in the heart of [[Michigan]]’s scenic landscape, near the bustling Boyne Falls Ski Resort, lies a unique stretch of land—41 acres of gently rolling hills, lush meadows, and sun-kissed slopes. This picturesque region is known not just for its outdoor adventure offerings, such as snowmobiling routes and biking trails, but also..."
 ---
-
-
-
 
 # **A Guide to Sustainable Farming: Nut Trees, Livestock, Wine Grapes, and a B\&B Experience**
 

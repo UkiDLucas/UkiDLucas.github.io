@@ -4,6 +4,7 @@ title: "How to Prepare Design Assets (UI) for iPhone Development"
 date: 2012-06-18
 author: Uki D. Lucas
 permalink: "/posts/prepare-design-assets-ui-for-iphone-development/"
+overview: "From our experience the ideal case scenario is when the developer and the UI/UX designer work hand in hand. Meanwhile since, many companies have their in-house design teams, and either want to save on design, or feel more comfortable working with their team, here are the requirements for the deliverables. Press-able elements..."
 ---
 
  #byUkiDLucas #public

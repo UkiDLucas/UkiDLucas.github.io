@@ -4,6 +4,7 @@ title: "vardlokkur: the prologue"
 date: 2008-03-30
 author: Uki D. Lucas
 permalink: "/posts/vardlokkur-the-prologue/"
+overview: "This story is about the last days of the great human culture. I am writing this from the perspective of 71 thousand years later, hence, I will use the terminology understood by my readers. That culture had its roots in the events much earlier, when 125 thousands years ago the temperatures were..."
 ---
 
 # vardlokkur: the prologue

@@ -4,6 +4,7 @@ title: "What did AIKO say about this old article in 2025?"
 date: 2025-03-21
 author: Uki D. Lucas
 permalink: "/posts/what-did-aiko-say-about-this-old-article-in-2025/"
+overview: "AIKO - \"The Child of Artificial Intelligence\" (in Japanese, \"ko\" means child; \"ai\" means love, denoting the \"emotional intelligence\" aspect of the project). This post provides clear context, key ideas, and practical takeaways."
 ---
 
 In 2007, I described the following 1999 concept, please be patient:

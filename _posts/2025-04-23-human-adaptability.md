@@ -4,6 +4,7 @@ title: "Human Adaptability"
 date: 2025-04-23
 author: Uki D. Lucas
 permalink: "/posts/human-adaptability/"
+overview: "Historically, humans have thrived because they are useful to one another. Communities naturally ostracized (expelled) malicious or unproductive people, effectively making usefulness synonymous with survival. Being excluded was not merely inconvenient; it often meant death, as individuals rarely survived in isolation."
 ---
 
 Historically, humans have thrived because they are useful to one another. Communities naturally ostracized (expelled) malicious or unproductive people, effectively making usefulness synonymous with survival. Being excluded was not merely inconvenient; it often meant death, as individuals rarely survived in isolation.

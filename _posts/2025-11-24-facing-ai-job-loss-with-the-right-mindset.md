@@ -4,6 +4,7 @@ title: "Facing AI Job Loss with the Right Mindset"
 date: 2025-11-24
 author: Uki D. Lucas
 permalink: "/posts/facing-ai-job-loss-with-the-right-mindset/"
+overview: "I came across Ruri Ohama mentioning a book by Takafumi Horie and Yoichi Ochiai titled: “Job Atlas for 10 Years From Now. How Will You Live in a World That Is About to Begin?”"
 ---
 
 I came across Ruri Ohama mentioning a book by Takafumi Horie and Yoichi Ochiai titled: “Job Atlas for 10 Years From Now. How Will You Live in a World That Is About to Begin?”

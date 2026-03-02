@@ -4,6 +4,7 @@ title: "Choices: 15 minutes at a time"
 date: 2004-02-11
 author: Uki D. Lucas
 permalink: "/posts/choices-15-minutes-at-a-time/"
+overview: "Recently, I have been worrying about the future. I am long past dwelling on the past, but still I feel inferior to my potential. Worry is a killer, a stress maker. I had a lot of it lately. I've just read that the more one lives in the the present, the better..."
 ---
 
 # Choices: 15 minutes at a time

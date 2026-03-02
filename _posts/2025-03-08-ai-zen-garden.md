@@ -4,6 +4,7 @@ title: "AI zen garden"
 date: 2025-03-08
 author: Uki D. Lucas
 permalink: "/posts/ai-zen-garden/"
+overview: "I often imagine early humans gathered around a bonfire, sharing stories and chipping away at obsidian shards to create tools. In my own life, I notice a curious parallel: I sit here with my favorite note-taking app, aptly named Obsidian, and chip away at my thoughts, forging new ideas bit by bit."
 ---
 
 I often imagine early humans gathered around a bonfire, sharing stories and chipping away at obsidian shards to create tools. In my own life, I notice a curious parallel: I sit here with my favorite note-taking app, aptly named Obsidian, and chip away at my thoughts, forging new ideas bit by bit. Just as our ancestors used volcanic bits to chip instruments of survival, I use digital chips and bits to build tools of thinking—tools meant to spark creativity and knowledge and deepen my understanding of human nature.

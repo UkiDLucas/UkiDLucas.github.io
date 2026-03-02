@@ -4,6 +4,7 @@ title: "Atlas Shrugged: Strong Ideology but Minimal Individual Action"
 date: 2025-03-20
 author: Uki D. Lucas
 permalink: "/posts/atlas-shrugged-strong-ideology-minimal-action/"
+overview: "It came down to a choice between _Atlas Shrugged_ and _The Fountainhead_—between my namesake, the enigmatic, sophisticated Dominique, and Dagny, the embodiment of objectivist ideals."
 ---
 
 #Blogger #byUkiDLucas #book #public 

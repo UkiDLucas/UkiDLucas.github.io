@@ -4,6 +4,7 @@ title: "Virtual Personal Assistant"
 date: 2017-03-21
 author: Uki D. Lucas
 permalink: "/posts/virtual-personal-assistant/"
+overview: "This post comes as a result of experience in managing people in various foreign countries for over 17 years. The five years of which has been running a business that was entirely virtual. True, it is mostly in technology, but also a fair share of managing artists, user experience, data entry, social..."
 ---
 
 #byUkiDLucas #VPA #public #Medium #LinkedIn 

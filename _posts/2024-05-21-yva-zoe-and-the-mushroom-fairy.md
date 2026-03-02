@@ -4,6 +4,7 @@ title: "Yva, Zoe, and the Mushroom Fairy"
 date: 2024-05-21
 author: Uki D. Lucas
 permalink: "/posts/yva-zoe-and-the-mushroom-fairy/"
+overview: "Once upon a time, in a land filled with enchantment, there lived two little girls named Yva and Zoë. This post provides clear context, key ideas, and practical takeaways."
 excerpt: "A family story about curiosity, nature, and wonder in a magical forest."
 tags:
   - family

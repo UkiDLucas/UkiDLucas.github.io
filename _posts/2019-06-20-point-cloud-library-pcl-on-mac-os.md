@@ -4,6 +4,7 @@ title: "Point Cloud Library (PCL) on Mac OS"
 date: 2019-06-20
 author: Uki D. Lucas
 permalink: "/posts/point-cloud-library-pcl-on-mac-os/"
+overview: "FLANN found (include: /usr/local/Cellar/flann/1.9.1_7/include, lib: optimized;/usr/local/Cellar/flann/1.9.1_7/lib/libflann_cpp.dylib;debug;/usr/local/Cellar/flann/1.9.1_7/lib/libflann_cpp.dylib)"
 ---
 
 Install PCL using BREW.

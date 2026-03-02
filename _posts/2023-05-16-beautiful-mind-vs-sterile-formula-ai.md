@@ -4,6 +4,7 @@ title: "Beautiful Mind vs Sterile Formula: The Pathway to Better AI"
 date: 2023-05-16
 author: Uki D. Lucas
 permalink: "/posts/beautiful-mind-vs-sterile-formula-ai/"
+overview: "published: 2023-05-16 A way of thinking about a particular concept is called a paradigm. It is a model, or a framework, that shapes our perspective in order to interpret the world."
 ---
 
 #byUkiDLucas #Medium #public

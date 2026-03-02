@@ -4,6 +4,7 @@ title: "AIKO The Child of Artificial Intelligence"
 date: 2007-10-12
 author: Uki D. Lucas
 permalink: "/posts/aiko-the-child-of-artificial-intelligence/"
+overview: "AIKO - \"The Child of Artificial Intelligence\" (in Japanese, \"ko\" means child; \"ai\" means love, denoting the \"emotional intelligence\" aspect of the project). This post provides clear context, key ideas, and practical takeaways."
 ---
 
 AIKO - "The Child of Artificial Intelligence" (in Japanese, "ko" means child; "ai" means love, denoting the "emotional intelligence" aspect of the project)

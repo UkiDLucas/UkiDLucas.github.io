@@ -4,6 +4,7 @@ title: "My Dream Assistant Should Know Me Better"
 date: 2021-01-10
 author: Uki D. Lucas
 permalink: "/posts/dream-assistant-should-know-me-better/"
+overview: "Today, Siri, Alexa, and Google Assistant are sometimes useful, sometimes fun, but honestly, very limited. They often return a generic answer or a bland web search result when we ask them questions. Considering the massive resources behind Apple, Amazon, and Google, it's surprising how little progress these tools have made."
 ---
 
 #byUkiDLucas #AIKO

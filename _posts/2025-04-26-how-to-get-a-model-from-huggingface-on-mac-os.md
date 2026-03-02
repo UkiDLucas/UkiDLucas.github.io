@@ -4,6 +4,7 @@ title: "How to get a model from HuggingFace on Mac OS"
 date: 2025-04-26
 author: Uki D. Lucas
 permalink: "/posts/how-to-get-a-model-from-huggingface-on-mac-os/"
+overview: "Why? Git needs to know how to handle large files (like model weights) separately from normal, small text files. This post provides clear context, key ideas, and practical takeaways."
 ---
 
 How to get a model from HuggingFace on Mac OS

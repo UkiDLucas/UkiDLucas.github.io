@@ -4,6 +4,7 @@ title: "LM Studio with 12 and 24B local LLM models"
 date: 2025-05-17
 author: Uki D. Lucas
 permalink: "/posts/lm-studio-with-12-and-24b-local-llm-models/"
+overview: "In my LM Studio, I have been using the 12 billion and 24 billion parameter models on my relatively inexpensive Mac Studio M1, which has 64 GB of unified memory."
 ---
 
 In my LM Studio, I have been using the 12 billion and 24 billion parameter models on my relatively inexpensive Mac Studio M1, which has 64 GB of unified memory.

@@ -4,6 +4,7 @@ title: "App: Lost in Translation"
 date: 2014-07-08
 author: Uki D. Lucas
 permalink: "/posts/app-lost-in-translation/"
+overview: "From time to time, each of us working in the app development, be that an UI/UX designer, developer or project manager has to come up with user messages on the spot. We all think: \"Oh this is a temporary text, a placeholder, we will fix it later.. Question: How many times this..."
 ---
 
  #byUkiDLucas #public

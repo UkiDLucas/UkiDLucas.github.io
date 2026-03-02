@@ -4,6 +4,7 @@ title: "Design and User Experience"
 date: 2016-06-02
 author: Uki D. Lucas
 permalink: "/posts/design-and-user-experience/"
+overview: "Design and User Experience Development for mobile is a wonderful opportunity for beautiful and functional design that complements device’s technical abilities and screen properties. Most people underestimate the amount of work that goes into graphical design and its implementation. Just as a food for thought, display is one of the most expensive..."
 ---
 
 #byUkiDLucas #public #UX

@@ -1,9 +1,10 @@
 ---
 layout: paper
-title: "AI Tutor inspired by \\"Brave New Words\"
+title: 'AI Tutor inspired by "Brave New Words"'
 date: 2025-04-23
 author: Uki D. Lucas
 permalink: "/posts/ai-tutor-inspired-by-brave-new-words/"
+overview: "I have been reading a book, \"Brave New Words,\" by Salman Khan of Khan Academy, and I got inspired to design an AI tutor (named Maia) for my daughter."
 ---
 
 I have been reading a book, "Brave New Words," by Salman Khan of Khan Academy, and I got inspired to design an AI tutor (named Maia) for my daughter.

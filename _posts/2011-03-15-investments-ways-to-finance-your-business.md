@@ -4,6 +4,7 @@ title: "Investments: Ways to Finance Your Business"
 date: 2011-03-15
 author: Uki D. Lucas
 permalink: "/posts/investments-ways-to-finance-your-business/"
+overview: "self-financed, organic growth FFF Angel Investors VC public offerin I would suggest for you to develop your business \"on the side\" until it is profitable and try to continue growing it organically. If you do so, you know your business is healthy and you don't need to take on investors that could..."
 ---
 
 # Investments: Ways to finance your business

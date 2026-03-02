@@ -4,6 +4,7 @@ title: "Aikido, terminology and etiquette"
 date: 2023-01-17
 author: Uki D. Lucas
 permalink: "/posts/aikido-terminology-and-etiquette/"
+overview: "Note: Please learn the Japanese Hiragana script for proper pronunciation. Shomen ni rei literally: “bow to the front” This is a bow to the ancestral altar. Sensei 先生 せんせい teacher, master, elder, guru, one who has gone before Sensei ni rei Literally: bow to the sensei. Sensei, Onegaishimasu せんせい, おねがいします literally: \"Teacher..."
 ---
 
 # Aikido, terminology and etiquette

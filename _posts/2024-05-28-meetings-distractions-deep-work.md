@@ -4,6 +4,7 @@ title: "Meetings, distractions, deep work"
 date: 2024-05-28
 author: Uki D. Lucas
 permalink: "/posts/meetings-distractions-deep-work/"
+overview: "Some team members are constantly being disturbed, which is not good for productivity. We have to be mindful of this at all times. This post provides clear context, key ideas, and practical takeaways."
 ---
 
 ## Meetings, distractions, deep work

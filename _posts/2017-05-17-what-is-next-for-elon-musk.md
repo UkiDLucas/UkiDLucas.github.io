@@ -4,6 +4,7 @@ title: "What Is Next for Elon Musk"
 date: 2017-05-17
 author: Uki D. Lucas
 permalink: "/posts/what-is-next-for-elon-musk/"
+overview: "Elon Musk has said that he would like to die on Mars, preferably, not in the landing accident. Poetic. In fact, there is a joke around the Internet that Elon is an alien who tries to get back home. I find this whole idea as much amusing as thought stimulating."
 ---
 
 #Space #ElonMusk #BioTechnology #technology #Tesla #byUkiDLucas #public #Medium 

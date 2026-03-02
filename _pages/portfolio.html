@@ -15,16 +15,19 @@ author_profile: true
 
 <section class="portfolio-list" aria-label="Portfolio articles">
   {% for item in portfolio_items %}
-    {% assign summary_source = item.excerpt | default: item.content %}
-    {% assign paragraph_segments = item.content | split: "<p>" %}
-    {% if paragraph_segments.size > 1 %}
-      {% assign first_paragraph_html = paragraph_segments[1] | split: "</p>" | first %}
-      {% assign first_paragraph_text = first_paragraph_html | strip_html | strip_newlines | replace: "  ", " " | strip %}
-      {% if first_paragraph_text != "" %}
-        {% assign summary_source = first_paragraph_text %}
+    {% assign summary_text = item.overview | default: "" | strip_html | strip_newlines | replace: "  ", " " | strip %}
+    {% if summary_text == "" %}
+      {% assign summary_source = item.excerpt | default: item.content %}
+      {% assign paragraph_segments = item.content | split: "<p>" %}
+      {% if paragraph_segments.size > 1 %}
+        {% assign first_paragraph_html = paragraph_segments[1] | split: "</p>" | first %}
+        {% assign first_paragraph_text = first_paragraph_html | strip_html | strip_newlines | replace: "  ", " " | strip %}
+        {% if first_paragraph_text != "" %}
+          {% assign summary_source = first_paragraph_text %}
+        {% endif %}
       {% endif %}
+      {% assign summary_text = summary_source | strip_html | strip_newlines | replace: "  ", " " | strip %}
     {% endif %}
-    {% assign summary_text = summary_source | strip_html | strip_newlines | replace: "  ", " " | strip %}
     <article class="portfolio-list__item">
       <h2 class="portfolio-list__title">
         <a href="{{ item.url }}">{{ item.title }}</a>

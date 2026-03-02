@@ -4,6 +4,7 @@ title: "Walk and Listen"
 date: 2024-04-18
 author: Uki D. Lucas
 permalink: "/posts/walk-and-listen/"
+overview: "“The best sailing is down the trade winds. If you are setting off to do something, go with the prevailing winds” ~ Uki Every couple of years, I reevaluate which way the wind is blowing and make corrections in my life. The last couple of years have been dominated by AI and..."
 ---
 
 # Walk and Listen

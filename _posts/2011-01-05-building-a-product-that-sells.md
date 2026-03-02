@@ -4,6 +4,7 @@ title: "Building a Product That Sells"
 date: 2011-01-05
 author: Uki D. Lucas
 permalink: "/posts/building-a-product-that-sells/"
+overview: "✓ the better mouse trap myth ✓ basic rules to follow ✓ build it for yourself Let's start with the product because after all that is what your customers will want and what will define all of your future efforts, regardless how lofty your philosophy is. We need to start with dispatching..."
 ---
 
 # Building a Product That Sells

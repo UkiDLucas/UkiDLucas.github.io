@@ -5,6 +5,7 @@ date: 2025-05-30
 portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/testing-local-llm-on-multi-lingual-understanding/"
+overview: "I have run a quick test on a few LLM models I have installed locally on Mac OS with 64 GB of RAM. This post provides clear context, key ideas, and practical takeaways."
 ---
 
 I have run a quick test on a few LLM models I have installed locally on Mac OS with 64 GB of RAM.

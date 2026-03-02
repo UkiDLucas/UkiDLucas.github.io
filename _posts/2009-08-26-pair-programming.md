@@ -4,6 +4,7 @@ title: "pair programming"
 date: 2009-08-26
 author: Uki D. Lucas
 permalink: "/posts/pair-programming/"
+overview: "Here are a steps I would like the team to follow while developing: Create a wiki topic on what you are planning to do and explain these steps to someone before starting writing the code Have a buddy spend at least a part of the day pair-programming with you, return the favor..."
 ---
 
 # pair programming

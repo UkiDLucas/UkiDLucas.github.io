@@ -4,6 +4,7 @@ title: "Post 12. How choosing right friends is a crucial life choice"
 date: 2024-05-15
 author: Uki D. Lucas
 permalink: "/posts/post-12-how-choosing-right-friends-is-a-crucial-life-choice/"
+overview: "We served together in the military, lived in Okinawa, and attended the same university for Japanese Studies. We had profound and life-changing discussions. We also had to work hard on our characters and rise above what life has served us. 🙂 Your accomplishments are spectacular, and I am proud of you."
 ---
 
 Dear Friend

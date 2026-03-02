@@ -4,6 +4,7 @@ title: "Slavic saga"
 date: 2025-03-09
 author: Uki D. Lucas
 permalink: "/posts/slavic-saga/"
+overview: "In the beginning, before time itself awakened, there existed only Rod—the eternal, the boundless, the unmanifested source of all existence. Rod lingered in profound silence, beyond form, thought, and sensation. Within this divine stillness lay the seeds of infinite possibility, awaiting the spark that would ignite creation. And so, from the depths..."
 ---
 
 In the beginning, before time itself awakened, there existed only Rod—the eternal, the boundless, the unmanifested source of all existence. Rod lingered in profound silence, beyond form, thought, and sensation. Within this divine stillness lay the seeds of infinite possibility, awaiting the spark that would ignite creation. And so, from the depths of Rod’s infinite mind emerged the first divine thoughts, vibrant and luminous.

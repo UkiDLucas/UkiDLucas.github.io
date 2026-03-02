@@ -4,6 +4,7 @@ title: "Your Value after the A.I. Singularity Event"
 date: 2017-05-20
 author: Uki D. Lucas
 permalink: "/posts/your-value-after-ai-singularity-event/"
+overview: "In this article, we will explore the development of Artificial Intelligence (A.I.) and its impact on humanity. This post provides clear context, key ideas, and practical takeaways."
 ---
 
 #byUkiDLucas #SingularityEvent #EQ #Cybernetics #AI #public 

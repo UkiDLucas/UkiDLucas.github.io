@@ -4,6 +4,7 @@ title: "From Brooms to Battle Plans: The Tactical vs Strategic Leaders"
 date: 2024-06-08
 author: Uki D. Lucas
 permalink: "/posts/tactical-vs-strategic-leaders/"
+overview: "This blog post highlights the importance of transitioning from hands-on tasks to strategic leadership for technology managers. This post provides clear context, key ideas, and practical takeaways."
 excerpt: "A leadership reflection on delegating tactical work and focusing on strategic impact."
 tags:
   - leadership

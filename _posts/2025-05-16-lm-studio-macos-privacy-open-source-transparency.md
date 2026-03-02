@@ -4,6 +4,7 @@ title: "LM Studio for macOS: Privacy and Open-Source Transparency"
 date: 2025-05-16
 author: Uki D. Lucas
 permalink: "/posts/lm-studio-macos-privacy-open-source-transparency/"
+overview: "LM Studio is a popular desktop application that allows users to run large language models (LLMs) locally on macOS. It advertises a privacy-first approach by processing data entirely on the user’s machine, without sending any information to external servers. However, questions around its transparency and open-source status have arisen in the community."
 ---
 
 #ChatGPT #byUkiDLucas 

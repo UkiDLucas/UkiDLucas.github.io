@@ -4,6 +4,7 @@ title: "Dlaczego informatyk miałby być zainteresowany nauką kaligrafii?"
 date: 2023-05-05
 author: Uki D. Lucas
 permalink: "/posts/dlaczego-informatyk-miaby-byc-zainteresowany-nauka-kaligrafii/"
+overview: "/ Wyobraź sobie, że siedzisz na spotkaniu. Po drugiej stronie biurka siedzi wice-prezydent twojego klienta. Wice-prezydent wyjaśnia problemy swojej firmy. Twarze dyrektorów, rozsianych po sali, wskazują na szereg emocji, począwszy od: - „Nie jestem pewien, po co nam ten zespół konsultantów”, do wyzywającego - „Nie dbam, nie będę zawracać sobie głowy!”. Ty..."
 ---
 
 # Dlaczego informatyk miałby być zainteresowany nauką kaligrafii?

@@ -4,6 +4,7 @@ title: "Modern Thinkers"
 date: 2024-06-06
 author: Uki D. Lucas
 permalink: "/posts/modern-thinkers/"
+overview: "In our interconnected world, some brilliant thinkers have emerged as influential internet writers, sharing their insights on technology, personal development, philosophy, and more. If you appreciate the works of Paul Graham, Tim Ferriss, and Gurwinder Bhogal, you'll likely enjoy the following thinkers as well:"
 ---
 
 In our interconnected world, some brilliant thinkers have emerged as influential internet writers, sharing their insights on technology, personal development, philosophy, and more. If you appreciate the works of Paul Graham, Tim Ferriss, and Gurwinder Bhogal, you'll likely enjoy the following thinkers as well:

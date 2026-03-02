@@ -4,6 +4,7 @@ title: "Did search engine results cut the traffic to personal blogs?"
 date: 2024-04-17
 author: Uki D. Lucas
 permalink: "/posts/did-search-engine-results-cut-the-traffic-to-personal-blogs/"
+overview: "I have noticed a very unsettling statistic on my blog. This prompted a fascinating question about AI, blogs' future, and maybe even the Internet."
 ---
 
 I have noticed a very unsettling statistic on my blog.

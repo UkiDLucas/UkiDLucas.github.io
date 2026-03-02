@@ -4,6 +4,7 @@ title: "Hunter Gatherer (or Rather Scavenger) Lifestyle and Diet"
 date: 2010-01-11
 author: Uki D. Lucas
 permalink: "/posts/hunter-gatherer-lifestyle-and-diet/"
+overview: "Ever since university times (Cultural Anthropology major), I was thinking about the lives and the diets of our ancestors. After all, the last 10,000 years of agriculture, is just a drop in the bucket comparing with 5 million years of evolution of our body and digestive system. What is human bipedalism optimized..."
 ---
 
  #byUkiDLucas #public

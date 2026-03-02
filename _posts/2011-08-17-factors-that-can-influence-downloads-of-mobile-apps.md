@@ -4,6 +4,7 @@ title: "Factors That Can Influence Downloads of Mobile Apps"
 date: 2011-08-17
 author: Uki D. Lucas
 permalink: "/posts/factors-that-can-influence-downloads-of-mobile-apps/"
+overview: "Taking as a fact that you have a great app, a \"shouting\", cutting-edge presence on the app markets, good rating and good promotion, what else could influence the number of your app downloads? Having over a dozen apps out on the market, we noticed that every time we release an update, we..."
 ---
 
 # Factors that can influence downloads of the mobile apps

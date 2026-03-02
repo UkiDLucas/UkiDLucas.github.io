@@ -4,6 +4,7 @@ title: "This Is All Greek to Me"
 date: 2024-06-28
 author: Uki D. Lucas
 permalink: "/posts/this-is-all-greek-to-me/"
+overview: "\"This often employed, sarcastic declaration could not be more precise for an anthropologist fascinated by all nations influenced by Hellenic civilization.\". This post provides clear context, key ideas, and practical takeaways."
 excerpt: "Reflections on Greek language, history, and cultural influence across Europe."
 tags:
   - culture

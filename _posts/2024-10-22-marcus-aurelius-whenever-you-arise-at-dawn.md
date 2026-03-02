@@ -5,6 +5,7 @@ author: Uki D. Lucas
 title: 022. A Stoic Morning Reflection from Marcus Aurelius
 excerpt: A concise translation note on a passage from Marcus Aurelius.
 permalink: /022_Marcus_Aurelius
+overview: "This short passage offers a practical morning exercise: anticipate difficult people before the day starts. The framing is diagnostic, not emotional. The behavior of others is treated as ignorance of good and bad, not as a reason for retaliation."
 date: 2024-10-22
 paper_type: Translation Note
 affiliation: Independent Research

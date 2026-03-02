@@ -4,6 +4,7 @@ title: "Post 19. Put the best minds of our time in your Inbox."
 date: 2024-06-07
 author: Uki D. Lucas
 permalink: "/posts/post-19-put-the-best-minds-of-our-time-in-your-inbox/"
+overview: "I used to hate my e-mail. Today, I look forward to opening it whenever I have a spare moment. This post provides clear context, key ideas, and practical takeaways."
 ---
 
 I used to hate my e-mail.

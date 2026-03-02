@@ -5,6 +5,7 @@ date: 2026-01-23
 portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/running-a-24b-mistral-model-locally-with-mlx-macos/"
+overview: "Store model weights once, outside any tool-specific directory. This allows us to share them across multiple machines. This post provides clear context, key ideas, and practical takeaways."
 ---
 
 LLM model storage

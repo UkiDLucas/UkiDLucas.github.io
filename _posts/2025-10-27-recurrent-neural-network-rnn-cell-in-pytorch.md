@@ -5,6 +5,7 @@ date: 2025-10-27
 portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/recurrent-neural-network-rnn-cell-in-pytorch/"
+overview: "This minimal PyTorch example implements a custom recurrent neural network (RNN) cell from first principles, showing how sequence memory emerges through feedback. The cell maintains a hidden state vector h, which evolves over time using the current input x and the previous hidden state through the nonlinear update h = tanh(Wₕₕh +..."
 ---
 
 This minimal PyTorch example implements a custom recurrent neural network (RNN) cell from first principles, showing how sequence memory emerges through feedback.

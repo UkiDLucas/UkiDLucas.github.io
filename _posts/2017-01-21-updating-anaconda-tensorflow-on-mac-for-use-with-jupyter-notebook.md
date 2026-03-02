@@ -4,6 +4,7 @@ title: "Updating Anaconda TensorFlow on Mac for use with jupyter notebook"
 date: 2017-01-21
 author: Uki D. Lucas
 permalink: "/posts/updating-anaconda-tensorflow-on-mac-for-use-with-jupyter-notebook/"
+overview: "Initializing the variables init = tf.initialize_all_variables() # older TF 0.11.0-py35_0 conda-forge init = tf.global_variables_initializer() # newer TF 0.12.1-py35_1 conda-forge"
 ---
 
 I have been running TensorFlow, but it has been acting up and needed an update.

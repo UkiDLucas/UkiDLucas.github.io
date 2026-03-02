@@ -4,6 +4,7 @@ title: "My Grand Plan"
 date: 2017-01-15
 author: Uki D. Lucas
 permalink: "/posts/my-grand-plan/"
+overview: "My Grand Plan — 18 years from now in 2035 I will be 62 years old. How do I imagine myself then? Location, location, location. I will be living in a place that is a maximum one hour away from the major National Forest boundary, preferably located in wild mountains. This place..."
 ---
 
 #byUkiDLucas #public

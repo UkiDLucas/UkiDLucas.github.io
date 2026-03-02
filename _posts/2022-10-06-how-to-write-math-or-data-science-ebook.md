@@ -4,6 +4,7 @@ title: "How to Write a Math or Data Science eBook"
 date: 2022-10-06
 author: Uki D. Lucas
 permalink: "/posts/how-to-write-math-or-data-science-ebook/"
+overview: "When studying, I like to take notes, usually, I do it on my Blog, but often I use Jupyter notebooks which I commit to GitHub. If I am writing a paper I use Google Docs. Having my writing in 3 different places is not optimal. On top of that, using math formulas..."
 ---
 
  #byUkiDLucas #public

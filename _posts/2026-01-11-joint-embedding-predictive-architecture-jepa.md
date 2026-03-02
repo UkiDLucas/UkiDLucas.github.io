@@ -5,6 +5,7 @@ date: 2026-01-11
 portfolio: true
 author: Uki D. Lucas
 permalink: "/posts/joint-embedding-predictive-architecture-jepa/"
+overview: "Recently, I came across a paper on the \"Joint Embedding Predictive Architecture\" (JEPA), co-authored by Yann LeCun, which may change how we think about robotic perception."
 ---
 
 Overview
