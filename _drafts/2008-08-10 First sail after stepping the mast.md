@@ -1,3 +1,7 @@
+---
+layout: single
+title: "First sail after stepping the mast"
+---
  #byUkiDLucas #public
  
 # First sail after stepping the mast

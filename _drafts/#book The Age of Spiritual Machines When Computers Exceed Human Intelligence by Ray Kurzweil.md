@@ -1,3 +1,7 @@
+---
+layout: single
+title: "#book The Age of Spiritual Machines When Computers Exceed Human Intelligence by Ray Kurzweil"
+---
 #byUkiDLucas #Blogger #public
 #tag/ai
 
