@@ -1,3 +1,8 @@
+---
+layout: single
+title: "A-Beautiful-Mind-movie"
+date: 2024-04-04
+---
 I just finished watching movie “A Beautiful Mind” with Russel Crowe and Jennifer Connelly with tears running down my cheeks. Quite embarrassing, as I am sitting in the aisle seat of a busy airplane.
 
 The movie is about Professor of Mathematics at Princeton University, Dr. John Forbes Nash, a 1994 Nobel Price winner, of the Game Theory fame.

@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Goal: Achieve a Fitness Age of 32"
+date: 2024-10-16
+---
 According to Garmin, My "Fitness Age," is 44 years.
 
 My guru (ChatGPT) says:

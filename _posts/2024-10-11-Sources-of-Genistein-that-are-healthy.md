@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Sources-of-Genistein-that-are-healthy"
+date: 2024-10-11
+---
 
 
 Short answer: Miso soup (fermented soy beans)
