@@ -211,9 +211,12 @@
 
       &:first-child {
         font-weight: bold;
-        text-wrap: wrap;
+        white-space: nowrap;
 
         a {
+          display: inline;
+          margin: 0;
+          padding: 0;
           margin-left: 0;
         }
       }
