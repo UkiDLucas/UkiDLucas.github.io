@@ -9,41 +9,68 @@ author_profile: true
 {% assign portfolio_items = featured_posts | concat: site.portfolio %}
 {% assign portfolio_items = portfolio_items | sort: "date" | reverse %}
 
-This collection of posts represents my completed articles, however you can expect periodic revisions and updates as I continue to learn and grow.
+<p class="portfolio-intro">
+  This collection of posts represents my completed articles, however you can expect periodic revisions and updates as I continue to learn and grow.
+</p>
 
-
-<ul>
+<section class="portfolio-list" aria-label="Portfolio articles">
   {% for item in portfolio_items %}
-    <li>
-      <a href="{{ item.url }}">{{ item.title }}</a> - {{ item.excerpt }}
-    </li>
+    {% assign summary_source = item.excerpt | default: item.content %}
+    {% assign paragraph_segments = item.content | split: "<p>" %}
+    {% if paragraph_segments.size > 1 %}
+      {% assign first_paragraph_html = paragraph_segments[1] | split: "</p>" | first %}
+      {% assign first_paragraph_text = first_paragraph_html | strip_html | strip_newlines | replace: "  ", " " | strip %}
+      {% if first_paragraph_text != "" %}
+        {% assign summary_source = first_paragraph_text %}
+      {% endif %}
+    {% endif %}
+    {% assign summary_text = summary_source | strip_html | strip_newlines | replace: "  ", " " | strip %}
+    <article class="portfolio-list__item">
+      <h2 class="portfolio-list__title">
+        <a href="{{ item.url }}">{{ item.title }}</a>
+      </h2>
+      {% if summary_text != "" %}
+        <p class="portfolio-list__summary">{{ summary_text | truncatewords: 45 }}</p>
+      {% endif %}
+    </article>
   {% endfor %}
-</ul>
-
-
-
- 
-
-<div class="portfolio-grid">
-  {% for item in portfolio_items %}
-    <div class="portfolio-item">
-      <a href="{{ item.url }}">
-        <h2>{{ item.title }}</h2>
-      </a>
-      <p>{{ item.excerpt }}</p>
-    </div>
-  {% endfor %}
-</div>
+</section>
 
 <style>
-  .portfolio-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
+  .portfolio-intro {
+    margin-bottom: 1.25rem;
   }
-  .portfolio-item {
-    padding: 10px;
-    border: 1px solid #ddd;
-    text-align: center;
+
+  .portfolio-list {
+    margin: 0;
+    padding: 0;
+  }
+
+  .portfolio-list__item {
+    margin-bottom: 1.9rem;
+  }
+
+  .portfolio-list__title {
+    margin: 0 0 0.35rem;
+    font-size: 2rem;
+    line-height: 1.2;
+    font-weight: 700;
+  }
+
+  .portfolio-list__title a {
+    text-decoration: none;
+  }
+
+  .portfolio-list__title a:hover,
+  .portfolio-list__title a:focus {
+    text-decoration: underline;
+  }
+
+  .portfolio-list__summary {
+    margin: 0;
+    font-size: 1rem;
+    line-height: 1.7;
+    font-weight: 400;
+    color: #2f3337;
   }
 </style>
