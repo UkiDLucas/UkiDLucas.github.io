@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Make a human connection, not a “quid pro quo” proposition"
 date: 2023-05-22
 author: Uki D. Lucas

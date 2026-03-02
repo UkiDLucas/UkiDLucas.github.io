@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Programming for UI Designers: Android Options Menu"
 date: 2011-09-02
 author: Uki D. Lucas

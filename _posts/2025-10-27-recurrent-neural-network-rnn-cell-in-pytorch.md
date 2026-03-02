@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Recurrent Neural Network (RNN) cell in PyTorch"
 date: 2025-10-27
 portfolio: true

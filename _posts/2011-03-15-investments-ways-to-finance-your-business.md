@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Investments: Ways to Finance Your Business"
 date: 2011-03-15
 author: Uki D. Lucas

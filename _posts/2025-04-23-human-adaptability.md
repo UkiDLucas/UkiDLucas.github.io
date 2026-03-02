@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Human Adaptability"
 date: 2025-04-23
 author: Uki D. Lucas

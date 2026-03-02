@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "vardlokkur: the prologue"
 date: 2008-03-30
 author: Uki D. Lucas

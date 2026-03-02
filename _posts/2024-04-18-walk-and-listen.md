@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Walk and Listen"
 date: 2024-04-18
 author: Uki D. Lucas

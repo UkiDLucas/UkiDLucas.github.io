@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Building a Product That Sells"
 date: 2011-01-05
 author: Uki D. Lucas

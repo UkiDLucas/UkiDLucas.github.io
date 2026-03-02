@@ -1,75 +1,96 @@
-# Academic Pages
-**Academic Pages is a Github Pages template for academic websites.**
+# UkiDLucas.github.io
 
-# Getting Started
+Personal blog and portfolio site for Uki D. Lucas, built with Jekyll (Academic Pages / Minimal Mistakes base), customized for long-form article reading.
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+## Purpose
 
-See more info at https://academicpages.github.io/
+This repository is the source of a writing-first website with two primary goals:
 
-## Running locally
+1. Publish thoughtful, long-form articles in a clean "paper" reading experience.
+2. Maintain a portfolio and archival structure without compromising readability.
 
-When you are initially working your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+## Functional Requirements
 
-1. Clone the repository and made updates as detailed above.
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+The site is driven by the following functional requirements.
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+### FR-01: Paper-first article rendering
+- All blog posts in `_posts/` must render using `layout: paper`.
+- `layout: paper` is the default for `type: posts` in `_config.yml`.
+- Existing posts with `layout: single` are migrated to `layout: paper` to avoid split behavior.
 
-## Using Docker
+### FR-02: Consistent paper alignment and typography
+- The paper layout must keep title, byline, and body content on a shared centered measure.
+- Header metadata and body blocks must align cleanly on desktop and mobile.
+- Paper content must remain readable on narrow screens without layout breakage.
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+### FR-03: Masthead visual consistency
+- The masthead title ("... blog and portfolio") must render in a single consistent color across both links and separator.
+- Hover/visited states must not create unintended color mismatches in the title block.
 
-Start by build the container:
+### FR-04: Authoring workflow remains simple
+- Authors can publish posts by creating Markdown files in `_posts/`.
+- Required metadata remains lightweight (title/date/categories/tags/excerpt).
+- Layout should not need to be specified per-post for normal blog publishing (default handles this).
+
+### FR-05: Archive and navigation integrity
+- Posts remain accessible from year archive and main navigation.
+- Portfolio, talks, teaching, and publication collections continue to use their own layouts/behavior.
+
+### FR-06: Local development and verification
+- Site must run locally for preview before publish.
+- One-time dependency setup (or after `Gemfile`/`Gemfile.lock` changes):
+  ```bash
+  source ./env.sh && bundle install
+  ```
+- Primary local command for day-to-day preview:
+  ```bash
+  ./run.sh
+  ```
+- If running `bundle` commands manually, load project-local Ruby gem paths first:
+  ```bash
+  source ./env.sh
+  ```
+- Build should remain GitHub Pages compatible.
+
+## Lessons Learned
+
+### 1) Defaults alone are not enough
+Setting a default layout in `_config.yml` does not fix older posts with explicit front matter. If consistency is required, legacy front matter must be migrated too.
+
+### 2) Alignment quality needs explicit constraints
+Readable "paper" layouts require explicit width/measure control for header and body sections. Relying on inherited theme spacing leads to subtle misalignment.
+
+### 3) Split-link masthead titles need forced color inheritance
+When a title is composed of multiple links plus separator text, color should be normalized explicitly across normal/visited/hover/focus states.
+
+### 4) Keep custom UI rules isolated
+Custom paper styling is intentionally kept in `assets/css/zen-prototype.css`, loaded after `main.css`, so focused visual changes do not require broad theme rewrites.
+
+### 5) Project README should reflect project reality
+The root README is now project-specific (requirements, decisions, and workflow), replacing generic upstream template documentation.
+
+## Current Implementation Notes
+
+- Paper layout template: `_layouts/paper.html`
+- Paper/masthead visual rules: `assets/css/zen-prototype.css`
+- Post default layout rule: `_config.yml` (`defaults` -> `type: posts` -> `layout: paper`)
+
+## Quick Audits
+
+Check for accidental non-paper post layouts:
 
 ```bash
-docker build -t jekyll-site .
+rg -n '^layout:\s*single$' _posts
 ```
 
-Next, run the container:
+Check current paper layout usage count:
+
 ```bash
-docker run -p 4000:4000 --rm -v $(pwd):/usr/src/app jekyll-site
+rg -n '^layout:\s*paper$' _posts | wc -l
 ```
 
-# Maintenance
+## Maintenance
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
-
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+- Keep article presentation stable and readable first.
+- Avoid introducing new per-post layout divergence unless intentional.
+- When visual tweaks are made, verify both desktop and mobile rendering locally before publishing.

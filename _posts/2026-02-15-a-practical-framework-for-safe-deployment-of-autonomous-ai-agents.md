@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "A Practical Framework for Safe Deployment of Autonomous AI Agents"
 date: 2026-02-15
 portfolio: true

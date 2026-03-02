@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "What if my passion lies in exploring rather than niching down?"
 date: 2023-12-14
 author: Uki D. Lucas

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Factors That Can Influence Downloads of Mobile Apps"
 date: 2011-08-17
 author: Uki D. Lucas

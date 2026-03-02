@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Updating Anaconda TensorFlow on Mac for use with jupyter notebook"
 date: 2017-01-21
 author: Uki D. Lucas

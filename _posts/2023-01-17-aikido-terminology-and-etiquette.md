@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Aikido, terminology and etiquette"
 date: 2023-01-17
 author: Uki D. Lucas

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Running a 24B Mistral Model Locally with MLX macOS"
 date: 2026-01-23
 portfolio: true

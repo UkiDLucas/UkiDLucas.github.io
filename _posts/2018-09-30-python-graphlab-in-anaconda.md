@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Python GraphLab in Anaconda"
 date: 2018-09-30
 portfolio: true

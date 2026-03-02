@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Post 19. Put the best minds of our time in your Inbox."
 date: 2024-06-07
 author: Uki D. Lucas

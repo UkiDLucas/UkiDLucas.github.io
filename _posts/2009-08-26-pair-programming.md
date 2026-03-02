@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "pair programming"
 date: 2009-08-26
 author: Uki D. Lucas

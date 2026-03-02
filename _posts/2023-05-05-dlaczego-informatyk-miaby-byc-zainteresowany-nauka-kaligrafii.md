@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Dlaczego informatyk miałby być zainteresowany nauką kaligrafii?"
 date: 2023-05-05
 author: Uki D. Lucas

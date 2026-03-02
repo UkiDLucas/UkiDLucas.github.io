@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Modern Thinkers"
 date: 2024-06-06
 author: Uki D. Lucas

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Exterior design with AI."
 date: 2025-04-27
 author: Uki D. Lucas

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Ultra-light shoes for hiking in mountains"
 date: 2024-04-20
 author: Uki D. Lucas

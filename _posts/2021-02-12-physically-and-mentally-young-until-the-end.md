@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Physically and Mentally Young Until the End"
 date: 2021-02-12
 author: Uki D. Lucas

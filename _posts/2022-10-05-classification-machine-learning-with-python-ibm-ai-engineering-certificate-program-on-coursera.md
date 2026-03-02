@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Classification - Machine Learning with Python - IBM AI Engineering certificate program on Coursera"
 date: 2022-10-05
 author: Uki D. Lucas

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Promotion, Promotion, Promotion"
 date: 2011-02-06
 author: Uki D. Lucas

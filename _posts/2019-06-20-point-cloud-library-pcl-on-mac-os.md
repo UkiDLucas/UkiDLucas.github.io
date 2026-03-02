@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Point Cloud Library (PCL) on Mac OS"
 date: 2019-06-20
 portfolio: true

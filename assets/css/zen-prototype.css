@@ -1,21 +1,26 @@
-.paper-shell {
-  margin: 2rem auto 4rem;
-  max-width: 1024px;
+#main.paper-shell {
+  margin: 1.75rem auto 4rem;
+  max-width: 1120px;
   padding: 0 1rem;
 }
 
 .paper-document {
-  --paper-measure: 72ch;
+  --paper-measure: 70ch;
   --paper-wide-measure: 86ch;
   background: #fffef9;
   border: 1px solid #ddd5c6;
   border-radius: 12px;
+  box-sizing: border-box;
   box-shadow: 0 14px 34px rgba(35, 32, 26, 0.08);
+  margin: 0 auto;
   padding: clamp(1.4rem, 2.2vw, 2.4rem) clamp(1rem, 2.5vw, 2.4rem);
+  width: 100%;
 }
 
 .paper-header {
   border-bottom: 1px solid #ddd5c6;
+  display: grid;
+  justify-items: center;
   margin-bottom: 1.5rem;
   padding-bottom: 1rem;
 }
@@ -26,7 +31,7 @@
   font-size: 0.72rem;
   letter-spacing: 0.12em;
   margin: 0 0 0.35rem;
-  text-align: right;
+  text-align: center;
   text-transform: uppercase;
 }
 
@@ -44,7 +49,8 @@
   flex-wrap: wrap;
   font-family: "IBM Plex Sans", sans-serif;
   font-size: 0.9rem;
-  gap: 0.7rem;
+  gap: 0.35rem 0.75rem;
+  justify-content: center;
   margin: 0;
 }
 
@@ -63,6 +69,7 @@
 .paper-footer > * {
   margin-left: auto;
   margin-right: auto;
+  width: min(100%, var(--paper-measure));
   max-width: var(--paper-measure);
 }
 
@@ -75,22 +82,23 @@
 .paper-content > :where(h2, h3, h4, h5, h6, p, ul, ol, dl, blockquote, pre) {
   margin-left: auto;
   margin-right: auto;
+  width: min(100%, var(--paper-measure));
   max-width: var(--paper-measure);
 }
 
 .paper-content p {
-  -webkit-hyphens: none;
-  -ms-hyphens: none;
-  hyphens: none;
-  overflow-wrap: normal;
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+  overflow-wrap: break-word;
   word-break: normal;
-  text-align: justify;
-  text-justify: inter-word;
+  text-align: left;
 }
 
 .paper-content > :where(table, figure, .table-wrapper) {
   margin-left: auto;
   margin-right: auto;
+  width: min(100%, var(--paper-wide-measure));
   max-width: var(--paper-wide-measure);
 }
 
@@ -121,8 +129,20 @@
   padding-top: 0.85rem;
 }
 
+.masthead__title-inline {
+  color: #7a8288;
+}
+
+.masthead__title-inline .masthead__title-link,
+.masthead__title-inline .masthead__title-link:visited,
+.masthead__title-inline .masthead__title-link:hover,
+.masthead__title-inline .masthead__title-link:focus,
+.masthead__title-inline .masthead__title-separator {
+  color: inherit;
+}
+
 @media (max-width: 760px) {
-  .paper-shell {
+  #main.paper-shell {
     padding: 0 0.75rem;
   }
 
@@ -136,7 +156,6 @@
 
   .paper-content p {
     hyphens: none;
-    text-align: justify;
-    text-justify: inter-word;
+    text-align: left;
   }
 }

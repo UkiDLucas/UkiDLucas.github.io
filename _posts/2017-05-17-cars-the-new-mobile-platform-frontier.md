@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "Cars, the new mobile platform frontier"
 date: 2017-05-17
 author: Uki D. Lucas

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "What did AIKO say about this old article in 2025?"
 date: 2025-03-21
 author: Uki D. Lucas

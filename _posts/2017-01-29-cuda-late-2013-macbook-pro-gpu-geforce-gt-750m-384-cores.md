@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: paper
 title: "CUDA: late 2013 MacBook Pro GPU: GeForce GT 750M 384 Cores"
 date: 2017-01-29
 portfolio: true
