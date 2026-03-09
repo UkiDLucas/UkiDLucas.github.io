@@ -1,4 +1,3 @@
-#BeeHiiv #public #USMC #Chicago #youth
 ---
 layout: paper
 title: "A Soul-Barring Story"
@@ -85,3 +84,6 @@ However, **more than career growth is needed**; you must have a mental **balan
 If you let me, I want to write you email letters, for that subscribe to my Substack.
 
 If you enjoyed reading, **forward this post** to a few **like-minded friends** and help me **build a community**.
+
+
+#BeeHiiv #public #USMC #Chicago #youth
