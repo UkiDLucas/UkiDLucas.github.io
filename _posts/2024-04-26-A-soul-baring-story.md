@@ -1,4 +1,12 @@
 #BeeHiiv #public #USMC #Chicago #youth
+---
+layout: paper
+title: "A Soul-Barring Story"
+date: 2024-04-26
+author: Uki D. Lucas
+permalink: "/posts/soul-baring-story/"
+overview: "..."
+---
 
 In the message below, I **bare my soul** and reveal much about myself.
 It is a **risk**, I know, but I hope you will appreciate it and **understand my motivation**.
