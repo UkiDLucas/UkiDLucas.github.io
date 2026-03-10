@@ -4,7 +4,7 @@ layout: paper
 title: "Introducing AIKOassistant.ai native macOS app"
 date: 2026-03-09
 author: Uki D. Lucas
-permalink: "/posts/introducing-aikoassistant-ai-native-macos-app/"
+permalink: "/posts/introducing-aiko-assistant-ai-macos-app/"
 overview: "I created AIKO because I wanted a personal AI system that feels calm, local, and useful instead of noisy or abstract. The new native macOS app is an important step in that direction. It gives me a clean workspace for notes, projects, local models, and focused actions, while staying simpler and more approachable than a terminal-first workflow."
 ---
 For years, have been trying to build AIKO (AI-child in Japanese) because I have always dreamed of a personalized AI that represents my favorite historical figures, scientists, and philosophers in a room with me.
