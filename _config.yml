@@ -220,10 +220,35 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+  # Book and topic collections (added 2026-05-19)
+  AI:
+    output: true
+    permalink: /:collection/:path/
+  Stoic:
+    output: true
+    permalink: /:collection/:path/
+  longevity:
+    output: true
+    permalink: /:collection/:path/
+  Japan:
+    output: true
+    permalink: /:collection/:path/
+  Slavic:
+    output: true
+    permalink: /:collection/:path/
+  shudokan:
+    output: true
+    permalink: /:collection/:path/
+  motorcycle:
+    output: true
+    permalink: /:collection/:path/
+  poetry:
+    output: true
+    permalink: /:collection/:path/
+  Android:
     output: true
     permalink: /:collection/:path/
 
@@ -307,6 +332,7 @@ plugins:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 # Mimic GitHub Pages with --safe
@@ -315,6 +341,7 @@ whitelist:
   - jekyll-gist
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-redirect-from
   - jemoji
 
 

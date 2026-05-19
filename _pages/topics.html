@@ -1,0 +1,92 @@
+---
+layout: archive
+title: "Topics"
+permalink: /topics/
+author_profile: true
+---
+
+{% comment %}
+Each topic entry: key|label|url|sitevar
+  key     : unique id (also default sitevar lookup)
+  label   : display name on the tile
+  url     : link target
+  sitevar : site.<sitevar> for count (blank means use key)
+{% endcomment %}
+{% comment %} entry: key|label|url|sitevar|hint|unit {% endcomment %}
+{% assign topics = "blog|General|/posts/|posts|a bag of chocolates|posts;AI|AI|/AI/|AI|my agents & super models|posts;Stoic|Stoic|/Stoic/|Stoic|balanced lifestyle|posts;longevity|Longevity|/longevity/|longevity|health and diet|posts;Japan|Japan|/Japan/|Japan|cultural anthropology|posts;Slavic|Slavic|/Slavic/|Slavic|linguistics|posts;shudokan|Shudokan|/shudokan/|shudokan|Okinawan karate|posts;motorcycle|Motorcycle|/motorcycle/|motorcycle|on and off-road|posts;poetry|Poetry|/poetry/|poetry|on cloudy day|posts;Android|Android|/Android/|Android|TAK plugins|posts" | split: ";" %}
+
+<section class="topics-grid" aria-label="Topic collections">
+  {% for entry in topics %}
+    {% assign parts = entry | split: "|" %}
+    {% assign label = parts[1] %}
+    {% assign url = parts[2] %}
+    {% assign sitevar = parts[3] %}
+    {% assign hint = parts[4] %}
+    {% assign unit = parts[5] %}
+    {% assign chapter_count = site[sitevar] | size %}
+    <article class="topics-grid__item">
+      <h2 class="topics-grid__title">
+        <a href="{{ url }}">{{ label }}</a>
+      </h2>
+      <p class="topics-grid__hint">{{ hint }}</p>
+      <p class="topics-grid__count">{{ chapter_count }} {{ unit }}</p>
+    </article>
+  {% endfor %}
+</section>
+
+<style>
+  .topics-intro {
+    margin-bottom: 1.5rem;
+    font-size: 1.05rem;
+  }
+
+  .topics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    gap: 1.25rem;
+    margin: 0;
+    padding: 0;
+  }
+
+  .topics-grid__item {
+    padding: 1rem 1.1rem;
+    border: 1px solid #e0e0e0;
+    border-radius: 6px;
+    background: #fafafa;
+    transition: box-shadow 0.15s ease;
+  }
+
+  .topics-grid__item:hover {
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+  }
+
+  .topics-grid__title {
+    margin: 0 0 0.4rem;
+    font-size: 1.4rem;
+    line-height: 1.2;
+    font-weight: 700;
+  }
+
+  .topics-grid__title a {
+    text-decoration: none;
+  }
+
+  .topics-grid__title a:hover,
+  .topics-grid__title a:focus {
+    text-decoration: underline;
+  }
+
+  .topics-grid__desc {
+    margin: 0 0 0.5rem;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  .topics-grid__count {
+    margin: 0;
+    font-size: 0.85rem;
+    color: #777;
+    font-style: italic;
+  }
+</style>

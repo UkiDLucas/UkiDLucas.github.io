@@ -1,0 +1,60 @@
+{% assign chapters = site[page.topic_key] | sort: "slug" %}
+
+<p class="collection-index__intro">
+  <a href="/topics/">&larr; All topics</a>
+</p>
+
+<section class="collection-index" aria-label="Chapters in {{ page.topic_key }}">
+  {% if chapters.size == 0 %}
+    <p><em>No chapters yet.</em></p>
+  {% else %}
+    {% for chapter in chapters %}
+      <article class="collection-index__item">
+        <h2 class="collection-index__title">
+          <a href="{{ chapter.url }}">{{ chapter.title }}</a>
+        </h2>
+        {% if chapter.excerpt %}
+          <p class="collection-index__excerpt">{{ chapter.excerpt | strip_html | truncatewords: 40 }}</p>
+        {% endif %}
+        {% if chapter.last_updated %}
+          <p class="collection-index__meta">Updated {{ chapter.last_updated }}</p>
+        {% endif %}
+      </article>
+    {% endfor %}
+  {% endif %}
+</section>
+
+<style>
+  .collection-index__intro {
+    margin-bottom: 1.25rem;
+    font-size: 0.9rem;
+  }
+  .collection-index__item {
+    margin-bottom: 1.5rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #eee;
+  }
+  .collection-index__title {
+    margin: 0 0 0.3rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+  }
+  .collection-index__title a {
+    text-decoration: none;
+  }
+  .collection-index__title a:hover {
+    text-decoration: underline;
+  }
+  .collection-index__excerpt {
+    margin: 0 0 0.4rem;
+    font-size: 1rem;
+    line-height: 1.6;
+    color: #333;
+  }
+  .collection-index__meta {
+    margin: 0;
+    font-size: 0.85rem;
+    color: #888;
+    font-style: italic;
+  }
+</style>

@@ -262,6 +262,7 @@ DEPENDENCIES
   github-pages (= 231)
   jekyll
   jekyll-feed
+  jekyll-redirect-from
   jekyll-sitemap
   jemoji
   webrick (~> 1.8)
