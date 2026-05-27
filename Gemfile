@@ -1,12 +1,12 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
+
+# github-pages brings in the exact Jekyll, kramdown, and plugin versions
+# that the GitHub Pages runner ships with. Do not pin the version here:
+# pinning to a specific github-pages release (for example "231") breaks
+# the build every time GitHub bumps the runner to a newer release.
+# The current runner version is published at https://pages.github.com/versions.json
+gem "github-pages", group: :jekyll_plugins
 
 group :jekyll_plugins do
-  gem 'jekyll'
-  gem 'jekyll-feed'
-  gem 'jekyll-sitemap'
-  gem 'jekyll-redirect-from'
-  gem 'jemoji'
-  gem 'webrick', '~> 1.8'
+  gem "webrick", "~> 1.8"
 end
-
-gem 'github-pages', '231'
