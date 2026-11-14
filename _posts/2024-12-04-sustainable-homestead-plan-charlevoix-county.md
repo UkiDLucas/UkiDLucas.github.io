@@ -7,7 +7,6 @@ permalink: "/posts/sustainable-homestead-plan-charlevoix-county/"
 overview: "I sketch a small homestead in the rolling hills of Charlevoix County, Michigan, that could feed a family and stay gentle on the land. Sheep and goats rotate through small paddocks, and the goats give milk for cheese and yogurt. Chickens, pigs, potatoes, corn, and a greenhouse fill out the year, beside orchards of apples, pears, hazelnuts, walnuts, and wild blueberries. I estimate what it would cost and produce. Kept small, it stays manageable and could support a peaceful retirement."
 ---
 
- #byUkiDLucas #public
  
  
 # **A Sustainable Homestead Plan in Charlevoix County, Michigan**

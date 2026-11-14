@@ -1,11 +1,13 @@
 ---
-collection: portfolio
 layout: paper
 author: Uki D. Lucas
 title: Michigan farm "Up North"
 excerpt: Dreaming about the "Up North" in retirement.
 overview: "I imagine a small farm Up North in Michigan, near ski slopes and the state's wine country, and ask whether it could be both sustainable and profitable. The plan pairs nut trees on the hills, cattle grazing in rotation through the meadows, cold-hardy grapes on the southern slopes, and bee hives among permaculture islands, with a small bed-and-breakfast for guests. I walk through a day and a year on the farm, the seasonal tasks, and rough costs and income. Diversity makes it a destination."
 last_updated: 2026-11-13
+permalink: "/posts/michigan-farm/"
+redirect_from:
+  - /michigan-farm/
 ---
 
 ## A Guide to Sustainable Farming: Nut Trees, Livestock, Wine Grapes, and a B&B Experience

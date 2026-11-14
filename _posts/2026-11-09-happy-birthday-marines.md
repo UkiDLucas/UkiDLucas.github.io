@@ -50,6 +50,5 @@ Semper Fidelis,
 
 Uki D. Lucas (Cpl. Grizzly)
 
-#USMC #SemperFi #Leadership #Veterans #Kaizen
 
 First published on [Substack](https://ukidlucas.substack.com/p/happy-birthday-marines).
