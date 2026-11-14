@@ -4,6 +4,9 @@ layout: default
 {% include base_path %}
 
 <main id="main" role="main" class="paper-shell">
+  {% if page.canonical_source %}
+  <div class="paper-tab"><a href="{{ page.canonical_source }}">&#9654;&ensp;Listen and subscribe on Substack</a></div>
+  {% endif %}
   <article class="paper-document" itemscope itemtype="http://schema.org/ScholarlyArticle">
     <header class="paper-header">
       <h1 class="paper-title" itemprop="headline">{{ page.title }}</h1>
@@ -15,8 +18,6 @@ layout: default
       <p class="paper-meta">{{ minutes }} minute read</p>
       {% if page.audio or page.video %}
         <div class="paper-listen">{% include play-button.html item=page %}</div>
-      {% elsif page.canonical_source %}
-        <p class="paper-meta paper-listen"><a href="{{ page.canonical_source }}">&#9654;&ensp;Listen on Substack</a></p>
       {% endif %}
 
       {% assign abstract_text = page.abstract | default: page.overview %}
