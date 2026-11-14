@@ -13,7 +13,7 @@ body.layout--paper,
 }
 
 .paper-document {
-  --paper-measure: 52rem;
+  --paper-measure: 60rem;
   --paper-ink: #22201c;
   --paper-rule: #e2dccf;
   --paper-accent: #2f5d4a;
@@ -109,8 +109,8 @@ body.layout--paper,
 }
 
 .paper-abstract {
-  margin: 0.5rem auto 0;
-  max-width: 36rem;
+  margin: 2.2rem auto 0;
+  max-width: 34rem;
   text-align: justify;
 }
 

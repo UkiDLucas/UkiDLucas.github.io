@@ -18,6 +18,14 @@ layout: default
       {% elsif page.canonical_source %}
         <p class="paper-meta paper-listen"><a href="{{ page.canonical_source }}">&#9654;&ensp;Listen on Substack</a></p>
       {% endif %}
+
+      {% assign abstract_text = page.abstract | default: page.overview %}
+      {% if abstract_text and abstract_text != "" %}
+        <section class="paper-abstract">
+          <h2>Abstract</h2>
+          <p itemprop="description">{{ abstract_text }}</p>
+        </section>
+      {% endif %}
     </header>
 
     <section class="paper-content" itemprop="articleBody">
