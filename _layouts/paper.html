@@ -10,8 +10,7 @@ layout: default
   <article class="paper-document" itemscope itemtype="http://schema.org/ScholarlyArticle">
     <header class="paper-header">
       <h1 class="paper-title" itemprop="headline">{{ page.title }}</h1>
-      <p class="paper-meta paper-meta--author" itemprop="author">{{ page.author | default: site.author.name }}</p>
-      {% if page.date %}<p class="paper-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time></p>{% endif %}
+      <p class="paper-meta paper-meta--author"><span itemprop="author">{{ page.author | default: site.author.name }}</span>{% if page.date %} - <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>{% endif %}</p>
       {% assign words = page.content | strip_html | number_of_words %}
       {% assign minutes = words | divided_by: site.words_per_minute %}
       {% if minutes < 1 %}{% assign minutes = 1 %}{% endif %}
