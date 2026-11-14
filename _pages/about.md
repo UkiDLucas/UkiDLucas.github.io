@@ -1,9 +1,8 @@
 ---
-permalink: /
+permalink: /about/
 title: Uki D. Lucas' blog and portfolio
 author_profile: true
 redirect_from:
-  - /about/
   - /about.html
 author:
   - Uki D. Lucas
