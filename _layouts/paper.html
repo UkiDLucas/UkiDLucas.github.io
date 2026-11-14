@@ -5,31 +5,18 @@ layout: default
 
 <main id="main" role="main" class="paper-shell">
   <article class="paper-document" itemscope itemtype="http://schema.org/ScholarlyArticle">
-    <div class="paper-stamp" aria-hidden="true">ukidlucas.github.io &nbsp; {{ page.date | date: "%-d %b %Y" }}</div>
     <header class="paper-header">
-      {% if page.paper_type %}<p class="paper-kicker">{{ page.paper_type }}</p>{% endif %}
       <h1 class="paper-title" itemprop="headline">{{ page.title }}</h1>
-      <p class="paper-byline">
-        <span itemprop="author">{{ page.author | default: site.author.name }}</span>
-        {% if page.affiliation %}<span>{{ page.affiliation }}</span>{% endif %}
-        {% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>{% endif %}
-      </p>
-      {% if page.audio or page.video %}{% include play-button.html item=page %}{% endif %}
-
-      {% assign abstract_text = page.abstract | default: page.overview %}
-      {% if abstract_text and abstract_text != "" %}
-        <section class="paper-abstract">
-          <h2>Abstract</h2>
-          <p itemprop="description">{{ abstract_text }}</p>
-        </section>
-      {% endif %}
-
-      {% if page.keywords %}
-        {% assign keyword_text = page.keywords %}
-        {% if page.keywords.first %}
-          {% assign keyword_text = page.keywords | join: ", " %}
-        {% endif %}
-        <p class="paper-keywords"><strong>Keywords:</strong> {{ keyword_text }}</p>
+      <p class="paper-meta paper-meta--author" itemprop="author">{{ page.author | default: site.author.name }}</p>
+      {% if page.date %}<p class="paper-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time></p>{% endif %}
+      {% assign words = page.content | strip_html | number_of_words %}
+      {% assign minutes = words | divided_by: site.words_per_minute %}
+      {% if minutes < 1 %}{% assign minutes = 1 %}{% endif %}
+      <p class="paper-meta">{{ minutes }} minute read</p>
+      {% if page.audio or page.video %}
+        <div class="paper-listen">{% include play-button.html item=page %}</div>
+      {% elsif page.canonical_source %}
+        <p class="paper-meta paper-listen"><a href="{{ page.canonical_source }}">&#9654;&ensp;Listen on Substack</a></p>
       {% endif %}
     </header>
 
