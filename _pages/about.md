@@ -9,8 +9,7 @@ author:
   - Uki D. Lucas
 ---
 {% assign featured_posts = site.posts | where: "portfolio", true %}
-{% assign portfolio_items = featured_posts | concat: site.portfolio %}
-{% assign portfolio_items = portfolio_items | sort: "date" | reverse %}
+{% assign portfolio_items = featured_posts | sort: "date" | reverse %}
 <br/>
 
 <h1>Portfolio</h1>
