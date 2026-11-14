@@ -1,0 +1,19 @@
+{% assign media = include.item.video | default: include.item.audio %}
+{% assign is_video = include.item.video %}
+<span class="play-widget">
+  <button class="play-widget__button" type="button" aria-label="Play the recording of {{ include.item.title | escape }}"
+    onclick="var w=this.parentNode,m=w.querySelector('audio,video');w.classList.add('is-open');if(m.paused){m.play();this.innerHTML='&#10074;&#10074;';}else{m.pause();this.innerHTML='&#9654;';}">&#9654;</button>
+  {% if is_video %}
+  <video class="play-widget__media" src="{{ media }}" preload="none" controls playsinline></video>
+  {% else %}
+  <audio class="play-widget__media" src="{{ media }}" preload="none" controls></audio>
+  {% endif %}
+</span>
+<style>
+  .play-widget { display: inline-block; vertical-align: middle; margin-left: 0.4rem; }
+  .play-widget__button { width: 2rem; height: 2rem; border-radius: 50%; border: 1px solid #2a6f8f; background: #fff; color: #2a6f8f; font-size: 0.8rem; line-height: 1; cursor: pointer; padding: 0; }
+  .play-widget__button:hover { background: #2a6f8f; color: #fff; }
+  .play-widget__media { display: none; }
+  .play-widget.is-open { display: block; margin: 0.4rem 0 0; }
+  .play-widget.is-open .play-widget__media { display: block; width: 100%; max-width: 640px; margin-top: 0.4rem; }
+</style>

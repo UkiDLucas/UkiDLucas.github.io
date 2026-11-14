@@ -11,8 +11,9 @@ layout: default
       <p class="paper-byline">
         <span itemprop="author">{{ page.author | default: site.author.name }}</span>
         {% if page.affiliation %}<span>{{ page.affiliation }}</span>{% endif %}
-        {% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %d, %Y" }}</time>{% endif %}
+        {% if page.date %}<time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %-d, %Y" }}</time>{% endif %}
       </p>
+      {% if page.audio or page.video %}{% include play-button.html item=page %}{% endif %}
 
       {% if page.abstract %}
         <section class="paper-abstract">

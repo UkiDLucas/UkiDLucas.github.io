@@ -32,6 +32,7 @@
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
+      {% if post.audio or post.video %}{% include play-button.html item=post %}{% endif %}
     </h2>
     
     {% if post.read_time %}
@@ -43,31 +44,30 @@
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
+         <p class="page__date"><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %-d, %Y" }}</time></p>
         {% endif %}
 
-    {% assign overview_text = post.overview | default: "" | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
-    {% if overview_text == "" %}
-      {% assign overview_source = post.excerpt | default: post.content %}
-      {% assign paragraph_segments = post.content | split: "<p>" %}
-      {% if paragraph_segments.size > 1 %}
-        {% assign first_paragraph_html = paragraph_segments[1] | split: "</p>" | first %}
-        {% assign first_paragraph_text = first_paragraph_html | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
-        {% if first_paragraph_text != "" %}
-          {% assign overview_source = first_paragraph_text %}
-        {% endif %}
+    {% assign summary_words = 0 %}
+    {% assign summary_paras = post.content | split: "</p>" %}
+    <div class="archive__item-excerpt archive__item-summary" itemprop="description">
+    {% for para in summary_paras %}
+      {% if summary_words >= 300 %}{% break %}{% endif %}
+      {% unless para contains "<p" %}{% continue %}{% endunless %}
+      {% assign para_text = para | split: "<p" | last | prepend: "<p" | strip_html | strip_newlines | strip %}
+      {% if para_text == "" %}{% continue %}{% endif %}
+      {% assign para_count = para_text | number_of_words %}
+      {% assign room = 400 | minus: summary_words %}
+      {% if para_count > room %}
+        <p>{{ para_text | truncatewords: room }}</p>
+        {% assign summary_words = 400 %}
+      {% else %}
+        <p>{{ para_text }}</p>
+        {% assign summary_words = summary_words | plus: para_count %}
       {% endif %}
-      {% assign overview_text = overview_source | strip_html | strip_newlines | replace: '  ', ' ' | strip %}
-    {% endif %}
-    {% if overview_text != "" %}
-      <p class="archive__item-excerpt archive__item-overview" itemprop="description">
-        {{ overview_text | truncatewords: 45 }}
-        {% if site.read_more == 'enabled' %}
-          <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-        {% endif %}
-      </p>
-    {% endif %}
-    
+    {% endfor %}
+    <p class="archive__item-more"><a href="{{ base_path }}{{ post.url }}" rel="permalink">Continue reading</a></p>
+    </div>
+
     {% if post.citation and post.paperurl and post.slidesurl %}
       <p>Recommended citation: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.citation and post.paperurl %}
