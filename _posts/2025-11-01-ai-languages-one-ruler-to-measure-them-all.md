@@ -6,7 +6,7 @@ layout: paper
 title: "Ai languages: One Ruler to Measure Them All"
 date: 2025-11-01
 author: Uki D. Lucas
-overview: "Most language models learn mostly from English, so we assume English gives the best results. A University of Maryland study, co-developed with Microsoft, tested long-context reasoning in twenty-six languages, and Polish came out on top, ahead of English, French and Spanish. One reason may be grammar. Slavic languages carry meaning in word endings rather than word order, which a model may track more easily across very long texts. I see linguistic diversity as a strength for AI, not an obstacle."
+overview: "Most language models learn mostly from English, so we assume English gives the best results. I look at a University of Maryland study, co-developed with Microsoft, that tested long-context reasoning in twenty-six languages and placed Polish at the top, ahead of English, French and Spanish. Grammar may explain it: Slavic languages carry meaning in word endings rather than word order. I conclude that linguistic diversity is a source of strength for AI, not an obstacle."
 permalink: "/posts/ai-languages-one-ruler-to-measure-them-all/"
 redirect_from:
   - /AI/ai-languages-one-ruler-to-measure-them-all/

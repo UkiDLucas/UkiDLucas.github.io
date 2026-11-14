@@ -1,11 +1,11 @@
 ---
 layout: paper
-title: "Post 17. The 15-minute rule."
+title: "The 15-minute rule"
 date: 2024-05-26
 author: Uki D. Lucas
 permalink: "/posts/post-17-the-15-minute-rule/"
 last_updated: 2026-11-13
-overview: "Great opportunities come to everyone, but only prepared people notice them. An average book takes about ten hours, and a thousand of them comes to the famous ten thousand hours. That is why I give my free time to reading. To stay on course, I use a simple rule. Every fifteen minutes I ask what I have just done to make my life better, and what I should do next to become a better human. Often the answer is to eat, sleep, or laugh with friends. The rest is good habits."
+overview: "I ask how we notice opportunities and stay on course. Great opportunities come to everyone, but only prepared people notice them. An average book takes about ten hours, and a thousand of them comes to the famous ten thousand hours, which is why I give my free time to reading. My rule is simple. Every fifteen minutes I ask what I have just done to make my life better, and what I should do next to become a better human. Often the answer is to eat, sleep, or laugh with friends."
 ---
 
 How do we attract opportunities?

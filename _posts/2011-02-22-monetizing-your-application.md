@@ -5,7 +5,7 @@ date: 2011-02-22
 author: Uki D. Lucas
 last_updated: 2026-11-13
 permalink: "/posts/monetizing-your-application/"
-overview: "I see five ways to make money from an app. Free with ads works only when you have millions of sessions. Free with paid services suits consulting firms and sellers of physical goods. Free with in-app purchases is one of the most successful models, in games and in publishing. A limited free version with a paid full version converts poorly, so I recommend it least. A fully priced app makes sense when the demand and the value are clear, and customers who pay more are often happier with the product."
+overview: "I compare five ways to make money from an app. Free with ads works only with millions of sessions. Free with paid services suits consulting firms and sellers of physical goods, not companies whose app is the product. Free with in-app purchases is one of the most successful models, in games and publishing. A free limited version beside a paid one converts poorly, so I recommend it least. A fully priced app fits clear demand and value, and customers who pay more are often more satisfied."
 ---
 
 There are five ways to monetize your application:

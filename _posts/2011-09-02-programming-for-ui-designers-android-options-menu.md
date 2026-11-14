@@ -6,7 +6,7 @@ layout: paper
 title: "Programming for UI Designers: Android Options Menu"
 date: 2011-09-02
 author: Uki D. Lucas
-overview: "This is a step-by-step tutorial for UI designers who want to see their own work inside an Android app. I show how to draw a menu icon in Photoshop, starting large and scaling it down for each screen density, and how to place it in the right drawable folders under one file name. Then I explain the menu XML and the strings file in plain terms, so a designer can change titles and test icons without touching the program logic. It ends with running the app on a device or an emulator."
+overview: "This is a step-by-step tutorial for UI designers who want to see their own work inside an Android app. I show how to draw a menu icon in Photoshop, starting large and scaling down for each screen density, and how to place it in the drawable folders under one file name. Then I explain the menu XML and the strings file in plain terms, so a designer can change titles and test icons without touching the program logic. It ends with running the app on a device or an emulator."
 permalink: "/posts/programming-for-ui-designers-android-options-menu/"
 redirect_from:
   - /Android/programming-for-ui-designers-android-options-menu/

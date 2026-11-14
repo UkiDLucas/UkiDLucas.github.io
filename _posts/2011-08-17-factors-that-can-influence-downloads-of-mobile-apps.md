@@ -6,7 +6,7 @@ layout: paper
 title: "Factors That Can Influence Downloads of Mobile Apps"
 date: 2011-08-17
 author: Uki D. Lucas
-overview: "With over a dozen apps on the market, we noticed patterns in our downloads that have little to do with the app itself. Every update brings a spike, because the store boosts the app in its ranking and users get a gentle reminder. People explore new apps on weekends. Knowing your users matters most. Our Children TV app saw downloads jump during school vacations, when parents were happy to keep the kids busy with cartoons. I plan to keep adding new factors to this list as I notice them."
+overview: "Beyond a good app and good promotion, I ask what else moves downloads. With over a dozen apps on the market, we noticed three patterns. Every update brings a spike, because the store raises the app's ranking and users get a gentle reminder. People explore new apps on weekends. Most of all, know your users. Our Children TV app saw downloads jump during school vacations, when parents were happy to keep the kids busy with cartoons. I keep this as a living list and add factors as I notice them."
 permalink: "/posts/factors-that-can-influence-downloads-of-mobile-apps/"
 redirect_from:
   - /Android/factors-that-can-influence-downloads-of-mobile-apps/

@@ -5,7 +5,7 @@ date: 2017-05-17
 author: Uki D. Lucas
 last_updated: 2026-11-13
 permalink: "/posts/what-is-next-for-elon-musk/"
-overview: "Elon Musk has said he would like to die on Mars. I take that as a thought experiment and ask what he would need to pack for the trip. Reusable rockets come from SpaceX. Autonomous electric vehicles are tested on Earth by Tesla drivers. Solar tiles and batteries provide power. Tunnels from the Boring Company offer shelter from meteors and temperature swings. My guess for his next venture is biotech: microbes that could release oxygen and slowly make Mars livable."
+overview: "Elon Musk has said he would like to die on Mars. I take that as a thought experiment and ask what he would need to pack. Reusable rockets come from SpaceX. Autonomous electric vehicles are tested on Earth by Tesla drivers. Solar tiles and batteries provide power, and Boring Company tunnels offer shelter from meteors and temperature swings. I predict his next venture will be biotech: microbes such as cyanobacteria that release oxygen and slowly make Mars livable."
 ---
 
 The interplanetary domination, apparently.

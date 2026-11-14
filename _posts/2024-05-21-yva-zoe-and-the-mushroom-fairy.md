@@ -4,7 +4,7 @@ title: "Yva, Zoe, and the Mushroom Fairy"
 date: 2024-05-21
 author: Uki D. Lucas
 permalink: "/posts/yva-zoe-and-the-mushroom-fairy/"
-overview: "This is a story for my two girls, written down as best I could remember it that day. On a spring walk in a mountain forest, two little sisters chase a butterfly, argue whether it is a moth, and wander too far from their parents. A human-sized fairy named Seraphina, guardian of the forest, finds them. She leads them back toward the path and teaches them about mushrooms along the way. Their parents find them, the fairy vanishes, and the girls carry the forest with them from then on."
+overview: "This is a children's story I wrote for my two girls, written down as best I could remember it. On a spring walk in a mountain forest, two little sisters chase a butterfly, argue whether it is a moth, and wander too far from their parents. A human-sized fairy named Seraphina, guardian of the forest, finds them and leads them back, teaching them about mushrooms along the way. It is a story about curiosity and the wonder of nature, and about carrying the forest with you."
 excerpt: "A family story about curiosity, nature, and wonder in a magical forest."
 tags:
   - family

@@ -6,7 +6,7 @@ layout: paper
 title: "App: Lost in Translation"
 date: 2014-07-08
 author: Uki D. Lucas
-overview: "Every app team writes placeholder text that it promises to fix later, and often never does. That text becomes a real problem when the app succeeds in another country and needs translation. I gather guidelines for user messages that are correct, clear and consistent: short sentences, active voice, one term for each concept, no and/or, no idioms. Then I cover how to handle strings in code, why you should never concatenate them, and how to leave room on the screen for longer translations."
+overview: "Placeholder text written in a hurry often ships, and it becomes a real cost when an app succeeds abroad and needs translation. Drawing on our portfolio of over a dozen apps, I collect guidelines for user messages that are correct, clear and consistent: short sentences, active voice, one term for each concept, no and/or, no idioms. Then I show how to handle strings in code. Keep them in a resource file, never concatenate them, and leave room on the screen for longer translations."
 permalink: "/posts/app-lost-in-translation/"
 redirect_from:
   - /Android/app-lost-in-translation/

@@ -16,7 +16,7 @@ layout: default
       </p>
       {% if page.audio or page.video %}{% include play-button.html item=page %}{% endif %}
 
-      {% assign abstract_text = page.abstract %}
+      {% assign abstract_text = page.abstract | default: page.overview %}
       {% if abstract_text and abstract_text != "" %}
         <section class="paper-abstract">
           <h2>Abstract</h2>

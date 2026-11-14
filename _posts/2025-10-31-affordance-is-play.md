@@ -6,7 +6,7 @@ layout: paper
 title: "Affordance is Play"
 date: 2025-10-31
 author: Uki D. Lucas
-overview: "A paper on affordances in reinforcement learning defines them through intent and the chance of reaching a goal. As a student of behavioral science, I see it differently. Affordance is play. A child learns what the world allows by climbing, falling and testing the edge of safety, and karate kata and sparring do the same. I offer my own definition: the space in which an agent can safely play and learn. Then I put it in math, with a hazard limit and a measure of how much each action teaches."
+overview: "A paper on affordances in reinforcement learning defines them through intent and the chance of reaching a goal. As a student of behavioral science, I argue that affordance is play. A child learns what the world allows by climbing, falling and testing the edge of safety, as karate kata and sparring do. I define affordance as the space where an agent can safely play and learn, express it in math with a hazard limit and a measure of feedback, and propose agents that chase understanding, not reward."
 permalink: "/posts/affordance-is-play/"
 redirect_from:
   - /Stoic/affordance-is-play/

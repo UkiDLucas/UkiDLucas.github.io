@@ -6,7 +6,7 @@ layout: paper
 title: "Multi-agents software development"
 date: 2026-02-04
 author: Uki D. Lucas
-overview: "I compare three ways to use language models in software development. A chat agent on a foundation model speeds up one person's thinking, but progress stays serial as a project grows. A local medium model, 7B to 32B, reliably does narrow work inside a pipeline, privately and fast. A multi-agent foundation model runs specialized roles in parallel, architecture, code, tests and review, exchanging diffs and test results while a human acts as the technical lead. Together they form a hierarchy."
+overview: "I compare three ways to use language models in software development. A chat agent on a foundation model speeds up one person's thinking, but progress stays serial as a project grows. A local medium model, 7B to 32B, does narrow, bounded work inside a pipeline, privately and fast. A multi-agent foundation model runs architecture, code, tests and review in parallel, exchanging diffs and test results, while a human acts as technical lead. Together the three form a hierarchy."
 permalink: "/posts/multi-agents-software-development/"
 redirect_from:
   - /AI/multi-agents-software-development/

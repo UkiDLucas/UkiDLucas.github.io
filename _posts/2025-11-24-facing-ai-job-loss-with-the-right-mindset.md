@@ -6,7 +6,7 @@ layout: paper
 title: "Facing AI Job Loss with the Right Mindset"
 date: 2025-11-24
 author: Uki D. Lucas
-overview: "A book by Takafumi Horie and Yoichi Ochiai, explained by Ruri Ohama, made me revisit how I think about AI and work. The argument is blunt: the best-paid roles go first because they cost the most. I do not want another philosophical thread. I want to prepare. AI made intelligence abundant, but it raised the bar for mastery. My answer is a warrior's training: kaizen, breadth and depth, and daily practice in calligraphy, kata and tea that keeps attention steady. Continuous learning is maintenance."
+overview: "I ask how to prepare as AI replaces work, starting from a book by Takafumi Horie and Yoichi Ochiai, explained by Ruri Ohama, which argues the best-paid roles go first because they cost the most. I argue AI made intelligence abundant but raised the bar for mastery. My answer is a warrior's training: kaizen, breadth and depth, and daily practice in calligraphy, kata and tea that keeps attention steady. Untrained people will be sidelined. Continuous learning is maintenance."
 permalink: "/posts/facing-ai-job-loss-with-the-right-mindset/"
 redirect_from:
   - /AI/facing-ai-job-loss-with-the-right-mindset/

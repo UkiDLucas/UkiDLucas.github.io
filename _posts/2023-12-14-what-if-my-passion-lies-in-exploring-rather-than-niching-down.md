@@ -4,7 +4,7 @@ title: "What if my passion lies in exploring rather than niching down?"
 date: 2023-12-14
 author: Uki D. Lucas
 permalink: "/posts/what-if-my-passion-lies-in-exploring-rather-than-niching-down/"
-overview: "I watched a video about building a profitable affiliate blog. Its advice was clear: choose a niche, create valuable content, and monetize it. My blog was never like that. It is where I think out loud, explore ideas, and record my experience, and much of my technical writing went out of date faster than I hoped. So I asked what happens when the passion is in exploring. Income would be welcome. But I write because I love it, and sharing, reflecting, and growing already count as success."
+overview: "I ask whether a blog must choose a niche to be worth writing. A video on profitable affiliate blogs gave the usual advice: pick a niche, create valuable content, and monetize it. My blog was never like that. It is where I think out loud and record my experience, and much of my technical writing went out of date fast. Consistency and authenticity still matter. Income would be welcome, but I write because I love it, and sharing, reflecting, and growing already count as success."
 ---
 
 I watched a video titled "How to Make A $150/Day Affiliate Marketing Blog—For BEGINNERS," which provides a step-by-step guide to building a profitable affiliate blog. The video stresses the core principles of choosing a niche, creating valuable content, and implementing monetization strategies, which sound straightforward. Yet, in my own blogging journey, I’ve struggled with these elements.

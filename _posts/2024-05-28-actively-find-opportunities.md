@@ -5,7 +5,7 @@ date: 2024-05-28
 author: Uki D. Lucas
 permalink: "/posts/actively-find-opportunities/"
 last_updated: 2026-11-13
-overview: "A former coworker answered my last post with a long letter. Layoffs had made life hard, and it reminded me why I write: people need coaching. Reach out to people. The rest is tactical advice. Choose your next career step, collect profiles of people already there, and ask an LLM which keywords and skills the role needs. Then rewrite your LinkedIn profile yourself, with a real photo, a short tagline, and your own story. Never paste the AI text. Grow your network every week."
+overview: "A former coworker hit by layoffs answered my last post with a long letter, and it reminded me that people need coaching. My first lesson is to reach out to people. The rest is tactical advice. Choose your next career step, collect profiles of people already there, and ask an LLM which keywords and skills the role needs. Then rewrite your LinkedIn profile yourself, with a photo, a short tagline, and your own story. Never paste the AI text. Grow your network every week."
 excerpt: "Practical steps to improve visibility, profile quality, and career opportunities."
 tags:
   - career

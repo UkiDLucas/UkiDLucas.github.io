@@ -6,7 +6,7 @@ layout: paper
 title: "Beyond Note-Taking: My Journey with Obsidian and ChatGPT Towards a Personal AI"
 date: 2023-05-18
 author: Uki D. Lucas
-overview: "I write a lot: notes, articles, unfinished books, and letters. Yet writing is only part of it. Knowledge slips from memory, and digital platforms fade and take our thoughts with them. Obsidian graphs the links between my notes, but it is not a thinking partner. ChatGPT made me wonder whether my own writing could answer back, even to future generations. My aim is modest: a simple chat model trained on my notes that answers questions from them. I plan to share the progress and the code."
+overview: "I ask how a lifetime of notes can stay alive and useful. Writing is not enough: knowledge slips from memory, and digital platforms fade and take our thoughts with them. Obsidian graphs the links between my notes, but it is not a thinking partner. ChatGPT made me wonder whether my own writing could answer back, even to future generations. My aim is modest: a simple chat model trained on my notes that answers questions from them. I plan to share the progress and the code."
 excerpt: "Exploring how personal notes and AI can evolve into an interactive intellectual legacy."
 tags:
   - ai

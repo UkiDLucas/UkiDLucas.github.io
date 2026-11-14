@@ -6,7 +6,7 @@ layout: paper
 title: "LM Studio for macOS: Privacy and Open-Source Transparency"
 date: 2025-05-16
 author: Uki D. Lucas
-overview: "LM Studio lets you run large language models locally on macOS, and it promises that all inference stays on your machine, with no telemetry. The catch is that the desktop interface is closed source, so nobody can verify that promise. I note what is open: a command-line tool, JavaScript and Python SDKs, and Apple MLX support, all under the MIT license. For cautious users I suggest watching network traffic, using a firewall and encrypting the disk, or building auditable workflows on the open parts."
+overview: "I ask whether LM Studio, which runs large language models locally on macOS, can be trusted with private data. It promises that all inference stays on your machine with no telemetry, but the desktop interface is closed source, so nobody can verify it. I list what is open under the MIT license: a command-line tool, JavaScript and Python SDKs, and Apple MLX support. I conclude it is mostly private, and suggest a firewall, disk encryption, or auditable workflows built on the open parts."
 permalink: "/posts/lm-studio-macos-privacy-open-source-transparency/"
 redirect_from:
   - /AI/lm-studio-macos-privacy-open-source-transparency/

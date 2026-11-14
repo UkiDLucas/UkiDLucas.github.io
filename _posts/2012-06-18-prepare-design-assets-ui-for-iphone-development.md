@@ -5,7 +5,7 @@ date: 2012-06-18
 last_updated: 2026-11-13
 author: Uki D. Lucas
 permalink: "/posts/prepare-design-assets-ui-for-iphone-development/"
-overview: "The best results come when a developer and a UI designer work side by side. When a company uses its own design team instead, these are the deliverables I need for iPhone development. Every pressable element needs at least two states. Files follow strict names, with the @2x suffix for the retina display. Design for the larger screen first, then scale down and keep the edges crisp. Keep text out of graphics, and send written guidelines for fonts, colors and spacing, zipped and dated."
+overview: "I argue that the best results come when a developer and a UI designer work side by side. When a company uses its own design team instead, these are the deliverables I need for iPhone development. Every pressable element needs at least two states. Files follow strict names, with the @2x suffix for the retina display. Design for the larger screen first, then scale down and keep the edges crisp. Keep text out of graphics, and send guidelines for fonts, colors and spacing, zipped and dated."
 ---
 
 From our experience, the ideal scenario is when the developer and the UI/UX designer work hand in hand.

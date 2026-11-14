@@ -6,7 +6,7 @@ layout: paper
 title: "Hunter Gatherer (or Rather Scavenger) Lifestyle and Diet"
 date: 2010-01-11
 author: Uki D. Lucas
-overview: "Since my days studying cultural anthropology, I have thought about how our ancestors lived and ate. Ten thousand years of agriculture is a short time against millions of years of evolution. A story about urban cavemen who eat meat, fast and sprint got me writing. The trend holds some truth, but not the whole truth. We were built to walk long distances, about 10 kilometers a day. We ate mostly nuts, roots, plants and small animals, high in fiber and low in sugar. That should guide how we live."
+overview: "Ten thousand years of agriculture is short against millions of years of evolution, so I ask how our ancestors actually lived and ate. A story about urban cavemen who eat meat, fast and sprint prompted me, and I test it against cultural anthropology. The trend holds some truth, not the whole truth. We were built to walk about 10 kilometers a day, not to sprint. We ate mostly nuts, roots, plants and small animals, high in fiber and low in sugar. That should guide how we eat and live."
 permalink: "/posts/hunter-gatherer-lifestyle-and-diet/"
 redirect_from:
   - /longevity/hunter-gatherer-lifestyle-and-diet/

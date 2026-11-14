@@ -6,7 +6,7 @@ slug: slavic-saga
 published: 2025-03-09
 last_updated: 2025-03-09
 date: 2025-03-09
-overview: "In the beginning there was only Rod, the silent source of all existence. From Rod came Svarog, who forged the stars and the sun, then Mokosh, the great mother who wove rivers and forests, Perun of storms and justice, and Veles, keeper of the underworld and magic. I retell this creation story of the Western Slavs and the wise people who kept their knowledge, the wiedźmin and wiedźma, whose name shares a root with the Sanskrit Veda. Their wisdom lives on in folklore."
+overview: "This is a retelling of the creation myth of the Western Slavs. From Rod, the silent source of all existence, come Svarog, who forged the stars and the sun, Mokosh, the great mother who wove rivers and forests, Perun of storms and justice, and Veles, keeper of the underworld and magic. The saga then turns to the wiedźmin and wiedźma, keepers of knowledge whose name shares a root with the Sanskrit Veda. Their wisdom survives in folklore, a reverence for nature and ancestors."
 permalink: "/posts/slavic-saga/"
 redirect_from:
   - /Slavic/slavic-saga/

@@ -5,7 +5,7 @@ date: 2014-10-22
 last_updated: 2026-11-13
 author: Uki D. Lucas
 permalink: "/posts/lever-action-rifle-calibers/"
-overview: "I was thinking about a new lever-action rifle. These late 1800s designs are light enough for backpacking and quick in thick brush, with a large magazine. I reload my own ammunition, and I wanted a caliber that can handle boar. I walk through the options, from .38 Special and .44 Magnum to .45 Colt, .454 Casull, .45-70 and .30-30. My favorite is the .454 Casull, because the same rifle also fires .45 Colt. That gives me a light, a medium and a heavy rifle in one package."
+overview: "I ask which caliber suits a new lever-action rifle. These late 1800s designs are light for backpacking, quick in thick brush, and hold many rounds. I reload my own ammunition, and I need a load that can stop a boar. I compare the .38 Special, .44-40, .44 Magnum, .45 Colt, .454 Casull, .45-70 and .30-30 on power and on the room each takes in the magazine. I land on the .454 Casull, because it also fires .45 Colt, giving me a light, a medium and a heavy rifle in one package."
 ---
 
 Recently, I have been thinking about a new lever-action rifle.

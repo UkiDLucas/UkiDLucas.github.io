@@ -7,7 +7,7 @@ layout: paper
 title: "Introducing AIKOassistant.ai native MacOS app"
 date: 2026-03-09
 author: Uki D. Lucas
-overview: "For years I have tried to build AIKO, an AI child, because I dreamed of a personal AI that brings my favorite historical figures, scientists and philosophers into the room. I also needed a way to manage thousands of notes and blog posts. I went from rule-based command-line tools to Skype and Telegram chats. Language models and nightly automation finally made it doable. I wanted to design it myself, with safety and privacy in mind, and now it has a native macOS app, AIKOassistant.ai."
+overview: "For years I have tried to build AIKO, an AI child, because I dreamed of a personal AI that brings my favorite historical figures, scientists and philosophers into the room, and I needed to manage thousands of notes and blog posts. I trace the path from rule-based command-line tools to Skype and Telegram chats. Language models and nightly automation finally made it doable. I designed it myself, for safety and privacy, and I present its native macOS app, AIKOassistant.ai."
 permalink: "/posts/introducing-aiko-macos_app/"
 redirect_from:
   - /posts/Introducing-AIKO-macOs_app

@@ -6,7 +6,7 @@ layout: paper
 title: "Atlas Shrugged: Strong Ideology but Minimal Individual Action"
 date: 2025-03-20
 author: Uki D. Lucas
-overview: "A recent trip to Europe brought old friends and heated arguments. In Poland nearly every talk turned against the government, and in the U.S. the partisan divide runs just as deep. What struck me most was ideology practiced like religion, from politics to environmentalism to living for the next glass of wine. Strong ideology, minimal individual action. So I am re-reading Atlas Shrugged, and its answer is simple: live by your own standards, forged through struggle and refined by experience."
+overview: "A trip to Europe, old friends and heated arguments made me ask which values I truly live by. In Poland nearly every talk turned against the government, and in the U.S. the partisan divide runs just as deep. I saw ideology practiced like religion, in politics, faith, environmentalism and in living for the next glass of wine. Strong ideology, minimal individual action. I turn to Atlas Shrugged, which answers: live by your own standards, forged through struggle and refined by experience."
 permalink: "/posts/atlas-shrugged-strong-ideology-minimal-action/"
 redirect_from:
   - /Stoic/atlas-shrugged-strong-ideology-minimal-action/

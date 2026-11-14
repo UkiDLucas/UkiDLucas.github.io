@@ -6,7 +6,7 @@ layout: paper
 title: "My Dream Assistant Should Know Me Better"
 date: 2021-01-10
 author: Uki D. Lucas
-overview: "Siri, Alexa and Google Assistant are sometimes useful, but they forget what I asked this morning and cannot tell who is speaking. After months of pandemic isolation, I want more. These companies know what I buy, read and search. My dream assistant would learn from everything I have read and written, recognize my face and mood, start my day with news I care about, and introduce me to people who share my interests. I call it AIKO, and the opportunity is open to anyone who builds it."
+overview: "Siri, Alexa and Google Assistant forget what I asked this morning and cannot tell me from my kids. After months of pandemic isolation, I ask what a real assistant should be. These companies already know what I buy, read and search. I describe my ideal: trained on everything I have read and written, aware of my face and mood, opening my day with news I care about, and introducing me to people who share my interests. I call it AIKO, and the opportunity is open to anyone who builds it."
 permalink: "/posts/dream-assistant-should-know-me-better/"
 redirect_from:
   - /AI/dream-assistant-should-know-me-better/

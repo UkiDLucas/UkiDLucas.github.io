@@ -6,7 +6,7 @@ slug: this-is-all-greek-to-me
 published: 2024-06-28
 last_updated: 2024-06-28
 date: 2024-06-28
-overview: "This summer I drove around Greece and visited its ancient and Byzantine sites. It made me see how central Hellenic culture is to Europe. Sophisticated English, and Polish too, is full of Greek words, many of them reaching us through Latin. I grew up in Latin Catholic Poland, where school taught Homer and Herodotus but almost nothing about Byzantium, which outlived Rome by a thousand years. I plan to write about Greek words in English, the myths, Byzantium, and why learning Greek is worth it."
+overview: "I argue that Greek culture is far more central to Europe than my schooling suggested. A summer drive around Greece, through its ancient and Byzantine sites, showed me this. Sophisticated English, and Polish too, is full of Greek words, many reaching us through Latin. I grew up in Latin Catholic Poland, where school taught Homer and Herodotus but almost nothing about Byzantium, which outlived Rome by a thousand years. I plan to write about Greek words, myths, Byzantium, and learning Greek."
 excerpt: "Reflections on Greek language, history, and cultural influence across Europe."
 tags:
   - culture

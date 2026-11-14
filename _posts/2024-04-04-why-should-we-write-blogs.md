@@ -4,7 +4,7 @@ title: "Why Should We Write Blogs"
 date: 2024-04-04
 author: Uki D. Lucas
 permalink: "/posts/why-should-we-write-blogs/"
-overview: "A friend told me nobody reads blogs anymore and I should focus on Instagram. I have other reasons to write. I like it, I want to see what I was thinking years ago, I want my kids to have it when they are grown, and I am training a personal AI on my way of thinking. Private notebooks and documents get forgotten, and then they are lost. Talking with relatives about our ancestry, I saw how few generations anyone remembers. Nobody wants to be forgotten. Books last longest."
+overview: "A friend told me nobody reads blogs anymore and I should focus on Instagram. I explain why I keep writing in public. I like to write, I want to see what I was thinking years ago, I want my kids to have it when they are grown, and I train a personal AI on my way of thinking. Private notebooks and documents get forgotten, and then they are lost. Talking about ancestry, I saw how few generations anyone remembers. Nobody wants to be forgotten. Books last longest, but may wait until I retire."
 excerpt: "Why blogging still matters for reflection, legacy, and long-term knowledge sharing."
 tags:
   - writing

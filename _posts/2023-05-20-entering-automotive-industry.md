@@ -4,7 +4,7 @@ title: "Thinking About Entering the Automotive Industry"
 date: 2023-05-20
 author: Uki D. Lucas
 permalink: "/posts/entering-automotive-industry/"
-overview: "I wrote this for companies and people entering the automotive business, because I keep meeting people who struggle to understand its needs. Requirements management is the backbone of the work. Car makers expect traceability from customer and stakeholder requirements through system and software requirements to validation, and it cannot be built afterward. I walk through ISO 26262 and ASPICE, the tools, the Change Control Board, and the regional safety and privacy laws a supplier must respect."
+overview: "Many people and companies entering the automotive business struggle to understand what car makers need, so I explain it from my years as an architect and consultant. Requirements management is the backbone. Car makers expect two-way traceability from customer and stakeholder requirements through system and software requirements to validation, and it cannot be built afterward. I cover ISO 26262 and ASPICE, requirements tools, the Change Control Board, and regional safety and privacy laws."
 excerpt: "A practical guide to requirements management, standards, and process expectations in automotive programs."
 tags:
   - automotive

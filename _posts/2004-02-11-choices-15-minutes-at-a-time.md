@@ -4,7 +4,7 @@ title: "Make a choice every 15 minutes"
 date: 2004-02-11
 author: Uki D. Lucas
 permalink: "/posts/15-minute/"
-overview: "In early 2004 I was worrying about the future, and worry is a stress maker. So I went back to an old practice I borrowed from Peter Drucker. Every 15 minutes I ask myself one question: what am I doing right now to enhance my life? Studying, eating well, exercising and going to sleep on time all count. Wasting an evening in front of a bad show does not. When I live this way, the past and the future stop pressing on me, because I am already doing my best. Life is a chain of choices."
+overview: "Worry about the future is a stress maker, and in early 2004 I had a lot of it. I return to a practice I borrowed from Peter Drucker's Managing Oneself. Every 15 minutes I ask what I am doing right now to enhance my life. Study, good food, exercise, sleep and time with family count. An evening wasted in front of bad television does not. I argue that living this way quiets the past and the future, because I am already doing my best. Life is a chain of choices, so choose with awareness."
 ---
 
 # Make a choice every 15 minutes

@@ -6,7 +6,7 @@ layout: paper
 title: "From Behavioral Sciences to a Career in Sensor Perception and AI"
 date: 2025-04-22
 author: Uki D. Lucas
-overview: "Every couple of years I look back at my career and consider the next pivot. This is the 2025 update, and AI makes it the most transformative yet. Over 32 years, a lifelong love of cultural anthropology ran under the technology: user interfaces at Rolling Stone, web crawlers, microservices, Android tablets for precision farming tractors, car infotainment, driver assistance, and now 3D LiDAR perception. Next come small local models and agents. My advice is to stay curious and keep learning."
+overview: "Every couple of years I review my career and consider the next pivot, and AI makes 2025 the most transformative. I trace 32 years in which a love of cultural anthropology ran under the technology: user interfaces at Rolling Stone, web crawlers, microservices, Android tablets for farm tractors, car infotainment, driver assistance and 3D LiDAR perception. Next come small local models and agents. Adaptability stays essential. My advice: stay curious and keep learning."
 permalink: "/posts/from-behavioral-sciences-to-a-career-in-sensor-perception-and-ai/"
 redirect_from:
   - /AI/from-behavioral-sciences-to-a-career-in-sensor-perception-and-ai/

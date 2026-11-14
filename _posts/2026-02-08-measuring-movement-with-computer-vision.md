@@ -6,7 +6,7 @@ layout: paper
 title: "Measuring movement with computer vision"
 date: 2026-02-08
 author: Uki D. Lucas
-overview: "Today I measured my own karate kata with computer vision, and the numbers show where I need to improve. Video is a time-stamped measuring tool: at 60 frames per second, each frame is about 16.7 milliseconds. Even a smartphone recording can split a movement into phases, show which part of the body moves first, and reveal tension or a stable pattern across repetitions. It cannot measure force or muscle activation, but for timing and coordination it is far more powerful than most people assume."
+overview: "I ask how much ordinary video can measure about human movement, using my own karate kata as the test. Video is a time-stamped measuring tool: at 60 frames per second, each frame is about 16.7 milliseconds. Even a smartphone recording can split a movement into phases, show which part of the body moves first, and reveal tension or a stable pattern across repetitions. It cannot measure force or muscle activation, but for timing and coordination it is far more powerful than most assume."
 permalink: "/posts/measuring-movement-with-computer-vision/"
 redirect_from:
   - /AI/measuring-movement-with-computer-vision/

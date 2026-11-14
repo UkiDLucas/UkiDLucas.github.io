@@ -5,7 +5,7 @@ date: 2017-01-02
 author: Uki D. Lucas
 last_updated: 2026-11-13
 permalink: "/posts/50-cal-muzzle-loader-rifle/"
-overview: "I got a muzzleloader because of local laws, and then I caught the bug. I start with safety, because the wrong powder and bullet can blow up the rifle, and smokeless powder does not belong in it. Then I work through powder charges, projectiles and twist rates. Shooting many different loads under one scope zero, I needed a more scientific approach. So I estimated trajectories from ballistic coefficients, and found one zero that gives a usable point blank range for most of my loads."
+overview: "I ask how to zero one muzzleloader for many different loads. I begin with safety, because the wrong powder and bullet can blow up the rifle, and smokeless powder does not belong in it. Then I cover powder charges, projectiles and twist rates. From ballistic coefficients and estimated velocities I plot the trajectories of my loads. I conclude that a zero about 2 inches high at 50 yards gives a usable maximum point blank range for most of them, from about 110 to 180 yards."
 ---
 
 Muzzleloading rifles are a different kind of fun. It is true that I got one because of the local laws, but I definitely have caught an ML bug since.

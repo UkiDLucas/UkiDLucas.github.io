@@ -4,7 +4,7 @@ title: "pair programming"
 date: 2009-08-26
 author: Uki D. Lucas
 permalink: "/posts/pair-programming/"
-overview: "These are the steps I asked my development team to follow. Write the plan on the wiki and explain it to someone before coding. Pair with a buddy for part of each day. Review code daily, and test each other's work. In the previous cycle I gave up pair programming, because we had many tasks and a small, scattered team. The result was a long stretch of bug fixes and a late, stressful build. As the project manager, I take full responsibility for that failure, and I am correcting it."
+overview: "I argue that pair programming saves more time than it costs. In one cycle I gave it up, because we had many tasks and a small team spread across locations. The result was a long stretch of bug fixes and a late, stressful build, and as the project manager I take full responsibility. I set out the steps I asked my team to follow: plan on the wiki, pair with a buddy, and review and test each other's code daily. Pairing builds shared understanding. Working alone leads to burnout and lost knowledge."
 ---
 
 # Pair Programming

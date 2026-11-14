@@ -3,7 +3,7 @@ layout: paper
 title: "Still Not Enough"
 date: 2026-09-06
 author: Uki D. Lucas
-overview: "Three years in Japan taught me to cherish the few things I have: mottainai, the regret of waste, and frugality as respect. Later the suburbs taught me the hedonic treadmill, the voice that says not good enough. Japan heard that voice too, and after the bubble burst, some of its young stepped off. Then, in the garden of my aikido center, I recognized a stone water basin carved with four characters: I only know what is enough. Not asceticism, not giving up, but essentialism and a reason for being."
+overview: "I ask how to quiet the voice that says not enough. Three years in Japan taught me mottainai, the regret of waste, and frugality as respect. The suburbs taught me the hedonic treadmill. Japan heard that voice too, and after the bubble burst some of its young stepped off. In the garden of my aikido center I recognized a stone basin carved with four characters: I only know what is enough. I argue not for asceticism or giving up, but for essentialism, community and a reason for being."
 permalink: "/posts/still-not-enough/"
 canonical_source: https://ukidlucas.substack.com/p/still-not-enough
 ---

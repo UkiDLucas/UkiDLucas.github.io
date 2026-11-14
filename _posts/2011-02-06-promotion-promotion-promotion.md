@@ -5,7 +5,7 @@ date: 2011-02-06
 last_updated: 2026-11-13
 author: Uki D. Lucas
 permalink: "/posts/promotion-promotion-promotion/"
-overview: "Promotion works best among people you do not compete with. I have seen food vendors thrive by speaking to the business and technology crowd. From there I give practical habits for social media. Re-post experts, but add a few words of your own. Write short blog posts about good articles, and ask the smart questions the article left open. Follow events anywhere in the world, promote the speakers, and thank people afterward. Track your links, so that your own website becomes the destination."
+overview: "I offer practical habits for promoting a business on social media. Promote yourself among people you do not compete with. I have seen food vendors thrive among the business and technology crowd. Re-post experts, but add a few words of your own. Blog briefly about good articles, and ask the smart questions they left open. Follow events anywhere in the world, promote the speakers, and thank people afterward. Track your links, so that your own website becomes the destination."
 ---
 
 - take a road less traveled: don't compete

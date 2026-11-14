@@ -6,7 +6,7 @@ layout: paper
 title: "Beautiful Mind vs Sterile Formula: The Pathway to Better AI"
 date: 2023-05-16
 author: Uki D. Lucas
-overview: "A paradigm is a framework we use to interpret the world, and reading many books gives us a library of them to choose from. That is the difference between a hammer that sees only nails and a beautiful mind. Science and machine learning like to reduce signals to principal components and a clean formula, but a sterile formula carries risk. ChatGPT taught me the value of fuzzy background information. Some computations need strict formulas, but autonomous cars will have to be taught to drive."
+overview: "I argue that good thinking, human or machine, needs more than a clean formula. A paradigm is a framework for interpreting the world, and wide reading gives us a library of them to choose from. That is the difference between a hammer that sees only nails and a beautiful mind. Science reduces signals to principal components, and autonomous driving prefers formulas because they are easy to validate. ChatGPT showed me the value of fuzzy background information. Cars will have to be taught to drive."
 permalink: "/posts/beautiful-mind-vs-sterile-formula-ai/"
 redirect_from:
   - /AI/beautiful-mind-vs-sterile-formula-ai/

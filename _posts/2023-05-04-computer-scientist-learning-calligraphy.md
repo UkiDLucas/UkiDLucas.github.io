@@ -4,7 +4,7 @@ title: "Why Would a Computer Scientist Be Interested in Learning Calligraphy"
 date: 2023-05-04
 author: Uki D. Lucas
 permalink: "/posts/computer-scientist-learning-calligraphy/"
-overview: "I have long taken notes with a pen, and my teams brought yellow legal pads, not laptops, into client boardrooms. When Google Lens read a cursive script in a restaurant, I saw that the problem with handwriting apps was my own hand, so I set out to fix it. Then I found my old letters from the early nineties. They stop around 1997, when email took over, and fifteen years of digital talk left nothing behind. So I am asking friends a simple question: can I write to you?"
+overview: "Why would a computer scientist care about handwriting? I answer from my own practice. My teams took yellow legal pads, not laptops, into client boardrooms, so no screen stood between us and the client. When Google Lens read a cursive script in a restaurant, I saw that the problem was my own hand. Then I found my letters from the early nineties. They stop in 1997, when email took over, and the digital years left nothing behind. So I am asking friends: can I write to you?"
 excerpt: "A reflection on handwriting, memory, and why handwritten notes still matter in a digital world."
 tags:
   - writing

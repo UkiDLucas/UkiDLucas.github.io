@@ -6,7 +6,7 @@ layout: paper
 title: "Virtual Personal Assistant"
 date: 2017-03-21
 author: Uki D. Lucas
-overview: "This comes from over 17 years of managing people in other countries, five of them running an entirely virtual business. Delegation is essential, and an executive virtual personal assistant can take a real share of a busy manager's work. I define the role, then describe what makes it work: make your boss look good, know your employer well, keep learning, and be proactive. Judge the assistant by the time freed and the value created, not by tasks done. I end with the tools the job uses daily."
+overview: "I argue that a busy manager should delegate a real share of the work to an executive virtual personal assistant. I draw on over 17 years of managing people in other countries, five of them running an entirely virtual business. I define the role, then describe what makes it work: make your boss look good, know your employer well, keep learning, communicate with purpose, and be proactive. Judge the assistant by the time freed and the value created, not by tasks done. I close with the daily tools."
 permalink: "/posts/virtual-personal-assistant/"
 redirect_from:
   - /AI/virtual-personal-assistant/

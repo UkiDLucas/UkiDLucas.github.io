@@ -3,7 +3,7 @@ layout: paper
 title: "When knowledge is available to everyone, what makes a leader valuable?"
 date: 2026-11-07
 author: Uki D. Lucas
-overview: "For most of history, knowledge was scarce, and those who held it had the advantage. Now any employee can reach expert reasoning in seconds, and organizations are flattening. So what makes a leader valuable? I think of Ben Whittaker, Robert De Niro's character in The Intern, who brings composure, judgment and kindness to a modern tech company. AI can answer an engineer's question. It cannot see what that engineer could become. A lifetime of experience is becoming more valuable, not less."
+overview: "When any employee can reach expert reasoning in seconds and organizations flatten, I ask what makes a leader valuable. I draw on decades of leading engineering teams and on Ben Whittaker, Robert De Niro's character in The Intern, who brings composure, judgment and kindness to a tech company. AI can answer an engineer's question. It cannot see what that engineer could become. The lasting work of a leader is building people, and a lifetime of experience is gaining value."
 permalink: "/posts/when-knowledge-is-available-to-everyone/"
 canonical_source: https://ukidlucas.substack.com/p/when-knowledge-is-available-to-everyone
 ---

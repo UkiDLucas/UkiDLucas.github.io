@@ -4,7 +4,7 @@ title: "A Soul-Barring Story"
 date: 2024-04-26
 author: Uki D. Lucas
 permalink: "/posts/soul-baring-story/"
-overview: "Growing up, I had no mentor. I was left behind in socialist Poland as a teen, came to Chicago just before eighteen, went to an inner-city school, and cleaned offices at night. A Marine recruiter called and I said yes. Okinawa gave me coral reefs, and night classes in anthropology gave me my first mentor. Later, a chance talk while I worked as a lobby doorman led to my first programming job. I made every mistake a person can make. Now I want to share the lessons a mentor could have saved me."
+overview: "I explain why I write about mentors by telling the story of growing up without one. Left behind in socialist Poland as a teen, I came to Chicago just before eighteen, went to an inner-city school, and cleaned offices at night. A Marine recruiter called and I said yes. Okinawa gave me coral reefs, and night classes in anthropology gave me my first mentor. A chance talk while I worked as a lobby doorman led to my first programming job. I made every mistake, and I share the lessons."
 last_updated: 2026-11-13
 ---
 

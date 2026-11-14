@@ -3,7 +3,7 @@ layout: paper
 title: "My affliction"
 date: 2026-10-10
 author: Uki D. Lucas
-overview: "While waiting at an ice rink, listening to Asimov's Foundation, I jokingly asked my Aiko chatbot to diagnose me. The verdict: an epistemic gap that causes aporia. The more I learn, the more I see what I do not know, and whole evenings go to research instead of action. Leading a team, I decide easily. On my own ventures, I stall. Studying feels like progress with no risk of failure, but the market pays for demand, not understanding. The prescription was simple: focus on action."
+overview: "I describe an affliction my Aiko chatbot named, half in jest, an epistemic gap that causes aporia. The more I learn, the more I see what I do not know, and whole evenings go to research instead of action. Leading a team, I decide easily. On my own ventures, I stall. Studying feels like progress with no risk of failure, but the market pays for demand, not understanding. The prescription is simple: focus on action. I hope it helps others move from feeling inadequate to pursuing a dream."
 permalink: "/posts/my-affliction/"
 canonical_source: https://ukidlucas.substack.com/p/my-affliction
 ---
