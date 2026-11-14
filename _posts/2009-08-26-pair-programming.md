@@ -4,7 +4,7 @@ title: "pair programming"
 date: 2009-08-26
 author: Uki D. Lucas
 permalink: "/posts/pair-programming/"
-overview: "Here are a steps I would like the team to follow while developing: Create a wiki topic on what you are planning to do and explain these steps to someone before starting writing the code Have a buddy spend at least a part of the day pair-programming with you, return the favor..."
+overview: "These are the steps I asked my development team to follow. Write the plan on the wiki and explain it to someone before coding. Pair with a buddy for part of each day. Review code daily, and test each other's work. In the previous cycle I gave up pair programming, because we had many tasks and a small, scattered team. The result was a long stretch of bug fixes and a late, stressful build. As the project manager, I take full responsibility for that failure, and I am correcting it."
 ---
 
 # Pair Programming

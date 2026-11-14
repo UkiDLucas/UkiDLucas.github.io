@@ -5,7 +5,7 @@ date: 2011-02-22
 author: Uki D. Lucas
 last_updated: 2026-11-13
 permalink: "/posts/monetizing-your-application/"
-overview: "The first way to make money is to offer your application for free with advertisements. You should not consider this option, especially using services like AdMob, if you do not have millions of sessions."
+overview: "I see five ways to make money from an app. Free with ads works only when you have millions of sessions. Free with paid services suits consulting firms and sellers of physical goods. Free with in-app purchases is one of the most successful models, in games and in publishing. A limited free version with a paid full version converts poorly, so I recommend it least. A fully priced app makes sense when the demand and the value are clear, and customers who pay more are often happier with the product."
 ---
 
 There are five ways to monetize your application:

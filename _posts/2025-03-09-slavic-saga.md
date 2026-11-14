@@ -6,7 +6,7 @@ slug: slavic-saga
 published: 2025-03-09
 last_updated: 2025-03-09
 date: 2025-03-09
-overview: "In the beginning, before time itself awakened, there existed only Rod—the eternal, the boundless, the unmanifested source of all existence. Rod lingered in profound silence, beyond form, thought, and sensation. Within this divine stillness lay the seeds of infinite possibility, awaiting the spark that would ignite creation. And so, from the depths..."
+overview: "In the beginning there was only Rod, the silent source of all existence. From Rod came Svarog, who forged the stars and the sun, then Mokosh, the great mother who wove rivers and forests, Perun of storms and justice, and Veles, keeper of the underworld and magic. I retell this creation story of the Western Slavs and the wise people who kept their knowledge, the wiedźmin and wiedźma, whose name shares a root with the Sanskrit Veda. Their wisdom lives on in folklore."
 permalink: "/posts/slavic-saga/"
 redirect_from:
   - /Slavic/slavic-saga/

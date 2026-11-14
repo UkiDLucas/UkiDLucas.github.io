@@ -5,7 +5,7 @@ date: 2024-05-26
 author: Uki D. Lucas
 permalink: "/posts/post-17-the-15-minute-rule/"
 last_updated: 2026-11-13
-overview: "How do we attract opportunities? Great opportunities come to everyone all the time, but only trained and prepared people can notice and take advantage of them."
+overview: "Great opportunities come to everyone, but only prepared people notice them. An average book takes about ten hours, and a thousand of them comes to the famous ten thousand hours. That is why I give my free time to reading. To stay on course, I use a simple rule. Every fifteen minutes I ask what I have just done to make my life better, and what I should do next to become a better human. Often the answer is to eat, sleep, or laugh with friends. The rest is good habits."
 ---
 
 How do we attract opportunities?

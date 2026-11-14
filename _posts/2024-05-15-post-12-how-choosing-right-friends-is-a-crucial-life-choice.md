@@ -4,7 +4,7 @@ title: "Post 12. How choosing right friends is a crucial life choice"
 date: 2024-05-15
 author: Uki D. Lucas
 permalink: "/posts/post-12-how-choosing-right-friends-is-a-crucial-life-choice/"
-overview: "We served together in the military, lived in Okinawa, and attended the same university for Japanese Studies. We had profound and life-changing discussions. We also had to work hard on our characters and rise above what life has served us. 🙂 Your accomplishments are spectacular, and I am proud of you."
+overview: "I wrote this letter to celebrate one of my best friends. We served together, lived in Okinawa, and studied Japanese at the same university, and then life sent us to different continents. The choice of friends, like the choice of a spouse, may be the most important one we make. I avoid loud parties, but I will cross an ocean for a few hours of talk in a cafe. Good friends comfort us, and they also challenge us. You know you chose well when you leave wanting to do something great."
 ---
 
 Dear Friend

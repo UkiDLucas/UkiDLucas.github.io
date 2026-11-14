@@ -5,7 +5,7 @@ date: 2017-01-15
 author: Uki D. Lucas
 last_updated: 2026-11-13
 permalink: "/posts/my-grand-plan/"
-overview: "18 years from now, in 2035, I will be 62 years old. How do I imagine myself then?"
+overview: "In 2017 I asked how I want to live 18 years later, in 2035. I start with place: within an hour of wild mountains and a national forest, because I spent my youth in the mountains and I still long for them. Then health. I plan to eat with almost no sugar, to fast often, and to keep training the hard way, on obstacles, rocks and winter weather rather than in gyms. Then money, approached through essentialism instead of consumerism. Finally, I study every day, past my comfort level."
 ---
 
 My grand plan: 18 years from now, in 2035, I will be 62 years old.

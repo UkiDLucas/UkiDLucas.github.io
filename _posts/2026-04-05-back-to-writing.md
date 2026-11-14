@@ -3,7 +3,7 @@ layout: paper
 title: "Human writing in age of AI"
 date: 2026-04-05
 author: Uki D. Lucas
-overview: "Happy Easter Sunday, if you celebrate."
+overview: "I stopped blogging for months. I was busy learning agentic development, and when anyone can ask AI about anything, I felt I had nothing to add. My blog is mostly read by bots. Yet I came back, because there is still room for one person to guide and mentor another. The world changes so fast that everyone is a student now, and with all knowledge a question away, you can become anyone you want to be. I end with an experiment: ask your AI chat to summarize what I wrote recently."
 permalink: "/posts/back-to-writing/"
 canonical_source: https://ukidlucas.substack.com/p/back-to-writing
 ---

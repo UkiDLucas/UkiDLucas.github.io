@@ -5,7 +5,7 @@ date: 2024-05-28
 author: Uki D. Lucas
 permalink: "/posts/actively-find-opportunities/"
 last_updated: 2026-11-13
-overview: "One of the benefits of writing to people is that they sometimes respond. Most of my writing is for a single person in mind or a conversation summary."
+overview: "A former coworker answered my last post with a long letter. Layoffs had made life hard, and it reminded me why I write: people need coaching. Reach out to people. The rest is tactical advice. Choose your next career step, collect profiles of people already there, and ask an LLM which keywords and skills the role needs. Then rewrite your LinkedIn profile yourself, with a real photo, a short tagline, and your own story. Never paste the AI text. Grow your network every week."
 excerpt: "Practical steps to improve visibility, profile quality, and career opportunities."
 tags:
   - career

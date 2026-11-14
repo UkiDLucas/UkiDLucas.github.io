@@ -4,7 +4,7 @@ title: "Why Do I Consider Reading the Single Most Important Habit for Success"
 date: 2024-05-17
 author: Uki D. Lucas
 permalink: "/posts/reading-most-important-habit-for-success/"
-overview: "I am not writing a history book. You can look it up, but let me drop in a few names of insatiable readers: da Vinci, Jefferson, Franklin, Lincoln, Einstein, Gandhi, Marie Curie-Skłodowska, and a few modern ones: Warren Buffett, Oprah, Bill Gates, Elon Musk, Obama, and Mark Zuckerberg. Good company, wouldn’t you..."
+overview: "Most noteworthy people, from da Vinci to Lincoln to Marie Curie-Skłodowska, were avid readers. I am only partly joking when I say: surround yourself with dead people. Advisors, thinkers, inventors and poets who stood the test of time can offset the daily noise of the media. Reading sets a moral compass, especially in hard times. I claim no special gift. My habit is to keep learning, listening to books while I cook, drive or walk, and reading when I can. The stack by my bed keeps growing."
 excerpt: "A short argument for reading as the core habit behind better judgment and long-term growth."
 tags:
   - reading

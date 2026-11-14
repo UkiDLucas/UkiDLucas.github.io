@@ -6,7 +6,7 @@ layout: paper
 title: "Beautiful Mind vs Sterile Formula: The Pathway to Better AI"
 date: 2023-05-16
 author: Uki D. Lucas
-overview: "A way of thinking about a particular concept is called a paradigm. It is a model, or a framework, that shapes our perspective in order to interpret the world."
+overview: "A paradigm is a framework we use to interpret the world, and reading many books gives us a library of them to choose from. That is the difference between a hammer that sees only nails and a beautiful mind. Science and machine learning like to reduce signals to principal components and a clean formula, but a sterile formula carries risk. ChatGPT taught me the value of fuzzy background information. Some computations need strict formulas, but autonomous cars will have to be taught to drive."
 permalink: "/posts/beautiful-mind-vs-sterile-formula-ai/"
 redirect_from:
   - /AI/beautiful-mind-vs-sterile-formula-ai/

@@ -7,7 +7,7 @@ published: 2024-10-22
 last_updated: 2024-10-22
 date: 2024-10-22
 excerpt: A concise translation note on a passage from Marcus Aurelius.
-overview: "This short passage offers a practical morning exercise: anticipate difficult people before the day starts. The framing is diagnostic, not emotional. The behavior of others is treated as ignorance of good and bad, not as a reason for retaliation."
+overview: "Marcus Aurelius left a short morning exercise. When you rise at dawn, expect to meet people who are ungrateful, arrogant, dishonest, jealous and disagreeable. They act this way because they cannot tell good from bad. I give the Greek passage, my working translation, and notes on the key words. The idea is to set expectations before the friction starts, so we are less likely to answer with anger. The blame moves from personal hostility to ignorance, which is how the Stoics trained judgment."
 paper_type: Translation Note
 affiliation: Independent Research
 abstract: >

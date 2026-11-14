@@ -4,7 +4,7 @@ title: "A Sustainable Homestead Plan in Charlevoix County, Michigan"
 date: 2024-12-04
 author: Uki D. Lucas
 permalink: "/posts/sustainable-homestead-plan-charlevoix-county/"
-overview: "Imagine waking up to mist rolling over the hills of Charlevoix County, Michigan, on a property that doesn’t just look beautiful—it provides everything you need to live sustainably. With a mix of rotational grazing, carefully planned crop production, and a thriving ecosystem of fruit, nuts, berries, and now chickens, this 41-acre homestead..."
+overview: "I sketched a plan for a small homestead in the rolling hills of Charlevoix County, Michigan, one that could feed a family and stay gentle on the land. Sheep and goats rotate through small paddocks, and the goats give milk for cheese and yogurt. Chickens, pigs, potatoes, corn, and a greenhouse fill out the year, beside orchards of apples, pears, hazelnuts, walnuts, and wild blueberries. I tally what it would cost and what it would produce. Kept small, it could support a peaceful retirement."
 ---
 
  #byUkiDLucas #public

@@ -3,7 +3,7 @@ layout: paper
 title: "Back to Foundation"
 date: 2026-10-25
 author: Uki D. Lucas
-overview: "Why I keep my own library in the age of benevolent AI"
+overview: "I depend on my AI agents for research, code and writing, and I trust the good intentions of their makers. Yet I am building my own knowledge store. Asimov's Foundation explains why: technology no longer understood turns into religion, and feared technology becomes taboo. Either way, the knowledge is lost. As future models train on an Internet written by earlier models, the record may quietly dilute. So I keep thousands of paper books, and I think every scholar should build their own Foundation."
 permalink: "/posts/back-to-foundation/"
 canonical_source: https://ukidlucas.substack.com/p/back-to-foundation
 ---

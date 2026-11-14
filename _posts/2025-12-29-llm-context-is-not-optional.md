@@ -6,7 +6,7 @@ layout: paper
 title: "LLM context is not optional"
 date: 2025-12-29
 author: Uki D. Lucas
-overview: "Modern large language models represent a compressed statistical summary of an enormous portion of what has been publicly written. This post provides clear context, key ideas, and practical takeaways."
+overview: "People often tell me that GPT answers are generic and shallow. I object, because the problem usually sits on our side. A model works with two things: what it learned in training, and the context we give it. Vague questions, mixed goals and missing constraints point it at a blurry region of meaning, and it answers with the common default. So before a hard question, I spend fifteen minutes or more letting the model ask me clarifying questions, one at a time. Only then can something new emerge."
 permalink: "/posts/llm-context-is-not-optional/"
 redirect_from:
   - /AI/llm-context-is-not-optional/

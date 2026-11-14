@@ -3,7 +3,7 @@ layout: paper
 title: "Happy Birthday, Marines"
 date: 2026-11-09
 author: Uki D. Lucas
-overview: "I did not plan to write this article."
+overview: "I did not plan this piece until I watched the Marine Corps birthday video. I arrived in the United States just before eighteen, said yes to a recruiter on the spot, and shipped to boot camp barely speaking English. I went in a boy and graduated a man. Electronics school, Okinawa, and a course in Total Quality Leadership taught me kaizen: I am not fixed, and the next small improvement is what matters. It carried me to Rolling Stone and still shapes how I lead. Good Marine leaders are loved."
 permalink: "/posts/happy-birthday-marines/"
 canonical_source: https://ukidlucas.substack.com/p/happy-birthday-marines
 ---

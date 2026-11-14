@@ -4,7 +4,7 @@ title: "Why Should We Write Blogs"
 date: 2024-04-04
 author: Uki D. Lucas
 permalink: "/posts/why-should-we-write-blogs/"
-overview: "Private records get forgotten. And then, forever lost. I have piles of notebooks that will no doubt join my funeral pyre, and I have countless digital documents that will never see the light of day."
+overview: "A friend told me nobody reads blogs anymore and I should focus on Instagram. I have other reasons to write. I like it, I want to see what I was thinking years ago, I want my kids to have it when they are grown, and I am training a personal AI on my way of thinking. Private notebooks and documents get forgotten, and then they are lost. Talking with relatives about our ancestry, I saw how few generations anyone remembers. Nobody wants to be forgotten. Books last longest."
 excerpt: "Why blogging still matters for reflection, legacy, and long-term knowledge sharing."
 tags:
   - writing

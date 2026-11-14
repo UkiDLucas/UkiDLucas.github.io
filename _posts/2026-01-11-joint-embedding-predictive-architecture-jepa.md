@@ -6,7 +6,7 @@ layout: paper
 title: "Joint Embedding Predictive Architecture (JEPA)"
 date: 2026-01-11
 author: Uki D. Lucas
-overview: "Recently, I came across a paper on the \"Joint Embedding Predictive Architecture\" (JEPA), co-authored by Yann LeCun, which may change how we think about robotic perception."
+overview: "A paper co-authored by Yann LeCun on the Joint Embedding Predictive Architecture, or JEPA, may change how we think about robotic perception. JEPA trains a machine to learn what can be predicted rather than what can be named, by inferring the missing parts of a scene from what remains visible. This fits 3D perception well, because geometry carries constraints that appearance cannot. Text is a record of experience, not the experience itself. A robot must first learn how the world works."
 permalink: "/posts/joint-embedding-predictive-architecture-jepa/"
 redirect_from:
   - /AI/joint-embedding-predictive-architecture-jepa/

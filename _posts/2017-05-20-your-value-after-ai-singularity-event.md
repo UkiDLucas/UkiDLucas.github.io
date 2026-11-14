@@ -6,7 +6,7 @@ layout: paper
 title: "Your Value after the A.I. Singularity Event"
 date: 2017-05-20
 author: Uki D. Lucas
-overview: "In this article, we will explore the development of Artificial Intelligence (A.I.) and its impact on humanity."
+overview: "I think the singularity will come not from one robot, but from a distributed system of many specialized machine learning models. That need not mean the end of humanity. Machines and people occupy different niches, and people may one day connect to the Internet through the neocortex. Many repetitive jobs will vanish, and I measured my own job against that future. Value will lie in creativity and emotional intelligence, and in turning your unique abilities into skills machines can run."
 permalink: "/posts/your-value-after-ai-singularity-event/"
 redirect_from:
   - /AI/your-value-after-ai-singularity-event/

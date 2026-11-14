@@ -6,7 +6,7 @@ layout: paper
 title: "Everlasting Youth"
 date: 2021-02-12
 author: Uki D. Lucas
-overview: "Too many people live with allergies, low-level aches, auto-immune diseases, arthritis, pre-diabetic sugar levels, obesity, cancer, mental fog, and dementia. Too many people die early."
+overview: "Too many people live with aches, mental fog and diseases that diet and lifestyle could prevent. Before I choose what to eat, I want to understand who we are. I trace our ancestors from the African coast and the lakes of the Rift Valley, past the Toba eruption, into northern Europe. Agriculture is an eye-blink in that story. So I lean toward fish, greens, nuts, mushrooms, soups, fermented foods and good fats, and away from sugar and grains. I am not a doctor. I write this to think."
 permalink: "/posts/everlasting-youth/"
 redirect_from:
   - /longevity/everlasting-youth/

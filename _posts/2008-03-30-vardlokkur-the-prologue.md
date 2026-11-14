@@ -6,7 +6,7 @@ slug: vardlokkur-the-prologue
 published: 2008-03-30
 last_updated: 2026-11-13
 date: 2008-03-30
-overview: "This story is about the last days of the great human culture. I am writing this from the perspective of 71 thousand years later, hence, I will use the terminology understood by my readers."
+overview: "This is the prologue to a story told from 71 thousand years in the future, about the last days of a great human culture. Humans left a drought-stricken Africa, spread across Eurasia, and built an oral culture of art and poetry. Then the volcano Toba erupted in Sumatra, a thousand times stronger than any eruption in modern times. Six years of volcanic winter followed. About 90 percent of humanity starved, and the survivors were too few to rebound. For 60 thousand years they all but disappeared."
 permalink: "/posts/vardlokkur-the-prologue/"
 redirect_from:
   - /Slavic/vardlokkur-the-prologue/

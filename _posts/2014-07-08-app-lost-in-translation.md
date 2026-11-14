@@ -6,7 +6,7 @@ layout: paper
 title: "App: Lost in Translation"
 date: 2014-07-08
 author: Uki D. Lucas
-overview: "From time to time, each of us working in the app development, be that an UI/UX designer, developer or project manager has to come up with user messages on the spot. We all think: \"Oh this is a temporary text, a placeholder, we will fix it later.. Question: How many times this..."
+overview: "Every app team writes placeholder text that it promises to fix later, and often never does. That text becomes a real problem when the app succeeds in another country and needs translation. I gather guidelines for user messages that are correct, clear and consistent: short sentences, active voice, one term for each concept, no and/or, no idioms. Then I cover how to handle strings in code, why you should never concatenate them, and how to leave room on the screen for longer translations."
 permalink: "/posts/app-lost-in-translation/"
 redirect_from:
   - /Android/app-lost-in-translation/

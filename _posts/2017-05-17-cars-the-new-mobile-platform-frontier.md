@@ -4,7 +4,7 @@ title: "Cars, the new mobile platform frontier"
 date: 2017-05-17
 author: Uki D. Lucas
 permalink: "/posts/cars-the-new-mobile-platform-frontier/"
-overview: "In last ten years, we have witnessed an explosion in mobile phone and tablet technology. Today, you can choose a set of apps that will delight you while making your life better, happier and more productive. You can get all this for few hundred dollars, a price of a flagship phone."
+overview: "In ten years, phones and tablets have become a delight to use. Yet when I sit in a new car, the interface often feels poor: too many clicks, badly placed buttons, and screens that do not serve the people in the seats. I use voice assistants and text-to-speech all day, but hardly ever in my car. Google, Apple and BlackBerry are working on the gap, and self-driving fleets are coming. It is time for designers and engineers to learn machine learning, computer vision and vehicles."
 ---
 
 In last ten years, we have witnessed an explosion in mobile phone and tablet technology. Today, you can choose a set of apps that will delight you while making your life better, happier and more productive. You can get all this for few hundred dollars, a price of a flagship phone.

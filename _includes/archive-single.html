@@ -47,25 +47,10 @@
          <p class="page__date"><time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %-d, %Y" }}</time></p>
         {% endif %}
 
-    {% assign summary_words = 0 %}
-    {% assign summary_paras = post.content | split: "</p>" %}
+    {% assign overview_text = post.overview | default: "" | strip_html | strip_newlines | strip %}
     <div class="archive__item-excerpt archive__item-summary" itemprop="description">
-    {% for para in summary_paras %}
-      {% if summary_words >= 300 %}{% break %}{% endif %}
-      {% unless para contains "<p" %}{% continue %}{% endunless %}
-      {% assign para_text = para | split: "<p" | last | prepend: "<p" | strip_html | strip_newlines | strip %}
-      {% if para_text == "" %}{% continue %}{% endif %}
-      {% assign para_count = para_text | number_of_words %}
-      {% assign room = 400 | minus: summary_words %}
-      {% if para_count > room %}
-        <p>{{ para_text | truncatewords: room }}</p>
-        {% assign summary_words = 400 %}
-      {% else %}
-        <p>{{ para_text }}</p>
-        {% assign summary_words = summary_words | plus: para_count %}
-      {% endif %}
-    {% endfor %}
-    <p class="archive__item-more"><a href="{{ base_path }}{{ post.url }}" rel="permalink">Continue reading</a></p>
+      {% if overview_text != "" %}<p>{{ overview_text }}</p>{% endif %}
+      <p class="archive__item-more"><a href="{{ base_path }}{{ post.url }}" rel="permalink">Continue reading</a></p>
     </div>
 
     {% if post.citation and post.paperurl and post.slidesurl %}

@@ -6,7 +6,7 @@ layout: paper
 title: "A Practical Framework for Safe Deployment of Autonomous AI Agents"
 date: 2026-02-15
 author: Uki D. Lucas
-overview: "Autonomous coding agents can increase delivery speed, but they also introduce operational, financial, and security risks at scale. This paper presents a governance-first architecture for safer autonomy: explicit Functional Requirements, deterministic stop conditions, operating system–enforced containment, staged promotion controls, and auditable execution artifacts. It is written to help engineering leaders, security teams..."
+overview: "Autonomous coding agents speed up delivery but bring operational, financial and security risk. I treat them as privileged processes, like a junior engineer with root access and infinite stamina. I lay out a governance-first framework: functional requirements as execution contracts, least privilege enforced by the operating system, separation of duties, budget caps, hard stop conditions, audit trails and a human gate before production. Autonomy is not inherently unsafe. Unbounded autonomy is."
 permalink: "/posts/a-practical-framework-for-safe-deployment-of-autonomous-ai-agents/"
 redirect_from:
   - /AI/a-practical-framework-for-safe-deployment-of-autonomous-ai-agents/

@@ -6,7 +6,7 @@ layout: paper
 title: "What did AIKO say about this old article in 2025?"
 date: 2025-03-21
 author: Uki D. Lucas
-overview: "In 2007, I described the following 1999 concept: AIKO - \"The Child of Artificial Intelligence\" (in Japanese, \"ko\" means child; \"ai\" means love, denoting the \"emotional intelligence\" aspect of the project)."
+overview: "In 1999 I sketched a project I called AIKO, the child of artificial intelligence, ai for love and ko for child. My complaint was that computing was stuck in true or false, rigid rules and narrow expertise, like a caged fast-food chicken that cannot feed itself, while a simple bacterium adapts within hours. I wanted software that evolves, reads emotion and recognizes patterns. In 2025 I showed the old piece to AIKO, and she read it as an early sketch of generative AI and affective computing."
 permalink: "/posts/what-did-aiko-say-about-this-old-article-in-2025/"
 redirect_from:
   - /AI/what-did-aiko-say-about-this-old-article-in-2025/

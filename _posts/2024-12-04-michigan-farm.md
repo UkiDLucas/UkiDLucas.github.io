@@ -4,7 +4,7 @@ layout: paper
 author: Uki D. Lucas
 title: Michigan farm "Up North"
 excerpt: Dreaming about the "Up North" in retirement.
-overview: "Nestled in the heart of Michigan’s scenic landscape, near the bustling Boyne Falls Ski Resort, lies a unique stretch of land: 41 acres of gently rolling hills, lush meadows, and sun-kissed slopes."
+overview: "I dream about a farm Up North, near Boyne Falls, close to Michigan's wine country. I picture nut trees on the hills, cattle grazing in rotation through the meadows, cold-hardy grapes on the southern slopes, and bee hives among permaculture islands. A small bed-and-breakfast would welcome guests who come to ski, bike, and taste local wine. I walk through a day on the farm, each season, and the tasks of the year, then the rough costs and the income such a place might bring."
 last_updated: 2026-11-13
 ---
 

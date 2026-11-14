@@ -6,7 +6,7 @@ layout: paper
 title: "Walk and Listen"
 date: 2024-04-18
 author: Uki D. Lucas
-overview: "Every couple of years, I reevaluate which way the wind is blowing and make corrections in my life. Today, I want to share my two favorite activities: walking and listening."
+overview: "A sailor goes with the prevailing winds, and every couple of years I check which way they blow. Right now it is AI and autonomy. My two favorite activities are walking and listening: a long path on weekday evenings, an audiobook in my ears, a stump to sit on in the sun. The walk fills me with ideas. AI will make how-to writing less relevant, so my hope is to write from the heart, as a human. The blog has gone quiet, and I want to hear from you."
 permalink: "/posts/walk-and-listen/"
 redirect_from:
   - /longevity/walk-and-listen/

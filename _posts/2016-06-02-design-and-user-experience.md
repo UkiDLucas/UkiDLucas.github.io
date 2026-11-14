@@ -5,7 +5,7 @@ date: 2016-06-02
 last_updated: 2026-11-13
 author: Uki D. Lucas
 permalink: "/posts/design-and-user-experience/"
-overview: "Development for mobile is a wonderful opportunity for beautiful and functional design that complements the device's technical abilities and screen properties. Most people underestimate the amount of work that goes into graphical design and its implementation."
+overview: "Most people underestimate the work behind good mobile design. I share tips the official iOS and Android guides do not voice. The team needs shared style names, generic to specific, that never describe a color or a location. Assets must match each screen density, which I explain with a balloon. Each platform deserves its own design, not one look forced on all of them. Designers belong inside the development team. And stretching a phone app onto a tablet is a cardinal sin."
 ---
 
 Development for mobile is a wonderful opportunity for beautiful and functional design that complements the device's technical abilities and screen properties.

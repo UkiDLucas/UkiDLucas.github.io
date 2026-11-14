@@ -5,7 +5,7 @@ date: 2023-05-22
 author: Uki D. Lucas
 last_updated: 2026-11-13
 permalink: "/posts/make-a-human-connection-not-a-quid-pro-quo-proposition/"
-overview: "To make a “quid pro quo” proposition, from Latin, “something for something,” means reaching out to someone assuming that the other party needs something from you, for example, the business you might want to offer."
+overview: "I ran a Google developer community in Chicago and built a large network, and with it came a steady stream of cold offers. People who reach out cold want quick success, and they think getting to the point fast looks professional. I value brevity, but this approach is wrong. I describe five traits of good professional relationships, from seeing the person beyond the immediate goal to respecting their time. Trust cannot be rushed. Once it is there, asking how we can help each other comes naturally."
 ---
 
 To make a “quid pro quo” proposition, from Latin, “something for something,” means reaching out to someone assuming that the other party needs something from you, for example, the business you might want to offer.

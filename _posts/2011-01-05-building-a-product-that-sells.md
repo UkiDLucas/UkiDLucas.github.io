@@ -5,7 +5,7 @@ date: 2011-01-05
 last_updated: 2026-11-13
 author: Uki D. Lucas
 permalink: "/posts/building-a-product-that-sells/"
-overview: "Let's start with the product, because after all, that is what your customers will want and what will define all of your future efforts, regardless of how lofty your philosophy is."
+overview: "The product defines all that follows, however lofty your philosophy. I start by dismissing the better mousetrap myth, because most technical marvels never catch the public's attention. Then I list what successful apps share. They do their advertised job very well. They are simple to use. They are designed for their audience and their platform, they invite sharing, and they are easy to find. Finally, build a product for your own needs, because a long effort needs real passion behind it."
 ---
 
 - the better mousetrap myth

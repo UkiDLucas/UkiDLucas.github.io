@@ -6,7 +6,7 @@ layout: paper
 title: "AI Zen Garden: Multi-Agent LLM Collegium on Your Desktop"
 date: 2025-03-08
 author: Uki D. Lucas
-overview: "I often imagine early humans gathered around a bonfire, sharing stories and chipping away at obsidian shards to create tools. In my own life, I notice a curious parallel: I sit here with my favorite note-taking app, aptly named Obsidian, and chip away at my thoughts, forging new ideas bit by bit."
+overview: "I chip away at my thoughts in Obsidian the way early humans chipped obsidian into tools. I am drawn to small AI models that run on my desk, models I can shape, stable and private. Dario Amodei's essay 'Machines of Loving Grace' named my hope: AI as a kind companion. Fine-tuning, the context window, and retrieval from my notes are the three knobs. I picture a collegium of local models: a Darwin AI, a Marcus Aurelius AI, a personal assistant, and one for my kids."
 permalink: "/posts/ai-zen-garden-multi-agent-llm-collegium/"
 redirect_from:
   - /AI/ai-zen-garden-multi-agent-llm-collegium/

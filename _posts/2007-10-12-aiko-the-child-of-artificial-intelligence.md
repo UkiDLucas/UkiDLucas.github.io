@@ -6,7 +6,7 @@ layout: paper
 title: "AIKO The Child of Artificial Intelligence"
 date: 2007-10-12
 author: Uki D. Lucas
-overview: "AIKO - \"The Child of Artificial Intelligence\" (in Japanese, \"ko\" means child; \"ai\" means love, denoting the \"emotional intelligence\" aspect of the project). This post provides clear context, key ideas, and practical takeaways."
+overview: "AIKO is the name of a project I first described in 1999. In Japanese, ai means love and ko means a child, so the name points at emotional intelligence as much as at artificial intelligence. I wanted to join evolutionary software growth, affective computing, pattern recognition and language recognition. Most programs rest on rigid rules and a narrow knowledge base. A simple bacterium adapts within hours. I argue that software should evolve the same way, changing its own code as conditions change."
 permalink: "/posts/aiko-the-child-of-artificial-intelligence/"
 redirect_from:
   - /AI/aiko-the-child-of-artificial-intelligence/

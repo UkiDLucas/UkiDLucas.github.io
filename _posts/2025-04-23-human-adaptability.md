@@ -6,7 +6,7 @@ layout: paper
 title: "Human Adaptability"
 date: 2025-04-23
 author: Uki D. Lucas
-overview: "Historically, humans have thrived because they are useful to one another. Communities naturally ostracized (expelled) malicious or unproductive people, effectively making usefulness synonymous with survival. Being excluded was not merely inconvenient; it often meant death, as individuals rarely survived in isolation."
+overview: "For most of history, humans survived by being useful to one another. Communities expelled the malicious and the unproductive, and alone a person rarely lived long. The rule still holds in modern workplaces, more gently. As artificial intelligence rises, I think adaptability is our greatest strength. Instead of fearing AI, we can find new ways to be useful by working beside it, bringing creativity, empathy and strategic vision to its computing power. How do you see communities in that age?"
 permalink: "/posts/human-adaptability/"
 redirect_from:
   - /Stoic/human-adaptability/

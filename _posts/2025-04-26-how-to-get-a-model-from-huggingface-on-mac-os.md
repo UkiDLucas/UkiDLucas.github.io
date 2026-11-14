@@ -6,7 +6,7 @@ layout: paper
 title: "How to get a model from HuggingFace on Mac OS"
 date: 2025-04-26
 author: Uki D. Lucas
-overview: "This guide documents the steps needed to download HuggingFace models (especially MLX models) correctly on Mac OS."
+overview: "A short, practical guide for anyone who wants to run MLX models locally on a Mac. I install the Hugging Face hub tools and Git LFS, turn on faster parallel downloads, and set up a clean folder for models. Then I clone a Mistral 7B Instruct model, pull the large weight files that a plain clone leaves behind, and show what the finished folder should look like. I close with a few tips that save time, such as avoiding spaces in folder names and moving old partial downloads aside first."
 permalink: "/posts/how-to-get-a-model-from-huggingface-on-mac-os/"
 redirect_from:
   - /AI/how-to-get-a-model-from-huggingface-on-mac-os/

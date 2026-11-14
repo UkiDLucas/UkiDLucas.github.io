@@ -5,7 +5,7 @@ date: 2011-03-15
 author: Uki D. Lucas
 last_updated: 2026-11-13
 permalink: "/posts/investments-ways-to-finance-your-business/"
-overview: "I would suggest for you to develop your business \"on the side\" until it is profitable and try to continue growing it organically. If you do so, you know your business is healthy and you don't need to take on investors that could potentially be detrimental to the long-term health of your business."
+overview: "My advice is to build your business on the side until it is profitable, and then grow it organically. Then you know it is healthy, and you need no investors whose goals may differ from yours. When that is not possible, I walk through the options: family, friends and fools, angel investors, and venture capital. Each has a cost. Money from friends can cost the friendship. Venture capital brings advice and open doors, but also reporting, pressure for large returns, and the risk of losing your seat."
 ---
 
 There are several ways to finance your business:

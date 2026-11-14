@@ -6,7 +6,7 @@ layout: paper
 title: "Multi-agents software development"
 date: 2026-02-04
 author: Uki D. Lucas
-overview: "A multi-agent foundation LLM is built for parallel, role-separated work on complex problems. It assumes that meaningful software development is not linear. Architecture, implementation, testing, refactoring, validation, and documentation are distinct cognitive tasks that benefit from concurrent execution. In this model, multiple specialized agents operate at the same time within a shared..."
+overview: "I compare three ways to use language models in software development. A chat agent on a foundation model speeds up one person's thinking, but progress stays serial as a project grows. A local medium model, 7B to 32B, reliably does narrow work inside a pipeline, privately and fast. A multi-agent foundation model runs specialized roles in parallel, architecture, code, tests and review, exchanging diffs and test results while a human acts as the technical lead. Together they form a hierarchy."
 permalink: "/posts/multi-agents-software-development/"
 redirect_from:
   - /AI/multi-agents-software-development/
