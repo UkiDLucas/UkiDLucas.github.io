@@ -1,7 +1,7 @@
 ---
 slug: joint-embedding-predictive-architecture-jepa
 published: 2026-01-11
-last_updated: 2026-01-11
+last_updated: 2026-11-13
 layout: paper
 title: "Joint Embedding Predictive Architecture (JEPA)"
 date: 2026-01-11
@@ -12,7 +12,7 @@ redirect_from:
   - /AI/joint-embedding-predictive-architecture-jepa/
 ---
 
-Overview
+## Overview
 
 Recently, I came across a paper on the "Joint Embedding Predictive Architecture" (JEPA), co-authored by Yann LeCun, which may change how we think about robotic perception.
 
@@ -26,8 +26,10 @@ The representations learned in this way are not optimized for classification or 
 
 This makes JEPA a foundation for robotics. It provides a way to build perception grounded in the physical world, in which meaning emerges from what can happen rather than from how things are labeled. Subsequent chapters will build on this idea, one concept at a time.
 
-The Real World
+## The Real World
+
 We all experience the world before we can describe it.
+
 Long before words or drawings, there is experience. The body moves, the environment responds, and patterns slowly become familiar.
 
 A hand presses against a table and feels resistance. An object released from the hand falls. A path allows movement; a wall does not. These are not lessons delivered through instruction. They are discovered through contact, repeated until they no longer surprise. Understanding begins as a sense of what tends to happen.
@@ -44,7 +46,7 @@ Only later do we begin to name what we already know. Words arrive as mental shor
 
 The real world teaches first by enforcing consequences. It rewards correct predictions and corrects incorrect ones. From this process, a stable internal sense of space, time, and possibility emerges. That sense precedes abstraction and underpins it.
 
-Text Is Not Enough
+## Text Is Not Enough
 
 Language appears to be intelligent because it is visible. We can read, hear, and test it. When a system produces fluent text, it conveys an understanding. But language is not where understanding begins. It is where it ends up after something quieter and more physical has already occurred.
 

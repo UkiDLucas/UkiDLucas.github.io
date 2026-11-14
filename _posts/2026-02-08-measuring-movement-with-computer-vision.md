@@ -1,12 +1,12 @@
 ---
 slug: measuring-movement-with-computer-vision
 published: 2026-02-08
-last_updated: 2026-02-08
+last_updated: 2026-11-13
 layout: paper
 title: "Measuring movement with computer vision"
 date: 2026-02-08
 author: Uki D. Lucas
-overview: "At a basic level, video is a time-stamped measurement tool. Every frame is a discrete snapshot of body position at a known interval. At 60 frames per second, each frame represents about 16.7 milliseconds. That is already within the range where clinically meaningful differences in reaction time, initiation latency, acceleration, and braking..."
+overview: "Today, I was measuring my movement using computer vision. Because of my interests, the numbers show Karate kata, which I need to improve."
 permalink: "/posts/measuring-movement-with-computer-vision/"
 redirect_from:
   - /AI/measuring-movement-with-computer-vision/
@@ -16,47 +16,14 @@ Today, I was measuring my movement using computer vision.
 
 Because of my interests, the numbers show Karate kata, which I need to improve.
 
-Technique
-
-Speed (ms)
-
-Performance Score (%)
-
-Morote-uke Gedan-barai (migi)
-
-410
-
-68
-
-Chudan-tsuki (migi)
-
-330
-
-76
-
-Yoko-tsuki (migi)
-
-290
-
-82
-
-Morote-uke Gedan-barai (hidari)
-
-395
-
-70
-
-Chudan-tsuki (hidari)
-
-320
-
-78
-
-Yoko-tsuki (hidari)
-
-285
-
-84
+| Technique | Speed (ms) | Performance Score (%) |
+|---|---:|---:|
+| Morote-uke Gedan-barai (migi) | 410 | 68 |
+| Chudan-tsuki (migi) | 330 | 76 |
+| Yoko-tsuki (migi) | 290 | 82 |
+| Morote-uke Gedan-barai (hidari) | 395 | 70 |
+| Chudan-tsuki (hidari) | 320 | 78 |
+| Yoko-tsuki (hidari) | 285 | 84 |
 
 At a basic level, video is a time-stamped measurement tool. Every frame is a discrete snapshot of body position at a known interval. At 60 frames per second, each frame represents about 16.7 milliseconds. That is already within the range where clinically meaningful differences in reaction time, initiation latency, acceleration, and braking can be observed.
 
@@ -64,7 +31,7 @@ What this allows, even from a simple smartphone recording, is segmentation of mo
 
 From a biomechanical perspective, the most valuable measurements are not raw speed, but timing relationships. For example, which segment initiates first, the pelvis, trunk, shoulder, or distal limb? Even without full 3D motion capture, relative timing can be inferred by observing when each segment begins to move from frame to frame. Small delays of 30–50 ms are visible and repeatable when the video is consistent.
 
-Acceleration profiles can also be approximated. By tracking the displacement of a joint or endpoint frame by frame, we can derive velocity curves and infer acceleration patterns. While this is not laboratory-grade kinetics, it is enough to distinguish relaxed, late-accelerating motion from tense, early-loaded motion. This is a key in my Karate kata training. In practice, this distinction often correlates strongly with efficiency, injury risk, and motor control quality.
+Acceleration profiles can also be approximated. By tracking the displacement of a joint or endpoint frame by frame, we can derive velocity curves and infer acceleration patterns. While this is not laboratory-grade kinetics, it is enough to distinguish relaxed, late-accelerating motion from tense, early-loaded motion. This is key in my Karate kata training. In practice, this distinction often correlates strongly with efficiency, injury risk, and motor control quality.
 
 Another important capability is repeatability analysis. By comparing multiple executions of the same movement, video analysis can reveal whether a motor pattern is stable or variable. As motor control improves, trajectories become more consistent even as speed increases. This is something clinicians often feel intuitively when watching patients, but video allows it to be tracked objectively over time.
 

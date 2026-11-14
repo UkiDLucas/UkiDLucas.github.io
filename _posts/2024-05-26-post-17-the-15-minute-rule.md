@@ -4,23 +4,24 @@ title: "Post 17. The 15-minute rule."
 date: 2024-05-26
 author: Uki D. Lucas
 permalink: "/posts/post-17-the-15-minute-rule/"
+last_updated: 2026-11-13
 overview: "How do we attract opportunities? Great opportunities come to everyone all the time, but only trained and prepared people can notice and take advantage of them."
 ---
 
 How do we attract opportunities?
+
 Great opportunities come to everyone all the time, but only trained and prepared people can notice and take advantage of them.
 
 You may ask, where can I find these opportunities? This town, this neighborhood, is far away from Sand Hill Road, Silicon Valley.
 
 If you have not read it yet, please read this first:
 
-#16. How can you ensure your career is both satisfying and progressing?
-
+"#16. How can you ensure your career is both satisfying and progressing?"
 In this article, I write about common obstacles facing you while transitioning from single contributor to upper management.
 
 ukidlucas.beehiiv.com/p/16-can-ensure-career-satisfying-progressing
 
-I will commit a faux pas by using a cliche, but in this case, I believe this saying, “When the student is ready, the teacher appears.”
+I will commit a faux pas by using a cliché, but in this case, I believe this saying, “When the student is ready, the teacher appears.”
 
 I swear this was a coincidence, but when I thought about it, the average book takes about 10 hours, and you should listen to or read at least a thousand of them. Yes, coincidentally or not, this comes to the famous 10,000 hours coined by Malcolm Gladwell in his bestseller Outliers. That amount you can achieve in about 4 to 6 years. It sounds like a lot, but it is the best investment of your life. This is one of the main reasons why I prioritize reading in my free time.
 
@@ -28,8 +29,10 @@ The opportunities come in random conversations, on vacation, in the store, or on
 
 Start here. Buy a book: Uki’s Book Library.
 
-How do you keep on the right course?
-Try to remind yourself and reflect on “What I have just done to make my life better?” every 15 minutes.
+## How do you keep on the right course?
+
+Every 15 minutes, try to remind yourself and reflect: “What have I just done to make my life better?”
+
 Then, decide, “What should I do next to become a better human?”
 
 One of my critical principles is this 15-minute evaluation of time well spent.
@@ -48,5 +51,3 @@ Uki D. Lucas
 https://www.linkedin.com/in/ukidlucas/
 https://x.com/ukidlucas
 http://www.UkiDLucas.com/
-
-Books I have recently read.

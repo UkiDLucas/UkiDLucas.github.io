@@ -1,7 +1,7 @@
 ---
 slug: human-adaptability
 published: 2025-04-23
-last_updated: 2025-04-23
+last_updated: 2026-11-13
 layout: paper
 title: "Human Adaptability"
 date: 2025-04-23
@@ -20,14 +20,11 @@ Looking forward, our adaptability as humans remains one of our greatest strength
 
 Rather than viewing AI as a threat, humans must find new ways to be useful by collaborating with AI systems. In this partnership, humans can leverage creativity, empathy, and strategic vision to complement AI's computational strengths.
 
-In short, as we transition into an AI-driven future, remaining adaptable and finding ways to meaningfully collaborate with AI will define our continued relevance and prosperity.
+As we transition into an AI-driven future, remaining adaptable and finding ways to meaningfully collaborate with AI will define our continued relevance and prosperity.
 
-Please comment on how you see future communities in the age of AI?
+Please comment: how do you see future communities in the age of AI?
 
 Respectfully,
 
 Uki D. Lucas
 https://x.com/ukidlucas
-
-I am preparing to cancel the subscription to the e-mail newsletter that sends my articles.
-Please subscribe to x.com (Twitter) above to get updates from me.

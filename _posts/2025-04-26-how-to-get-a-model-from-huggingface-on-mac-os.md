@@ -1,29 +1,27 @@
 ---
 slug: how-to-get-a-model-from-huggingface-on-mac-os
 published: 2025-04-26
-last_updated: 2025-04-26
+last_updated: 2026-11-13
 layout: paper
 title: "How to get a model from HuggingFace on Mac OS"
 date: 2025-04-26
 author: Uki D. Lucas
-overview: "Why? Git needs to know how to handle large files (like model weights) separately from normal, small text files. This post provides clear context, key ideas, and practical takeaways."
+overview: "This guide documents the steps needed to download HuggingFace models (especially MLX models) correctly on Mac OS."
 permalink: "/posts/how-to-get-a-model-from-huggingface-on-mac-os/"
 redirect_from:
   - /AI/how-to-get-a-model-from-huggingface-on-mac-os/
 ---
 
-How to get a model from HuggingFace on Mac OS
-
 This guide documents the steps needed to download HuggingFace models (especially MLX models) correctly on Mac OS.
 
-1. Install Required Tools
+## Install the required tools
 
 ```bash
 pip install huggingface_hub hf_transfer
 brew install git-lfs
 ```
 
-2. Enable Accelerated Downloads
+## Enable accelerated downloads
 
 ```bash
 export HF_HUB_ENABLE_HF_TRANSFER=1
@@ -31,7 +29,7 @@ export HF_HUB_ENABLE_HF_TRANSFER=1
 
 This makes HuggingFace downloads much faster using parallel connections.
 
-3. Set up your Local Model Storage
+## Set up your local model storage
 
 Create a clean folder structure for storing MLX models:
 
@@ -49,7 +47,7 @@ Example structure:
 ├── smolvlm-256m/
 ```
 
-4. Initialize Git LFS
+## Initialize Git LFS
 
 After installing `git-lfs`, you must initialize it:
 
@@ -65,7 +63,7 @@ Verify installation:
 git lfs --version
 ```
 
-5. Download and Clone a Model
+## Download and clone a model
 
 Move any old partial downloads if necessary:
 
@@ -91,9 +89,9 @@ Pull the actual large model weights:
 git lfs pull
 ```
 
-✅ This downloads all `.mlx` weights, tokenizer files, configs.
+This downloads all `.mlx` weights, tokenizer files, and configs.
 
-6. Example of Final Model Path
+## Example of the final model path
 
 After successful download:
 
@@ -108,14 +106,14 @@ After successful download:
 └── ...
 ```
 
-7. Important Tips
+## Important tips
 
 - Avoid folders with spaces (e.g., use `mistral-7b-instruct`, not `Mistral 7B Instruct`).
 - Always use `git lfs pull` after cloning!
 - Store models in `~/Models/MLX/` for clean organization.
 - If cloning fails, move old folders aside first.
 
-8. Related Tools
+## Related tools
 
 - [Git LFS Install Guide](https://git-lfs.github.com/)
 - [Huggingface Hub CLI Docs](https://huggingface.co/docs/huggingface_hub/package_reference/cli)
@@ -124,6 +122,3 @@ Respectfully,
 
 Uki D. Lucas
 https://x.com/ukidlucas
-
-I am preparing to cancel the subscription to the e-mail newsletter that sends my articles.
-Please subscribe to x.com (Twitter) above to get updates from me.
