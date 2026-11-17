@@ -20,6 +20,11 @@
       {% endif %}
       <li><a href="{{ substack_href }}"><i class="fas fa-fw fa-newspaper" aria-hidden="true"></i> Substack</a></li>
     {% endif %}
+    {% if site.author.youtube %}
+      <li><a href="https://www.youtube.com/@{{ site.author.youtube }}/podcasts"><i class="fas fa-fw fa-podcast" aria-hidden="true"></i> Podcasts</a></li>
+      <li><a href="https://www.youtube.com/@{{ site.author.youtube }}/videos"><i class="fab fa-fw fa-youtube" aria-hidden="true"></i> Videos</a></li>
+      <li><a href="https://www.youtube.com/@{{ site.author.youtube }}/playlists"><i class="fas fa-fw fa-list" aria-hidden="true"></i> Playlists</a></li>
+    {% endif %}
     {% if site.atom_feed.hide != true %}
     <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endif %}
