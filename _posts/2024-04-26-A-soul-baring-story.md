@@ -1,6 +1,6 @@
 ---
 layout: paper
-title: "A Soul-Barring Story"
+title: "A Soul-Baring Story"
 date: 2024-04-26
 author: Uki D. Lucas
 permalink: "/posts/soul-baring-story/"
