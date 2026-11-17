@@ -143,3 +143,13 @@ The skeleton of the ETHOS file:
 ## Telos: what it lives and strives for
 ## Nomos: the rules it never breaks
 ```
+
+## Listen to this article
+
+The podcast version, the first episode of AI Harness Engineering Podcast.
+
+<div style="position:relative;width:100%;padding-bottom:56.25%;height:0;overflow:hidden;">
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0;" src="https://www.youtube-nocookie.com/embed/y12tih27wPw" title="My AI Agent Harness: They Were Born with Soul; Now They Need Their Ethos (podcast)" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+[Watch on YouTube](https://youtu.be/y12tih27wPw)
